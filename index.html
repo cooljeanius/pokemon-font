@@ -1,338 +1,764 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>pokemon-font 1.5.0</title>
-    <link href="css/pokemon-font.css" rel="stylesheet">
-    <style>
-      html {
-        font-family: 'pokemon-font', monospace;
-        font-size: 12px;
-        line-height: 2em;
-        background: #7A8718;
-        color: #4D5607;
-        -webkit-font-smoothing: none;
-        font-weight: normal;
-      }
-      body {
-        width: 500px;
-        margin: 0 auto;
-        background: #A7B72D;
-        padding: 30px;
-      }
-      h1, h2, h3, h4, h5, h6 {
-        font-size: 16px;
-        color: #242803;
-        line-height: 1.5em;
-        margin-top: 2em;
-        -webkit-font-smoothing: none;
-        font-weight: normal;
-      }
-      h1 {
-        margin-top: 0;
-        font-size: 32px;
-      }
-      table {
-        border-right: 1px solid #4D5607;
-        border-bottom: 1px solid #4D5607;
-        border-collapse: collapse;
-        text-align: center;
-      }
-      th, td {
-        border-top: 1px solid #4D5607;
-        border-left: 1px solid #4D5607;
-        padding: 4px;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>pokemon-font 1.5.0</h1>
-    <h2>Original GAME BOY Pokemon font, unicode extended.</h2>
+
+<head>
+  <meta charset="utf-8">
+  <title>pokemon-font 1.6.0</title>
+  <link href="css/pokemon-font.css" rel="stylesheet">
+  <style>
+    html {
+      font-family: 'pokemon-font', monospace;
+      font-size: 8px;
+      line-height: 2em;
+      background: #7A8718;
+      color: #4D5607;
+      font-weight: normal;
+    }
+
+    body {
+      width: 500px;
+      margin: 0 auto;
+      background: #A7B72D;
+      padding: 30px;
+    }
+
+    a {
+      color: #242803;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: #242803;
+      font-weight: normal;
+      margin-top: 2em;
+    }
+
+    h1 {
+      margin-top: 0;
+    }
+
+    table {
+      border-right: 1px solid #4D5607;
+      border-bottom: 1px solid #4D5607;
+      border-collapse: collapse;
+      text-align: center;
+      width: 100%;
+    }
+
+    th,
+    td {
+      border-top: 1px solid #4D5607;
+      border-left: 1px solid #4D5607;
+      padding: 4px;
+    }
+
+    code {
+      font-size: 8px;
+      background: #bcce34;
+      padding: 0px 4px;
+      font-family: monospace;
+      display: inline-block;
+      border-radius: 3px;
+    }
+
+    blockquote {
+      font-size: 8px;
+      line-height: 20px;
+      background: #bcce34;
+      padding: 1px 20px;
+      margin: 0;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1 id="pokemon-font-1-5-0">pokemon-font 1.6.0</h1>
+  <p>Github: <a href="https://github.com/PascalPixel/pokemon-font">https://github.com/PascalPixel/pokemon-font</a></p>
+  <h2 id="what-is-it">What is it</h2>
+  <p>This font is an extended clone of the original font shipped with Pokemon Red, Green, Blue and Yellow for the <i>GAME BOY</i> in the 90's. It was made into a proper font because it was needed for <a href="https://github.com/Superpencil/Pokemon-Mini">Pokemon-Mini</a>.</p>
+  <h2 id="live-preview">Live Preview</h2>
+  <p>Preview of webfonts available here: <a href="http://pascalpixel.com/pokemon-font/">http://pascalpixel.com/pokemon-font/</a>. This Readme file contains images of the glyphs to substitute for not having webfonts on Github.</p>
+  <h2 id="features">Features</h2>
+  <h3 id="latin">Latin</h3>
+  <p>The latin character set has been extended to support the first three Unicode blocks, Basic Latin, Latin-1 Supplement and Latin Extended-A. This covers most West European languages. Some of the original glyphs have been changed for harmony with the added new glyphs.</p>
+  <h4 id="ligatures">Ligatures</h4>
+  <h5>PKMN</h5>
+  <p>There is a ligature to get the original <sup>P</sup><sub>K</sub><sup>M</sup><sub>N</sub> glyph, plainly write this string: <code>PKMN</code> in capitals without spaces and it will be replaced with PKMN.</p>
+  <h5>'d 'l 'm 'r 's 'v 't</h5>
+  <p>There are also the original games' ligatures for <code>'d</code>, <code>'l</code>, <code>'m</code>, <code>'r</code>, <code>'s</code>, <code>'v</code> and <code>'t</code>. Sadly, <code>'n</code> isn't supported, so you can't write cap'n.</p>
+  <h4 id="added-glyphs">Added Glyphs</h4>
+  <p>A ton, to support the aforementioned Unicode blocks.</p>
+  <h3 id="punctuation-mathematical">Punctuation &amp; Mathematical</h3>
+  <p>For all my nerdy trainers out there, these characters are extended as well to support common programming languages. So go ahead and load this up in your favorite editor.</p>
+  <h4 id="missingno">MissingNo</h4>
+  <p>If the font doesn't support a certain character, � is displayed, in this font that is a MissingNo, because a tiny MissingNo is sugoi kawaii.</p>
+  <h4 id="added-glyphs-2">Added Glyphs</h4>
+  <p>$, @, \ and weird stuff like ~ ` ^.</p>
+  <h3 id="unown">Unown</h3>
+  <p>To type Unown, you must use one of the formats that supports ligatures. These little living glyphs might attack though. So be ready.</p>
+  <h4 id="ligatures-2">Ligatures</h4>
+  <p>To write in Unown, prepend each basic A-z alphabet character with the word <code>unown</code>. If you write <code>unowna</code> and <code>unownz</code> the <code>a</code> and <code>z</code> Unown will be shown.</p>
+  <blockquote>
     <p>
-      Preview of webfonts available here:
+      unownyunownounownu unowncunownaunownuunowngunownhunownt unownaunownlunownl unowntunownhunowne unownuunownnunownounownwunownn unownvunownaunownrunowniunownaunowntunowniunownounownnunowns?
       <br>
-      <a href="http://pascalpixel.com/pokemon-font/">http://pascalpixel.com/pokemon-font/</a>
+      unowntunownhunownaunownt unowniunowns unowna unowngunownrunowneunownaunownt unownaunowncunownhunowniunowneunownvunowneunownmunowneunownnunownt!
     </p>
-    <h3>Latin</h3>
-    <p>
-      The latin character set has been extended to support the full range of
-    </p>
-    <h3>
-      Punctuation & Mathmatical
-    </h3>
-    <p>
-      For all my nerdy trainers out there, these characters are extended as well to support common programming languages. So go ahead and load this up in your favorite editor.
-    </p>
-    <p>
-      If the font doesn’t support a certain character, �, <code>.notdef</code>, aka ‘tofu’ is displayed. In this font that character is a MissingNo, because it’s sugoi kawaii.
-    </p>
-    <h3>Unown</h3>
-    <p>
-      To type Unown, you must use any font other than the <code>.ttf</code> as I have included the Unown as ligatures.
-      <br>
-      If you write an @ symbol in front of a lowercase alphabet letter, it will turn into an Unown.
-      <br>
-      Here’s an example:
-      <blockquote>
-        @y@o@u @c@a@u@g@h@t @a@l@l @t@h@e @u@n@o@w@n @v@a@r@i@a@t@i@o@n@s? @t@h@a@t @i@s @a @g@r@e@a@t @a@c@h@i@e@v@e@m@e@n@t!
-      </blockquote>
-    </p>
-    <h3>Japanese</h3>
-    <p>
-      I extended support to cover the full Unicode blocks for Hiragana and Katakana, which holds a few obscure characters that aren’t used anymore, but gotta catch 'em all right?
-    </p>
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th>0</th>
-          <th>1</th>
-          <th>2</th>
-          <th>3</th>
-          <th>4</th>
-          <th>5</th>
-          <th>6</th>
-          <th>7</th>
-          <th>8</th>
-          <th>9</th>
-          <th>10</th>
-          <th>11</th>
-          <th>12</th>
-          <th>13</th>
-          <th>14</th>
-          <th>15</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>U+304x</td>
-          <td></td>
-          <td>ぁ</td>
-          <td>あ</td>
-          <td>ぃ</td>
-          <td>い</td>
-          <td>ぅ</td>
-          <td>う</td>
-          <td>ぇ</td>
-          <td>え</td>
-          <td>ぉ</td>
-          <td>お</td>
-          <td>か</td>
-          <td>が</td>
-          <td>き</td>
-          <td>ぎ</td>
-          <td>く</td>
-        </tr>
-        <tr>
-          <td>U+305x</td>
-          <td>ぐ</td>
-          <td>け</td>
-          <td>げ</td>
-          <td>こ</td>
-          <td>ご</td>
-          <td>さ</td>
-          <td>ざ</td>
-          <td>し</td>
-          <td>じ</td>
-          <td>す</td>
-          <td>ず</td>
-          <td>せ</td>
-          <td>ぜ</td>
-          <td>そ</td>
-          <td>ぞ</td>
-          <td>た</td>
-        </tr>
-        <tr>
-          <td>U+306x</td>
-          <td>だ</td>
-          <td>ち</td>
-          <td>ぢ</td>
-          <td>っ</td>
-          <td>つ</td>
-          <td>づ</td>
-          <td>て</td>
-          <td>で</td>
-          <td>と</td>
-          <td>ど</td>
-          <td>な</td>
-          <td>に</td>
-          <td>ぬ</td>
-          <td>ね</td>
-          <td>の</td>
-          <td>は</td>
-        </tr>
-        <tr>
-          <td>U+307x</td>
-          <td>ば</td>
-          <td>ぱ</td>
-          <td>ひ</td>
-          <td>び</td>
-          <td>ぴ</td>
-          <td>ふ</td>
-          <td>ぶ</td>
-          <td>ぷ</td>
-          <td>へ</td>
-          <td>べ</td>
-          <td>ぺ</td>
-          <td>ほ</td>
-          <td>ぼ</td>
-          <td>ぽ</td>
-          <td>ま</td>
-          <td>み</td>
-        </tr>
-        <tr>
-          <td>U+308x</td>
-          <td>む</td>
-          <td>め</td>
-          <td>も</td>
-          <td>ゃ</td>
-          <td>や</td>
-          <td>ゅ</td>
-          <td>ゆ</td>
-          <td>ょ</td>
-          <td>よ</td>
-          <td>ら</td>
-          <td>り</td>
-          <td>る</td>
-          <td>れ</td>
-          <td>ろ</td>
-          <td>ゎ</td>
-          <td>わ</td>
-        </tr>
-        <tr>
-          <td>U+309x</td>
-          <td>ゐ</td>
-          <td>ゑ</td>
-          <td>を</td>
-          <td>ん</td>
-          <td>ゔ</td>
-          <td>ゕ</td>
-          <td>ゖ</td>
-          <td></td>
-          <td></td>
-          <td>゙</td>
-          <td>゚</td>
-          <td>゛</td>
-          <td>゜</td>
-          <td>ゝ</td>
-          <td>ゞ</td>
-          <td>ゟ</td>
-        </tr>
-        <tr>
-          <td>U+30Ax</td>
-          <td>゠</td>
-          <td>ァ</td>
-          <td>ア</td>
-          <td>ィ</td>
-          <td>イ</td>
-          <td>ゥ</td>
-          <td>ウ</td>
-          <td>ェ</td>
-          <td>エ</td>
-          <td>ォ</td>
-          <td>オ</td>
-          <td>カ</td>
-          <td>ガ</td>
-          <td>キ</td>
-          <td>ギ</td>
-          <td>ク</td>
-        </tr>
-        <tr>
-          <td>U+30Bx</td>
-          <td>グ</td>
-          <td>ケ</td>
-          <td>ゲ</td>
-          <td>コ</td>
-          <td>ゴ</td>
-          <td>サ</td>
-          <td>ザ</td>
-          <td>シ</td>
-          <td>ジ</td>
-          <td>ス</td>
-          <td>ズ</td>
-          <td>セ</td>
-          <td>ゼ</td>
-          <td>ソ</td>
-          <td>ゾ</td>
-          <td>タ</td>
-        </tr>
-        <tr>
-          <td>U+30Cx</td>
-          <td>ダ</td>
-          <td>チ</td>
-          <td>ヂ</td>
-          <td>ッ</td>
-          <td>ツ</td>
-          <td>ヅ</td>
-          <td>テ</td>
-          <td>デ</td>
-          <td>ト</td>
-          <td>ド</td>
-          <td>ナ</td>
-          <td>ニ</td>
-          <td>ヌ</td>
-          <td>ネ</td>
-          <td>ノ</td>
-          <td>ハ</td>
-        </tr>
-        <tr>
-          <td>U+30Dx</td>
-          <td>バ</td>
-          <td>パ</td>
-          <td>ヒ</td>
-          <td>ビ</td>
-          <td>ピ</td>
-          <td>フ</td>
-          <td>ブ</td>
-          <td>プ</td>
-          <td>ヘ</td>
-          <td>ベ</td>
-          <td>ペ</td>
-          <td>ホ</td>
-          <td>ボ</td>
-          <td>ポ</td>
-          <td>マ</td>
-          <td>ミ</td>
-        </tr>
-        <tr>
-          <td>U+30Ex</td>
-          <td>ム</td>
-          <td>メ</td>
-          <td>モ</td>
-          <td>ャ</td>
-          <td>ヤ</td>
-          <td>ュ</td>
-          <td>ユ</td>
-          <td>ョ</td>
-          <td>ヨ</td>
-          <td>ラ</td>
-          <td>リ</td>
-          <td>ル</td>
-          <td>レ</td>
-          <td>ロ</td>
-          <td>ヮ</td>
-          <td>ワ</td>
-        </tr>
-        <tr>
-          <td>U+30Fx</td>
-          <td>ヰ</td>
-          <td>ヱ</td>
-          <td>ヲ</td>
-          <td>ン</td>
-          <td>ヴ</td>
-          <td>ヵ</td>
-          <td>ヶ</td>
-          <td>ヷ</td>
-          <td>ヸ</td>
-          <td>ヹ</td>
-          <td>ヺ</td>
-          <td>・</td>
-          <td>ー</td>
-          <td>ヽ</td>
-          <td>ヾ</td>
-          <td>ヿ</td>
-        </tr>
-      </tbody>
-    </table>
-  </body>
+  </blockquote>
+  <h3 id="japanese">Japanese</h3>
+  <p>I extended support to cover the full Unicode blocks for Hiragana and Katakana, which holds a few obscure characters that aren't used anymore, but gotta catch 'em all right?</p>
+  <h2 id="what-i-learned">What I learned</h2>
+  <p>While making this font I learned how to create SVG shapes with raw code, how modern fonts are encoded, how to convert between font formats, how to deal with size, kerning, ligatures, etc. This is also the first time I'm publishing a package to <code>npm</code>    and <code>bower</code>.</p>
+  <p>Contact me on Twitter or Github: <a href="http://twitter.com/pascalpixel">@PascalPixel</a>. I'm very happy to have contributions/PR's to this repository!</p>
+  <p>I used <a href="https://glyphsapp.com">Glyphs App</a> in the end to manage the <code>.ufo</code> master 'file'/folder.</p>
+  <h2 id="supported-characters">Supported Characters</h2>
+  <p>Here's the full table of characters that are supported in the font right now.</p>
+  <h3 id="basic-latin">Basic Latin</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>U+</th>
+        <th>0</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>4</th>
+        <th>5</th>
+        <th>6</th>
+        <th>7</th>
+        <th>8</th>
+        <th>9</th>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+        <th>D</th>
+        <th>E</th>
+        <th>F</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>002x</td>
+        <td></td>
+        <td>!</td>
+        <td>&quot;</td>
+        <td>#</td>
+        <td>$</td>
+        <td>%</td>
+        <td>&amp;</td>
+        <td>'</td>
+        <td>(</td>
+        <td>)</td>
+        <td>*</td>
+        <td>+</td>
+        <td>,</td>
+        <td>-</td>
+        <td>.</td>
+        <td>/</td>
+      </tr>
+      <tr>
+        <td>003x</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td>8</td>
+        <td>9</td>
+        <td>:</td>
+        <td>;</td>
+        <td>&lt;</td>
+        <td>=</td>
+        <td>&gt;</td>
+        <td>?</td>
+      </tr>
+      <tr>
+        <td>004x</td>
+        <td>@</td>
+        <td>A</td>
+        <td>B</td>
+        <td>C</td>
+        <td>D</td>
+        <td>E</td>
+        <td>F</td>
+        <td>G</td>
+        <td>H</td>
+        <td>I</td>
+        <td>J</td>
+        <td>K</td>
+        <td>L</td>
+        <td>M</td>
+        <td>N</td>
+        <td>O</td>
+      </tr>
+      <tr>
+        <td>005x</td>
+        <td>P</td>
+        <td>Q</td>
+        <td>R</td>
+        <td>S</td>
+        <td>T</td>
+        <td>U</td>
+        <td>V</td>
+        <td>W</td>
+        <td>X</td>
+        <td>Y</td>
+        <td>Z</td>
+        <td>[</td>
+        <td>\</td>
+        <td>]</td>
+        <td>^</td>
+        <td>_</td>
+      </tr>
+      <tr>
+        <td>006x</td>
+        <td>`</td>
+        <td>a</td>
+        <td>b</td>
+        <td>c</td>
+        <td>d</td>
+        <td>e</td>
+        <td>f</td>
+        <td>g</td>
+        <td>h</td>
+        <td>i</td>
+        <td>j</td>
+        <td>k</td>
+        <td>l</td>
+        <td>m</td>
+        <td>n</td>
+        <td>o</td>
+      </tr>
+      <tr>
+        <td>007x</td>
+        <td>p</td>
+        <td>q</td>
+        <td>r</td>
+        <td>s</td>
+        <td>t</td>
+        <td>u</td>
+        <td>v</td>
+        <td>w</td>
+        <td>x</td>
+        <td>y</td>
+        <td>z</td>
+        <td>{</td>
+        <td>&#124;</td>
+        <td>}</td>
+        <td>~</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="latin-1-supplement">Latin-1 Supplement</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>U+</th>
+        <th>0</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>4</th>
+        <th>5</th>
+        <th>6</th>
+        <th>7</th>
+        <th>8</th>
+        <th>9</th>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+        <th>D</th>
+        <th>E</th>
+        <th>F</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>00Ax</td>
+        <td></td>
+        <td>¡</td>
+        <td>¢</td>
+        <td>£</td>
+        <td>¤</td>
+        <td>¥</td>
+        <td>¦</td>
+        <td>§</td>
+        <td>¨</td>
+        <td>©</td>
+        <td>ª</td>
+        <td>«</td>
+        <td>¬</td>
+        <td></td>
+        <td>®</td>
+        <td>¯</td>
+      </tr>
+      <tr>
+        <td>00Bx</td>
+        <td>°</td>
+        <td>±</td>
+        <td>²</td>
+        <td>³</td>
+        <td>´</td>
+        <td>µ</td>
+        <td>¶</td>
+        <td>·</td>
+        <td>¸</td>
+        <td>¹</td>
+        <td>º</td>
+        <td>»</td>
+        <td>¼</td>
+        <td>½</td>
+        <td>¾</td>
+        <td>¿</td>
+      </tr>
+      <tr>
+        <td>00Cx</td>
+        <td>À</td>
+        <td>Á</td>
+        <td>Â</td>
+        <td>Ã</td>
+        <td>Ä</td>
+        <td>Å</td>
+        <td>Æ</td>
+        <td>Ç</td>
+        <td>È</td>
+        <td>É</td>
+        <td>Ê</td>
+        <td>Ë</td>
+        <td>Ì</td>
+        <td>Í</td>
+        <td>Î</td>
+        <td>Ï</td>
+      </tr>
+      <tr>
+        <td>00Dx</td>
+        <td>Ð</td>
+        <td>Ñ</td>
+        <td>Ò</td>
+        <td>Ó</td>
+        <td>Ô</td>
+        <td>Õ</td>
+        <td>Ö</td>
+        <td>×</td>
+        <td>Ø</td>
+        <td>Ù</td>
+        <td>Ú</td>
+        <td>Û</td>
+        <td>Ü</td>
+        <td>Ý</td>
+        <td>Þ</td>
+        <td>ß</td>
+      </tr>
+      <tr>
+        <td>00Ex</td>
+        <td>à</td>
+        <td>á</td>
+        <td>â</td>
+        <td>ã</td>
+        <td>ä</td>
+        <td>å</td>
+        <td>æ</td>
+        <td>ç</td>
+        <td>è</td>
+        <td>é</td>
+        <td>ê</td>
+        <td>ë</td>
+        <td>ì</td>
+        <td>í</td>
+        <td>î</td>
+        <td>ï</td>
+      </tr>
+      <tr>
+        <td>00Fx</td>
+        <td>ð</td>
+        <td>ñ</td>
+        <td>ò</td>
+        <td>ó</td>
+        <td>ô</td>
+        <td>õ</td>
+        <td>ö</td>
+        <td>÷</td>
+        <td>ø</td>
+        <td>ù</td>
+        <td>ú</td>
+        <td>û</td>
+        <td>ü</td>
+        <td>ý</td>
+        <td>þ</td>
+        <td>ÿ</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="hiragana">Hiragana</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>U+</th>
+        <th>0</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>4</th>
+        <th>5</th>
+        <th>6</th>
+        <th>7</th>
+        <th>8</th>
+        <th>9</th>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+        <th>D</th>
+        <th>E</th>
+        <th>F</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>304x</td>
+        <td>　</td>
+        <td>ぁ</td>
+        <td>あ</td>
+        <td>ぃ</td>
+        <td>い</td>
+        <td>ぅ</td>
+        <td>う</td>
+        <td>ぇ</td>
+        <td>え</td>
+        <td>ぉ</td>
+        <td>お</td>
+        <td>か</td>
+        <td>が</td>
+        <td>き</td>
+        <td>ぎ</td>
+        <td>く</td>
+      </tr>
+      <tr>
+        <td>305x</td>
+        <td>ぐ</td>
+        <td>け</td>
+        <td>げ</td>
+        <td>こ</td>
+        <td>ご</td>
+        <td>さ</td>
+        <td>ざ</td>
+        <td>し</td>
+        <td>じ</td>
+        <td>す</td>
+        <td>ず</td>
+        <td>せ</td>
+        <td>ぜ</td>
+        <td>そ</td>
+        <td>ぞ</td>
+        <td>た</td>
+      </tr>
+      <tr>
+        <td>306x</td>
+        <td>だ</td>
+        <td>ち</td>
+        <td>ぢ</td>
+        <td>っ</td>
+        <td>つ</td>
+        <td>づ</td>
+        <td>て</td>
+        <td>で</td>
+        <td>と</td>
+        <td>ど</td>
+        <td>な</td>
+        <td>に</td>
+        <td>ぬ</td>
+        <td>ね</td>
+        <td>の</td>
+        <td>は</td>
+      </tr>
+      <tr>
+        <td>307x</td>
+        <td>ば</td>
+        <td>ぱ</td>
+        <td>ひ</td>
+        <td>び</td>
+        <td>ぴ</td>
+        <td>ふ</td>
+        <td>ぶ</td>
+        <td>ぷ</td>
+        <td>へ</td>
+        <td>べ</td>
+        <td>ぺ</td>
+        <td>ほ</td>
+        <td>ぼ</td>
+        <td>ぽ</td>
+        <td>ま</td>
+        <td>み</td>
+      </tr>
+      <tr>
+        <td>308x</td>
+        <td>む</td>
+        <td>め</td>
+        <td>も</td>
+        <td>ゃ</td>
+        <td>や</td>
+        <td>ゅ</td>
+        <td>ゆ</td>
+        <td>ょ</td>
+        <td>よ</td>
+        <td>ら</td>
+        <td>り</td>
+        <td>る</td>
+        <td>れ</td>
+        <td>ろ</td>
+        <td>ゎ</td>
+        <td>わ</td>
+      </tr>
+      <tr>
+        <td>309x</td>
+        <td>ゐ</td>
+        <td>ゑ</td>
+        <td>を</td>
+        <td>ん</td>
+        <td>ゔ</td>
+        <td>ゕ</td>
+        <td>ゖ</td>
+        <td>　</td>
+        <td>　</td>
+        <td>゙　</td>
+        <td>゚　</td>
+        <td>゛</td>
+        <td>゜</td>
+        <td>ゝ</td>
+        <td>ゞ</td>
+        <td>ゟ</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="katakana">Katakana</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>U+</th>
+        <th>0</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>4</th>
+        <th>5</th>
+        <th>6</th>
+        <th>7</th>
+        <th>8</th>
+        <th>9</th>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+        <th>D</th>
+        <th>E</th>
+        <th>F</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>30Ax</td>
+        <td>゠</td>
+        <td>ァ</td>
+        <td>ア</td>
+        <td>ィ</td>
+        <td>イ</td>
+        <td>ゥ</td>
+        <td>ウ</td>
+        <td>ェ</td>
+        <td>エ</td>
+        <td>ォ</td>
+        <td>オ</td>
+        <td>カ</td>
+        <td>ガ</td>
+        <td>キ</td>
+        <td>ギ</td>
+        <td>ク</td>
+      </tr>
+      <tr>
+        <td>30Bx</td>
+        <td>グ</td>
+        <td>ケ</td>
+        <td>ゲ</td>
+        <td>コ</td>
+        <td>ゴ</td>
+        <td>サ</td>
+        <td>ザ</td>
+        <td>シ</td>
+        <td>ジ</td>
+        <td>ス</td>
+        <td>ズ</td>
+        <td>セ</td>
+        <td>ゼ</td>
+        <td>ソ</td>
+        <td>ゾ</td>
+        <td>タ</td>
+      </tr>
+      <tr>
+        <td>30Cx</td>
+        <td>ダ</td>
+        <td>チ</td>
+        <td>ヂ</td>
+        <td>ッ</td>
+        <td>ツ</td>
+        <td>ヅ</td>
+        <td>テ</td>
+        <td>デ</td>
+        <td>ト</td>
+        <td>ド</td>
+        <td>ナ</td>
+        <td>ニ</td>
+        <td>ヌ</td>
+        <td>ネ</td>
+        <td>ノ</td>
+        <td>ハ</td>
+      </tr>
+      <tr>
+        <td>30Dx</td>
+        <td>バ</td>
+        <td>パ</td>
+        <td>ヒ</td>
+        <td>ビ</td>
+        <td>ピ</td>
+        <td>フ</td>
+        <td>ブ</td>
+        <td>プ</td>
+        <td>ヘ</td>
+        <td>ベ</td>
+        <td>ペ</td>
+        <td>ホ</td>
+        <td>ボ</td>
+        <td>ポ</td>
+        <td>マ</td>
+        <td>ミ</td>
+      </tr>
+      <tr>
+        <td>30Ex</td>
+        <td>ム</td>
+        <td>メ</td>
+        <td>モ</td>
+        <td>ャ</td>
+        <td>ヤ</td>
+        <td>ュ</td>
+        <td>ユ</td>
+        <td>ョ</td>
+        <td>ヨ</td>
+        <td>ラ</td>
+        <td>リ</td>
+        <td>ル</td>
+        <td>レ</td>
+        <td>ロ</td>
+        <td>ヮ</td>
+        <td>ワ</td>
+      </tr>
+      <tr>
+        <td>30Fx</td>
+        <td>ヰ</td>
+        <td>ヱ</td>
+        <td>ヲ</td>
+        <td>ン</td>
+        <td>ヴ</td>
+        <td>ヵ</td>
+        <td>ヶ</td>
+        <td>ヷ</td>
+        <td>ヸ</td>
+        <td>ヹ</td>
+        <td>ヺ</td>
+        <td>・</td>
+        <td>ー</td>
+        <td>ヽ</td>
+        <td>ヾ</td>
+        <td>ヿ</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="unown2">Unown</h3>
+  <p>The following are ligatures that work like so:</p>
+  <ul>
+    <li><code>unowna</code> &gt; unowna</li>
+    <li><code>unownb</code> &gt; unownb</li>
+    <li><code>unownc</code> &gt; unownc</li>
+  </ul>
+  <table>
+    <thead>
+      <tr>
+        <th>U+</th>
+        <th>0</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>4</th>
+        <th>5</th>
+        <th>6</th>
+        <th>7</th>
+        <th>8</th>
+        <th>9</th>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+        <th>D</th>
+        <th>E</th>
+        <th>F</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>006x</td>
+        <td></td>
+        <td>unowna</td>
+        <td>unownb</td>
+        <td>unownc</td>
+        <td>unownd</td>
+        <td>unowne</td>
+        <td>unownf</td>
+        <td>unowng</td>
+        <td>unownh</td>
+        <td>unowni</td>
+        <td>unownj</td>
+        <td>unownk</td>
+        <td>unownl</td>
+        <td>unownm</td>
+        <td>unownn</td>
+        <td>unowno</td>
+      </tr>
+      <tr>
+        <td>007x</td>
+        <td>unownp</td>
+        <td>unownq</td>
+        <td>unownr</td>
+        <td>unowns</td>
+        <td>unownt</td>
+        <td>unownu</td>
+        <td>unownv</td>
+        <td>unownw</td>
+        <td>unownx</td>
+        <td>unowny</td>
+        <td>unownz</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="extras">Extras</h3>
+  <ul>
+    <li><code>PKMN</code> &gt; PKMN</li>
+    <li><code>&#39;d</code> &gt; &#39;d</li>
+    <li><code>&#39;l</code> &gt; &#39;l</li>
+    <li><code>&#39;m</code> &gt; &#39;m</li>
+    <li><code>&#39;r</code> &gt; &#39;r</li>
+    <li><code>&#39;s</code> &gt; &#39;s</li>
+    <li><code>&#39;v</code> &gt; &#39;v</li>
+    <li><code>&#39;t</code> &gt; &#39;t</li>
+  </ul>
+</body>
+
 </html>
