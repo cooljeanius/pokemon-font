@@ -1,0 +1,51 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature ordn;
+} aalt;
+
+feature ordn {
+# automatic
+sub N o period by numero;
+} ordn;
+
+feature dlig {
+sub P K M N by P_K_M_N;
+sub quotesingle d by quotesingle_d;
+sub quotesingle l by quotesingle_l;
+sub quotesingle m by quotesingle_m;
+sub quotesingle r by quotesingle_r;
+sub quotesingle s by quotesingle_s;
+sub quotesingle t by quotesingle_t;
+sub quotesingle v by quotesingle_v;
+sub at a by unown_a;
+sub at b by unown_b;
+sub at c by unown_c;
+sub at d by unown_d;
+sub at e by unown_e;
+sub at f by unown_f;
+sub at g by unown_g;
+sub at h by unown_h;
+sub at i by unown_i;
+sub at j by unown_j;
+sub at k by unown_k;
+sub at l by unown_l;
+sub at m by unown_m;
+sub at n by unown_n;
+sub at o by unown_o;
+sub at p by unown_p;
+sub at q by unown_q;
+sub at r by unown_r;
+sub at s by unown_s;
+sub at t by unown_t;
+sub at u by unown_u;
+sub at v by unown_v;
+sub at w by unown_w;
+sub at x by unown_x;
+sub at y by unown_y;
+sub at z by unown_z;
+} dlig;
+

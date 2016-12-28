@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yosmall-kata" format="1">
+  <advance width="80"/>
+  <unicode hex="30E7"/>
+  <note>
+    p
+  </note>
+  <outline>
+    <contour>
+      <point x="40" y="-10" type="line"/>
+      <point x="40" y="40" type="line"/>
+      <point x="0" y="40" type="line"/>
+      <point x="0" y="30" type="line"/>
+      <point x="30" y="30" type="line"/>
+      <point x="30" y="20" type="line"/>
+      <point x="0" y="20" type="line"/>
+      <point x="0" y="10" type="line"/>
+      <point x="30" y="10" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="-10" type="line"/>
+    </contour>
+  </outline>
+</glyph>
