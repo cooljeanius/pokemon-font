@@ -86,8 +86,8 @@
 	<string>O_tilde.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
-	<key>P_K_M_N</key>
-	<string>P__K__M__N_.glif</string>
+	<key>P_K_M_N.liga</key>
+	<string>P__K__M__N_.liga.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
 	<key>R</key>
@@ -192,8 +192,6 @@
 	<string>bracketright.glif</string>
 	<key>brevecomb</key>
 	<string>brevecomb.glif</string>
-	<key>brevecomb-cy</key>
-	<string>brevecomb-cy.glif</string>
 	<key>bu-hira</key>
 	<string>bu-hira.glif</string>
 	<key>bu-kata</key>
@@ -532,20 +530,20 @@
 	<string>quotedbl.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
-	<key>quotesingle_d</key>
-	<string>quotesingle_d.glif</string>
-	<key>quotesingle_l</key>
-	<string>quotesingle_l.glif</string>
-	<key>quotesingle_m</key>
-	<string>quotesingle_m.glif</string>
-	<key>quotesingle_r</key>
-	<string>quotesingle_r.glif</string>
-	<key>quotesingle_s</key>
-	<string>quotesingle_s.glif</string>
-	<key>quotesingle_t</key>
-	<string>quotesingle_t.glif</string>
-	<key>quotesingle_v</key>
-	<string>quotesingle_v.glif</string>
+	<key>quotesingle_d.liga</key>
+	<string>quotesingle_d.liga.glif</string>
+	<key>quotesingle_l.liga</key>
+	<string>quotesingle_l.liga.glif</string>
+	<key>quotesingle_m.liga</key>
+	<string>quotesingle_m.liga.glif</string>
+	<key>quotesingle_r.liga</key>
+	<string>quotesingle_r.liga.glif</string>
+	<key>quotesingle_s.liga</key>
+	<string>quotesingle_s.liga.glif</string>
+	<key>quotesingle_t.liga</key>
+	<string>quotesingle_t.liga.glif</string>
+	<key>quotesingle_v.liga</key>
+	<string>quotesingle_v.liga.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>ra-hira</key>
@@ -556,6 +554,8 @@
 	<string>re-hira.glif</string>
 	<key>re-kata</key>
 	<string>re-kata.glif</string>
+	<key>replacementCharacter</key>
+	<string>replacementC_haracter.glif</string>
 	<key>ri-hira</key>
 	<string>ri-hira.glif</string>
 	<key>ri-kata</key>
@@ -656,6 +656,58 @@
 	<string>u-hira.glif</string>
 	<key>u-kata</key>
 	<string>u-kata.glif</string>
+	<key>u_n_o_w_n_a.liga</key>
+	<string>u_n_o_w_n_a.liga.glif</string>
+	<key>u_n_o_w_n_b.liga</key>
+	<string>u_n_o_w_n_b.liga.glif</string>
+	<key>u_n_o_w_n_c.liga</key>
+	<string>u_n_o_w_n_c.liga.glif</string>
+	<key>u_n_o_w_n_d.liga</key>
+	<string>u_n_o_w_n_d.liga.glif</string>
+	<key>u_n_o_w_n_e.liga</key>
+	<string>u_n_o_w_n_e.liga.glif</string>
+	<key>u_n_o_w_n_f.liga</key>
+	<string>u_n_o_w_n_f.liga.glif</string>
+	<key>u_n_o_w_n_g.liga</key>
+	<string>u_n_o_w_n_g.liga.glif</string>
+	<key>u_n_o_w_n_h.liga</key>
+	<string>u_n_o_w_n_h.liga.glif</string>
+	<key>u_n_o_w_n_i.liga</key>
+	<string>u_n_o_w_n_i.liga.glif</string>
+	<key>u_n_o_w_n_j.liga</key>
+	<string>u_n_o_w_n_j.liga.glif</string>
+	<key>u_n_o_w_n_k.liga</key>
+	<string>u_n_o_w_n_k.liga.glif</string>
+	<key>u_n_o_w_n_l.liga</key>
+	<string>u_n_o_w_n_l.liga.glif</string>
+	<key>u_n_o_w_n_m.liga</key>
+	<string>u_n_o_w_n_m.liga.glif</string>
+	<key>u_n_o_w_n_n.liga</key>
+	<string>u_n_o_w_n_n.liga.glif</string>
+	<key>u_n_o_w_n_o.liga</key>
+	<string>u_n_o_w_n_o.liga.glif</string>
+	<key>u_n_o_w_n_p.liga</key>
+	<string>u_n_o_w_n_p.liga.glif</string>
+	<key>u_n_o_w_n_q.liga</key>
+	<string>u_n_o_w_n_q.liga.glif</string>
+	<key>u_n_o_w_n_r.liga</key>
+	<string>u_n_o_w_n_r.liga.glif</string>
+	<key>u_n_o_w_n_s.liga</key>
+	<string>u_n_o_w_n_s.liga.glif</string>
+	<key>u_n_o_w_n_t.liga</key>
+	<string>u_n_o_w_n_t.liga.glif</string>
+	<key>u_n_o_w_n_u.liga</key>
+	<string>u_n_o_w_n_u.liga.glif</string>
+	<key>u_n_o_w_n_v.liga</key>
+	<string>u_n_o_w_n_v.liga.glif</string>
+	<key>u_n_o_w_n_w.liga</key>
+	<string>u_n_o_w_n_w.liga.glif</string>
+	<key>u_n_o_w_n_x.liga</key>
+	<string>u_n_o_w_n_x.liga.glif</string>
+	<key>u_n_o_w_n_y.liga</key>
+	<string>u_n_o_w_n_y.liga.glif</string>
+	<key>u_n_o_w_n_z.liga</key>
+	<string>u_n_o_w_n_z.liga.glif</string>
 	<key>uacute</key>
 	<string>uacute.glif</string>
 	<key>ucircumflex</key>
@@ -668,58 +720,6 @@
 	<string>underscore.glif</string>
 	<key>uni5186</key>
 	<string>uni5186.glif</string>
-	<key>unown_a</key>
-	<string>unown_a.glif</string>
-	<key>unown_b</key>
-	<string>unown_b.glif</string>
-	<key>unown_c</key>
-	<string>unown_c.glif</string>
-	<key>unown_d</key>
-	<string>unown_d.glif</string>
-	<key>unown_e</key>
-	<string>unown_e.glif</string>
-	<key>unown_f</key>
-	<string>unown_f.glif</string>
-	<key>unown_g</key>
-	<string>unown_g.glif</string>
-	<key>unown_h</key>
-	<string>unown_h.glif</string>
-	<key>unown_i</key>
-	<string>unown_i.glif</string>
-	<key>unown_j</key>
-	<string>unown_j.glif</string>
-	<key>unown_k</key>
-	<string>unown_k.glif</string>
-	<key>unown_l</key>
-	<string>unown_l.glif</string>
-	<key>unown_m</key>
-	<string>unown_m.glif</string>
-	<key>unown_n</key>
-	<string>unown_n.glif</string>
-	<key>unown_o</key>
-	<string>unown_o.glif</string>
-	<key>unown_p</key>
-	<string>unown_p.glif</string>
-	<key>unown_q</key>
-	<string>unown_q.glif</string>
-	<key>unown_r</key>
-	<string>unown_r.glif</string>
-	<key>unown_s</key>
-	<string>unown_s.glif</string>
-	<key>unown_t</key>
-	<string>unown_t.glif</string>
-	<key>unown_u</key>
-	<string>unown_u.glif</string>
-	<key>unown_v</key>
-	<string>unown_v.glif</string>
-	<key>unown_w</key>
-	<string>unown_w.glif</string>
-	<key>unown_x</key>
-	<string>unown_x.glif</string>
-	<key>unown_y</key>
-	<string>unown_y.glif</string>
-	<key>unown_z</key>
-	<string>unown_z.glif</string>
 	<key>upBlackTriangle</key>
 	<string>upB_lackT_riangle.glif</string>
 	<key>usmall-hira</key>

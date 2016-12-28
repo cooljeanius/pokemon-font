@@ -147,7 +147,33 @@
 		<string>ydieresis</string>
 		<string>ygrave</string>
 		<string>z</string>
-		<string>P_K_M_N</string>
+		<string>P_K_M_N.liga</string>
+		<string>u_n_o_w_n_a.liga</string>
+		<string>u_n_o_w_n_b.liga</string>
+		<string>u_n_o_w_n_c.liga</string>
+		<string>u_n_o_w_n_d.liga</string>
+		<string>u_n_o_w_n_e.liga</string>
+		<string>u_n_o_w_n_f.liga</string>
+		<string>u_n_o_w_n_g.liga</string>
+		<string>u_n_o_w_n_h.liga</string>
+		<string>u_n_o_w_n_i.liga</string>
+		<string>u_n_o_w_n_j.liga</string>
+		<string>u_n_o_w_n_k.liga</string>
+		<string>u_n_o_w_n_l.liga</string>
+		<string>u_n_o_w_n_m.liga</string>
+		<string>u_n_o_w_n_n.liga</string>
+		<string>u_n_o_w_n_o.liga</string>
+		<string>u_n_o_w_n_p.liga</string>
+		<string>u_n_o_w_n_q.liga</string>
+		<string>u_n_o_w_n_r.liga</string>
+		<string>u_n_o_w_n_s.liga</string>
+		<string>u_n_o_w_n_t.liga</string>
+		<string>u_n_o_w_n_u.liga</string>
+		<string>u_n_o_w_n_v.liga</string>
+		<string>u_n_o_w_n_w.liga</string>
+		<string>u_n_o_w_n_x.liga</string>
+		<string>u_n_o_w_n_y.liga</string>
+		<string>u_n_o_w_n_z.liga</string>
 		<string>uni5186</string>
 		<string>a-hira</string>
 		<string>asmall-hira</string>
@@ -359,13 +385,13 @@
 		<string>hyphen</string>
 		<string>dot-kata</string>
 		<string>dblhyphen-kana</string>
-		<string>quotesingle_d</string>
-		<string>quotesingle_l</string>
-		<string>quotesingle_m</string>
-		<string>quotesingle_r</string>
-		<string>quotesingle_s</string>
-		<string>quotesingle_t</string>
-		<string>quotesingle_v</string>
+		<string>quotesingle_d.liga</string>
+		<string>quotesingle_l.liga</string>
+		<string>quotesingle_m.liga</string>
+		<string>quotesingle_r.liga</string>
+		<string>quotesingle_s.liga</string>
+		<string>quotesingle_t.liga</string>
+		<string>quotesingle_v.liga</string>
 		<string>space</string>
 		<string>.notdef</string>
 		<string>dollar</string>
@@ -383,6 +409,7 @@
 		<string>ampersand</string>
 		<string>degree</string>
 		<string>numero</string>
+		<string>replacementCharacter</string>
 		<string>dieresiscomb</string>
 		<string>dotaccentcomb</string>
 		<string>gravecomb</string>
@@ -410,33 +437,6 @@
 		<string>voicediteration-kata</string>
 		<string>voiced-kana</string>
 		<string>semivoiced-kana</string>
-		<string>brevecomb-cy</string>
-		<string>unown_a</string>
-		<string>unown_b</string>
-		<string>unown_c</string>
-		<string>unown_d</string>
-		<string>unown_e</string>
-		<string>unown_f</string>
-		<string>unown_g</string>
-		<string>unown_h</string>
-		<string>unown_i</string>
-		<string>unown_j</string>
-		<string>unown_k</string>
-		<string>unown_l</string>
-		<string>unown_m</string>
-		<string>unown_n</string>
-		<string>unown_o</string>
-		<string>unown_p</string>
-		<string>unown_q</string>
-		<string>unown_r</string>
-		<string>unown_s</string>
-		<string>unown_t</string>
-		<string>unown_u</string>
-		<string>unown_v</string>
-		<string>unown_w</string>
-		<string>unown_x</string>
-		<string>unown_y</string>
-		<string>unown_z</string>
 	</array>
 </dict>
 </plist>
