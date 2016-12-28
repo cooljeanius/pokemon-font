@@ -1,6 +1,6 @@
 {
   "name": "pokemon-font",
-  "description": "Original GAME BOY Pokemon font, unicode extended.",
+  "description": "GAME BOY font from Pokémon R/G/B/Y/G/S/C, Unicode extended.",
   "version": "1.6.0",
   "style": "css/pokemon-font.css",
   "keywords": [
