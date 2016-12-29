@@ -1,4 +1,4 @@
-# pokemon-font v1.6.1
+# pokemon-font v1.7.0
 Github: [https://github.com/PascalPixel/pokemon-font](https://github.com/PascalPixel/pokemon-font)
 
 ## What is it

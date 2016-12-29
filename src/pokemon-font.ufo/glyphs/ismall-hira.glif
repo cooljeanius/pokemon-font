@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ismall-hira" format="1">
-  <advance width="80"/>
+  <advance width="320"/>
   <unicode hex="3043"/>
   <note>
     asterisk
   </note>
   <outline>
     <contour>
-      <point x="10" y="0" type="line"/>
-      <point x="10" y="30" type="line"/>
-      <point x="0" y="30" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="120" type="line"/>
+      <point x="0" y="120" type="line"/>
       <point x="0" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="20" y="-10" type="line"/>
-      <point x="20" y="0" type="line"/>
-      <point x="10" y="0" type="line"/>
-      <point x="10" y="-10" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="20" type="line"/>
-      <point x="40" y="20" type="line"/>
+      <point x="80" y="-40" type="line"/>
+      <point x="80" y="0" type="line"/>
       <point x="40" y="0" type="line"/>
+      <point x="40" y="-40" type="line"/>
     </contour>
     <contour>
-      <point x="40" y="20" type="line"/>
-      <point x="40" y="30" type="line"/>
-      <point x="30" y="30" type="line"/>
-      <point x="30" y="20" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="80" type="line"/>
+      <point x="160" y="80" type="line"/>
+      <point x="160" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="80" type="line"/>
+      <point x="160" y="120" type="line"/>
+      <point x="120" y="120" type="line"/>
+      <point x="120" y="80" type="line"/>
     </contour>
   </outline>
 </glyph>

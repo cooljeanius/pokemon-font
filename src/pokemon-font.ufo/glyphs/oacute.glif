@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="1">
-  <advance width="80"/>
+  <advance width="320"/>
   <unicode hex="00F3"/>
   <note>
     oacute
   </note>
   <outline>
     <contour>
-      <point x="60" y="40" type="line"/>
-      <point x="60" y="50" type="line"/>
-      <point x="40" y="50" type="line"/>
-      <point x="40" y="60" type="line"/>
-      <point x="30" y="60" type="line"/>
-      <point x="30" y="50" type="line"/>
-      <point x="20" y="50" type="line"/>
-      <point x="20" y="40" type="line"/>
+      <point x="240" y="160" type="line"/>
+      <point x="240" y="200" type="line"/>
+      <point x="160" y="200" type="line"/>
+      <point x="160" y="240" type="line"/>
+      <point x="120" y="240" type="line"/>
+      <point x="120" y="200" type="line"/>
+      <point x="80" y="200" type="line"/>
+      <point x="80" y="160" type="line"/>
     </contour>
     <contour>
-      <point x="20" y="10" type="line"/>
-      <point x="20" y="40" type="line"/>
-      <point x="10" y="40" type="line"/>
-      <point x="10" y="10" type="line"/>
+      <point x="80" y="40" type="line"/>
+      <point x="80" y="160" type="line"/>
+      <point x="40" y="160" type="line"/>
+      <point x="40" y="40" type="line"/>
     </contour>
     <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="60" y="10" type="line"/>
-      <point x="20" y="10" type="line"/>
-      <point x="20" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="40" type="line"/>
+      <point x="80" y="40" type="line"/>
+      <point x="80" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="70" y="10" type="line"/>
-      <point x="70" y="40" type="line"/>
-      <point x="60" y="40" type="line"/>
-      <point x="60" y="10" type="line"/>
+      <point x="280" y="40" type="line"/>
+      <point x="280" y="160" type="line"/>
+      <point x="240" y="160" type="line"/>
+      <point x="240" y="40" type="line"/>
     </contour>
     <contour>
-      <point x="50" y="60" type="line"/>
-      <point x="50" y="70" type="line"/>
-      <point x="40" y="70" type="line"/>
-      <point x="40" y="60" type="line"/>
+      <point x="200" y="240" type="line"/>
+      <point x="200" y="280" type="line"/>
+      <point x="160" y="280" type="line"/>
+      <point x="160" y="240" type="line"/>
     </contour>
   </outline>
 </glyph>
