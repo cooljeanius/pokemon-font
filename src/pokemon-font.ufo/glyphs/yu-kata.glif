@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yu-kata" format="1">
-  <advance width="80"/>
+  <advance width="320"/>
   <unicode hex="30E6"/>
   <note>
     d
   </note>
   <outline>
     <contour>
-      <point x="70" y="-10" type="line"/>
-      <point x="70" y="0" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="50" type="line"/>
-      <point x="10" y="50" type="line"/>
-      <point x="10" y="40" type="line"/>
-      <point x="40" y="40" type="line"/>
-      <point x="40" y="0" type="line"/>
+      <point x="280" y="-40" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="200" type="line"/>
+      <point x="40" y="200" type="line"/>
+      <point x="40" y="160" type="line"/>
+      <point x="160" y="160" type="line"/>
+      <point x="160" y="0" type="line"/>
       <point x="0" y="0" type="line"/>
-      <point x="0" y="-10" type="line"/>
+      <point x="0" y="-40" type="line"/>
     </contour>
   </outline>
 </glyph>

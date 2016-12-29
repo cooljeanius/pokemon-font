@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tusmall-hira" format="1">
-  <advance width="80"/>
+  <advance width="320"/>
   <unicode hex="3063"/>
   <note>
     Q
   </note>
   <outline>
     <contour>
-      <point x="50" y="30" type="line"/>
-      <point x="50" y="40" type="line"/>
-      <point x="10" y="40" type="line"/>
-      <point x="10" y="30" type="line"/>
+      <point x="200" y="120" type="line"/>
+      <point x="200" y="160" type="line"/>
+      <point x="40" y="160" type="line"/>
+      <point x="40" y="120" type="line"/>
     </contour>
     <contour>
-      <point x="40" y="-10" type="line"/>
-      <point x="40" y="0" type="line"/>
-      <point x="20" y="0" type="line"/>
-      <point x="20" y="-10" type="line"/>
+      <point x="160" y="-40" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="-40" type="line"/>
     </contour>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="10" type="line"/>
-      <point x="40" y="10" type="line"/>
-      <point x="40" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="40" type="line"/>
+      <point x="160" y="40" type="line"/>
+      <point x="160" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="60" y="10" type="line"/>
-      <point x="60" y="30" type="line"/>
-      <point x="50" y="30" type="line"/>
-      <point x="50" y="10" type="line"/>
+      <point x="240" y="40" type="line"/>
+      <point x="240" y="120" type="line"/>
+      <point x="200" y="120" type="line"/>
+      <point x="200" y="40" type="line"/>
     </contour>
   </outline>
 </glyph>

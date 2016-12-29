@@ -7,33 +7,38 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <link href="css/pokemon-font.css" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
-  <title>pokemon-font v1.6.1</title>
+  <title>pokemon-font v1.7.0</title>
   <style>
-
     .superpencil .tag-primary {
       background-color: #FCE400;
       color: #774701;
       font-family: "Avenir Next", "Avenir", "Helvetica", "Arial", sans-serif;
       padding: 4px 5px 3px;
       color: #774701;
-      font-size: 12px;
+      font-size: 10px;
+      font-smooth: auto;
+      -webkit-font-smoothing: subpixel-antialiased;
     }
 
     .superpencil img {
-      width: 17px;
-      margin-top: -2px;
-    }
-
-    html {
-      font-size: 12px;
+      width: 15px;
+      margin-top: -1px;
     }
 
     body {
       background: #A7B72D;
-      font-family: 'pokemon-font', monospace;
       background: #7A8718;
       color: #242803;
       line-height: 2.5em;
+      font-size: 10px;
+      font-smooth: never;
+      -webkit-font-smoothing: none;
+      font-family: 'pokemon-font', monospace;
+      /*background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1' height='1'><rect fill='rgba(0,0,255,1)' x='0.5' y='0' width='0.5' height='0.5'/><rect fill='rgba(0,255,0,1)' x='0' y='0.5' width='0.5' height='0.5'/><rect fill='rgba(255,0,0,1)' x='0.5' y='0.5' width='0.5' height='0.5'/></svg>");*/
+    }
+
+    h1 {
+      font-weight: normal;
     }
 
     a {
@@ -56,7 +61,7 @@
     }
 
     h1 {
-      color: #b4bb8f;
+      color: #212605;
     }
 
     h2 {
@@ -65,6 +70,18 @@
 
     h3 {
       color: #4d5727;
+    }
+
+    h1 {
+      font-size: 30px;
+    }
+
+    h2, h3, h4 {
+      font-size: 20px;
+    }
+
+    h4, h5, h6 {
+      font-size: 10px;
     }
 
     code,
@@ -76,6 +93,11 @@
     blockquote {
       padding: 1rem 1rem 0.2rem;
       border-radius: 0.3rem;
+    }
+
+    code {
+      font-smooth: auto;
+      -webkit-font-smoothing: subpixel-antialiased;
     }
 
     .table-inverse,
@@ -91,7 +113,7 @@
 
 <body>
   <div class="container">
-    <h1 id="pokemon-font-v1-6-1">pokemon-font v1.6.1</h1>
+    <h1 id="pokemon-font">pokemon-font v1.7.0</h1>
     <div class="row">
       <div class="col-sm-11 offset-sm-1">
         <p>
@@ -115,7 +137,37 @@
     <h2 id="what-is-it">What is it</h2>
     <div class="row">
       <div class="col-sm-11 offset-sm-1">
-        <p>This font is an extended clone of the original font shipped with Pokemon Red, Green, Blue and Yellow for the <i>GAME BOY</i> in the 90's. It was made into a proper font because it was needed for <a href="https://github.com/Superpencil/Pokemon-Mini">Pokemon-Mini</a>.</p>
+        <h3 id="intro">Intro</h3>
+        <div class="row">
+          <div class="col-sm-11 offset-sm-1">
+            <p>This font is an extended clone of the original font shipped with Pokemon Red, Green, Blue and Yellow for the <i>GAME BOY</i> in the 90's. It was made into a proper font because it was needed for <a href="https://github.com/Superpencil/Pokemon-Mini">Pokemon-Mini</a>.</p>
+          </div>
+        </div>
+        <h3 id="rendering">Rendering</h3>
+        <div class="row">
+          <div class="col-sm-11 offset-sm-1">
+            <p>This is a 'pixel' font, but modern font formats are actually vector based, so the font uses vector calculations to create little squares. This brings all the same issues as old-fashioned pixel fonts in terms of rendering it properly.</p>
+            <p>The font is <code>10px</code> heigh (<code>10px = 1em</code>), so to properly render it you'll need to use increments of <code>10px</code></p>
+            <p>You'll also need to turn off anti-aliasing for fonts if the browser supports it to avoid blurry fonts below <code>20px</code> of size.</p>
+            <pre><code>
+              body {
+                font-size: 10px;
+                font-smooth: never;
+                -webkit-font-smoothing: none;
+                font-family: 'pokemon-font', monospace;
+              }
+              h1 {
+                font-size: 30px;
+              }
+              h2, h3, h4 {
+                font-size: 20px;
+              }
+              h4, h5, h6 {
+                font-size: 10px;
+              }
+            </code></pre>
+          </div>
+        </div>
       </div>
     </div>
     <h2 id="features">Features</h2>

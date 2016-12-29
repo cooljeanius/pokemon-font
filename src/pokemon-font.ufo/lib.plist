@@ -15,7 +15,7 @@
 	<key>com.schriftgestaltung.weightValue</key>
 	<integer>80</integer>
 	<key>com.schriftgestaltung.widthValue</key>
-	<integer>80</integer>
+	<integer>5</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -463,6 +463,8 @@
 		<string>bracketright</string>
 		<string>parenleft</string>
 		<string>parenright</string>
+		<string>emdash</string>
+		<string>endash</string>
 		<string>hyphen</string>
 		<string>dot-kata</string>
 		<string>dblhyphen-kana</string>
@@ -475,7 +477,11 @@
 		<string>quotesingle_v.liga</string>
 		<string>space</string>
 		<string>.notdef</string>
+		<string>cent</string>
+		<string>currency</string>
 		<string>dollar</string>
+		<string>euro</string>
+		<string>sterling</string>
 		<string>yen</string>
 		<string>plus</string>
 		<string>multiply</string>
