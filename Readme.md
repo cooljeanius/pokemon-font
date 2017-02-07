@@ -1,7 +1,7 @@
 # pokemon-font v1.7.1
 This font is an extended clone of the original font shipped with Pokemon R/G/B/Y for the GAME BOY in the 90's. It was made into a proper, modern, Unicode font and was extended with more language support and ligatures because it was needed for Pokemon-Mini.
 
-`Install npm install pokemon-font`
+*Install* `npm install pokemon-font`
 
 ## Usage
 This is a 'pixel' font, but modern font formats are actually vector based, so the font uses vector calculations to create little squares. This brings all the same issues as old-fashioned pixel fonts in terms of rendering it properly.
@@ -55,10 +55,12 @@ There are also the original games' ligatures for 'd, 'l, 'm, 'r, 's, 'v and 't. 
 
 ## MissingNo
 If the font doesn't support a certain character, � is displayed, in this font that is a MissingNo, because a tiny MissingNo is sugoi kawaii.
+
 ![Alt text](/img/MissingNo.png?raw=true "pokemon-font Font MissingNo Glyph")
 
 ## Japanese
 I extended support to cover the full Unicode blocks for Hiragana and Katakana, which holds a few obscure characters that aren't used anymore, but gotta catch 'em all right?
+
 ![Alt text](/img/Japanese.png?raw=true "pokemon-font Font Japanese Glyphs")
 
 ## What we learned
