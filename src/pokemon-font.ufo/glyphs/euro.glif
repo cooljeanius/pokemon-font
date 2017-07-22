@@ -4,8 +4,6 @@
   <unicode hex="20AC"/>
   <outline>
     <contour>
-      <point x="40" y="80" type="line"/>
-      <point x="40" y="0" type="line"/>
       <point x="80" y="0" type="line"/>
       <point x="80" y="80" type="line"/>
       <point x="200" y="80" type="line"/>
@@ -24,6 +22,8 @@
       <point x="40" y="120" type="line"/>
       <point x="0" y="120" type="line"/>
       <point x="0" y="80" type="line"/>
+      <point x="40" y="80" type="line"/>
+      <point x="40" y="0" type="line"/>
     </contour>
     <contour>
       <point x="240" y="-40" type="line"/>
@@ -38,4 +38,10 @@
       <point x="80" y="240" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-22 05:48:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

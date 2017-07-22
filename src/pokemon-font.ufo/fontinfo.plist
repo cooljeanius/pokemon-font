@@ -7,21 +7,21 @@
 	<key>capHeight</key>
 	<integer>280</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 1996 Game Freak and Nintendo</string>
+	<string>Copyright (c) 1996 Game Freak and Nintendo, Copyright (c) 2016-2017 Superpencil</string>
 	<key>descender</key>
 	<integer>-40</integer>
 	<key>familyName</key>
 	<string>pokemon-font</string>
 	<key>openTypeHeadCreated</key>
-	<string>2016/12/28 12:50:10</string>
+	<string>2017/07/22 14:01:17</string>
 	<key>openTypeNameDesigner</key>
 	<string>Pascal Pixel</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>http://pascalpixel.com</string>
+	<string>https://superpencil.com</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Superpencil</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>http://superpencil.com</string>
+	<string>https://superpencil.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>pokemon-font</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -43,11 +43,11 @@
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>
-	<integer>400</integer>
+	<integer>320</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>700</integer>
+	<integer>800</integer>
 	<key>xHeight</key>
 	<integer>200</integer>
 </dict>
