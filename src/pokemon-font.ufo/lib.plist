@@ -516,6 +516,7 @@
 		<string>daggerdbl</string>
 		<string>numero</string>
 		<string>asciicircum</string>
+		<string>replacementCharacter</string>
 		<string>dieresiscomb</string>
 		<string>dotaccentcomb</string>
 		<string>gravecomb</string>
