@@ -6,4 +6,10 @@
     <component base="o"/>
     <component base="tildecomb"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-22 07:01:50 +0000</string>
+    </dict>
+  </lib>
 </glyph>

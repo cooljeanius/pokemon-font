@@ -174,6 +174,7 @@
 		<string>u_n_o_w_n_x.liga</string>
 		<string>u_n_o_w_n_y.liga</string>
 		<string>u_n_o_w_n_z.liga</string>
+		<string>ordmasculine</string>
 		<string>uni5186</string>
 		<string>a-hira</string>
 		<string>asmall-hira</string>
@@ -408,6 +409,8 @@
 		<string>fraction</string>
 		<string>asterisk</string>
 		<string>backslash</string>
+		<string>periodcentered</string>
+		<string>bullet</string>
 		<string>colon</string>
 		<string>comma</string>
 		<string>ellipsis</string>
@@ -432,6 +435,16 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
+		<string>quotedblbase</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
+		<string>quotesinglbase</string>
 		<string>dot-kata</string>
 		<string>dblhyphen-kana</string>
 		<string>quotesingle_d.liga</string>
@@ -457,10 +470,32 @@
 		<string>notequal</string>
 		<string>greater</string>
 		<string>less</string>
+		<string>greaterequal</string>
+		<string>lessequal</string>
+		<string>plusminus</string>
 		<string>approxequal</string>
 		<string>asciitilde</string>
+		<string>logicalnot</string>
 		<string>emptyset</string>
+		<string>infinity</string>
+		<string>integral</string>
+		<string>product</string>
+		<string>summation</string>
+		<string>radical</string>
+		<string>partialdiff</string>
 		<string>percent</string>
+		<string>perthousand</string>
+		<string>upArrow</string>
+		<string>northEastArrow</string>
+		<string>rightArrow</string>
+		<string>southEastArrow</string>
+		<string>downArrow</string>
+		<string>southWestArrow</string>
+		<string>leftArrow</string>
+		<string>northWestArrow</string>
+		<string>leftRightArrow</string>
+		<string>upDownArrow</string>
+		<string>lozenge</string>
 		<string>upBlackTriangle</string>
 		<string>rightBlackTriangle</string>
 		<string>downBlackTriangle</string>
@@ -477,6 +512,8 @@
 		<string>degree</string>
 		<string>bar</string>
 		<string>brokenbar</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
 		<string>numero</string>
 		<string>asciicircum</string>
 		<string>dieresiscomb</string>
@@ -497,7 +534,19 @@
 		<string>strokeshortcomb</string>
 		<string>slashshortcomb</string>
 		<string>slashlongcomb</string>
+		<string>acute</string>
+		<string>breve</string>
+		<string>caron</string>
+		<string>cedilla</string>
+		<string>circumflex</string>
+		<string>dieresis</string>
+		<string>dotaccent</string>
 		<string>grave</string>
+		<string>hungarumlaut</string>
+		<string>macron</string>
+		<string>ogonek</string>
+		<string>ring</string>
+		<string>tilde</string>
 		<string>voicedcomb-kana</string>
 		<string>semivoicedcomb-kana</string>
 		<string>iteration-hira</string>

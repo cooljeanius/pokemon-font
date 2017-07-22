@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="1">
-  <advance width="320"/>
+  <advance width="280"/>
   <unicode hex="00EE"/>
   <note>
     icircumflex
@@ -34,7 +34,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-07-22 05:48:39 +0000</string>
+      <string>2017-07-22 07:16:18 +0000</string>
     </dict>
   </lib>
 </glyph>

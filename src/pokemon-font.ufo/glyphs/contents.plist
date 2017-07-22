@@ -146,6 +146,8 @@
 	<string>aacute.glif</string>
 	<key>acircumflex</key>
 	<string>acircumflex.glif</string>
+	<key>acute</key>
+	<string>acute.glif</string>
 	<key>acutecomb</key>
 	<string>acutecomb.glif</string>
 	<key>adieresis</key>
@@ -206,6 +208,8 @@
 	<string>bracketleft.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
+	<key>breve</key>
+	<string>breve.glif</string>
 	<key>brevecomb</key>
 	<string>brevecomb.glif</string>
 	<key>brokenbar</key>
@@ -214,12 +218,18 @@
 	<string>bu-hira.glif</string>
 	<key>bu-kata</key>
 	<string>bu-kata.glif</string>
+	<key>bullet</key>
+	<string>bullet.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>caron</key>
+	<string>caron.glif</string>
 	<key>caroncomb</key>
 	<string>caroncomb.glif</string>
 	<key>ccedilla</key>
 	<string>ccedilla.glif</string>
+	<key>cedilla</key>
+	<string>cedilla.glif</string>
 	<key>cedillacomb</key>
 	<string>cedillacomb.glif</string>
 	<key>cent</key>
@@ -228,6 +238,8 @@
 	<string>chieuchC_ho-ko.glif</string>
 	<key>cieucCho-ko</key>
 	<string>cieucC_ho-ko.glif</string>
+	<key>circumflex</key>
+	<string>circumflex.glif</string>
 	<key>circumflexcomb</key>
 	<string>circumflexcomb.glif</string>
 	<key>colon</key>
@@ -248,6 +260,10 @@
 	<string>da-hira.glif</string>
 	<key>da-kata</key>
 	<string>da-kata.glif</string>
+	<key>dagger</key>
+	<string>dagger.glif</string>
+	<key>daggerdbl</key>
+	<string>daggerdbl.glif</string>
 	<key>dblhyphen-kana</key>
 	<string>dblhyphen-kana.glif</string>
 	<key>de-hira</key>
@@ -260,6 +276,8 @@
 	<string>di-hira.glif</string>
 	<key>di-kata</key>
 	<string>di-kata.glif</string>
+	<key>dieresis</key>
+	<string>dieresis.glif</string>
 	<key>dieresiscomb</key>
 	<string>dieresiscomb.glif</string>
 	<key>digraphkoto-kata</key>
@@ -276,8 +294,12 @@
 	<string>dollar.glif</string>
 	<key>dot-kata</key>
 	<string>dot-kata.glif</string>
+	<key>dotaccent</key>
+	<string>dotaccent.glif</string>
 	<key>dotaccentcomb</key>
 	<string>dotaccentcomb.glif</string>
+	<key>downArrow</key>
+	<string>downA_rrow.glif</string>
 	<key>downBlackTriangle</key>
 	<string>downB_lackT_riangle.glif</string>
 	<key>du-hira</key>
@@ -368,10 +390,20 @@
 	<string>gravecomb.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
+	<key>greaterequal</key>
+	<string>greaterequal.glif</string>
 	<key>gu-hira</key>
 	<string>gu-hira.glif</string>
 	<key>gu-kata</key>
 	<string>gu-kata.glif</string>
+	<key>guillemetleft</key>
+	<string>guillemetleft.glif</string>
+	<key>guillemetright</key>
+	<string>guillemetright.glif</string>
+	<key>guilsinglleft</key>
+	<string>guilsinglleft.glif</string>
+	<key>guilsinglright</key>
+	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>ha-hira</key>
@@ -396,6 +428,8 @@
 	<string>hu-hira.glif</string>
 	<key>hu-kata</key>
 	<string>hu-kata.glif</string>
+	<key>hungarumlaut</key>
+	<string>hungarumlaut.glif</string>
 	<key>hungarumlautcomb</key>
 	<string>hungarumlautcomb.glif</string>
 	<key>hyphen</key>
@@ -418,6 +452,10 @@
 	<string>ieungC_ho-ko.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
+	<key>infinity</key>
+	<string>infinity.glif</string>
+	<key>integral</key>
+	<string>integral.glif</string>
 	<key>ismall-hira</key>
 	<string>ismall-hira.glif</string>
 	<key>ismall-kata</key>
@@ -464,14 +502,26 @@
 	<string>ku-kata.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
+	<key>leftArrow</key>
+	<string>leftA_rrow.glif</string>
+	<key>leftRightArrow</key>
+	<string>leftR_ightA_rrow.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
+	<key>lessequal</key>
+	<string>lessequal.glif</string>
+	<key>logicalnot</key>
+	<string>logicalnot.glif</string>
+	<key>lozenge</key>
+	<string>lozenge.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>ma-hira</key>
 	<string>ma-hira.glif</string>
 	<key>ma-kata</key>
 	<string>ma-kata.glif</string>
+	<key>macron</key>
+	<string>macron.glif</string>
 	<key>macroncomb</key>
 	<string>macroncomb.glif</string>
 	<key>male</key>
@@ -524,6 +574,10 @@
 	<string>no-hira.glif</string>
 	<key>no-kata</key>
 	<string>no-kata.glif</string>
+	<key>northEastArrow</key>
+	<string>northE_astA_rrow.glif</string>
+	<key>northWestArrow</key>
+	<string>northW_estA_rrow.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
 	<key>ntilde</key>
@@ -554,12 +608,16 @@
 	<string>oe.glif</string>
 	<key>oeJung-ko</key>
 	<string>oeJ_ung-ko.glif</string>
+	<key>ogonek</key>
+	<string>ogonek.glif</string>
 	<key>ogonekcomb</key>
 	<string>ogonekcomb.glif</string>
 	<key>ograve</key>
 	<string>ograve.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>ordmasculine</key>
+	<string>ordmasculine.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>osmall-hira</key>
@@ -580,6 +638,8 @@
 	<string>parenleft.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
+	<key>partialdiff</key>
+	<string>partialdiff.glif</string>
 	<key>pe-hira</key>
 	<string>pe-hira.glif</string>
 	<key>pe-kata</key>
@@ -590,6 +650,10 @@
 	<string>period.glif</string>
 	<key>period-han</key>
 	<string>period-han.glif</string>
+	<key>periodcentered</key>
+	<string>periodcentered.glif</string>
+	<key>perthousand</key>
+	<string>perthousand.glif</string>
 	<key>phieuphCho-ko</key>
 	<string>phieuphC_ho-ko.glif</string>
 	<key>pi-hira</key>
@@ -600,10 +664,14 @@
 	<string>pieupC_ho-ko.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
+	<key>plusminus</key>
+	<string>plusminus.glif</string>
 	<key>po-hira</key>
 	<string>po-hira.glif</string>
 	<key>po-kata</key>
 	<string>po-kata.glif</string>
+	<key>product</key>
+	<string>product.glif</string>
 	<key>prolonged-kana</key>
 	<string>prolonged-kana.glif</string>
 	<key>pu-hira</key>
@@ -618,6 +686,18 @@
 	<string>questiondown.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
+	<key>quotedblbase</key>
+	<string>quotedblbase.glif</string>
+	<key>quotedblleft</key>
+	<string>quotedblleft.glif</string>
+	<key>quotedblright</key>
+	<string>quotedblright.glif</string>
+	<key>quoteleft</key>
+	<string>quoteleft.glif</string>
+	<key>quoteright</key>
+	<string>quoteright.glif</string>
+	<key>quotesinglbase</key>
+	<string>quotesinglbase.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
 	<key>quotesingle_d.liga</key>
@@ -640,6 +720,8 @@
 	<string>ra-hira.glif</string>
 	<key>ra-kata</key>
 	<string>ra-kata.glif</string>
+	<key>radical</key>
+	<string>radical.glif</string>
 	<key>re-hira</key>
 	<string>re-hira.glif</string>
 	<key>re-kata</key>
@@ -652,10 +734,14 @@
 	<string>ri-kata.glif</string>
 	<key>rieulCho-ko</key>
 	<string>rieulC_ho-ko.glif</string>
+	<key>rightArrow</key>
+	<string>rightA_rrow.glif</string>
 	<key>rightBlackTriangle</key>
 	<string>rightB_lackT_riangle.glif</string>
 	<key>rightWhiteTriangle</key>
 	<string>rightW_hiteT_riangle.glif</string>
+	<key>ring</key>
+	<string>ring.glif</string>
 	<key>ringcomb</key>
 	<string>ringcomb.glif</string>
 	<key>ro-hira</key>
@@ -704,6 +790,10 @@
 	<string>so-hira.glif</string>
 	<key>so-kata</key>
 	<string>so-kata.glif</string>
+	<key>southEastArrow</key>
+	<string>southE_astA_rrow.glif</string>
+	<key>southWestArrow</key>
+	<string>southW_estA_rrow.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>ssangcieucCho-ko</key>
@@ -724,6 +814,8 @@
 	<string>su-hira.glif</string>
 	<key>su-kata</key>
 	<string>su-kata.glif</string>
+	<key>summation</key>
+	<string>summation.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>ta-hira</key>
@@ -746,6 +838,8 @@
 	<string>ti-kata.glif</string>
 	<key>tikeutCho-ko</key>
 	<string>tikeutC_ho-ko.glif</string>
+	<key>tilde</key>
+	<string>tilde.glif</string>
 	<key>tildecomb</key>
 	<string>tildecomb.glif</string>
 	<key>to-hira</key>
@@ -836,8 +930,12 @@
 	<string>underscore.glif</string>
 	<key>uni5186</key>
 	<string>uni5186.glif</string>
+	<key>upArrow</key>
+	<string>upA_rrow.glif</string>
 	<key>upBlackTriangle</key>
 	<string>upB_lackT_riangle.glif</string>
+	<key>upDownArrow</key>
+	<string>upD_ownA_rrow.glif</string>
 	<key>usmall-hira</key>
 	<string>usmall-hira.glif</string>
 	<key>usmall-kata</key>
