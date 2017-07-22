@@ -1,4 +1,4 @@
-# pokemon-font v1.7.1
+# pokemon-font v1.8.1
 This font is an extended clone of the original font shipped with Pokemon R/G/B/Y for the GAME BOY in the 90's. It was made into a proper, modern, Unicode font and was extended with more language support and ligatures because it was needed for Pokemon-Mini.
 
 *Install* `npm install pokemon-font`
