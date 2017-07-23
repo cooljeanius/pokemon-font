@@ -67,3 +67,11 @@ I extended support to cover the full Unicode blocks for Hiragana and Katakana, w
 While making this font I learned how to create SVG shapes with raw code, how modern fonts are encoded, how to convert between font formats, how to deal with size, kerning, ligatures, etc. This is also the first time I'm publishing a package to npm and bower.
 
 We used [Glyphs App](https://glyphsapp.com) in the end to manage the `.ufo` master 'file'/folder.
+
+## License
+Copyright (c) 2016-2017, Superpencil (https://superpencil.com|support@superpencil.com>),
+with pokemon-font.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is included in the repository, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
