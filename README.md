@@ -69,7 +69,7 @@ While making this font I learned how to create SVG shapes with raw code, how mod
 We used [Glyphs App](https://glyphsapp.com) in the end to manage the `.ufo` master 'file'/folder.
 
 ## License
-Copyright (c) 2016-2017, Superpencil (https://superpencil.com|support@superpencil.com>),
+Copyright (c) 2016-2017, Superpencil (https://superpencil.com | support@superpencil.com>),
 with pokemon-font.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
