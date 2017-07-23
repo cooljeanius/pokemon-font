@@ -1,4 +1,4 @@
-Copyright (c) 2016-2017, Superpencil (https://superpencil.com|support@superpencil.com>),
+Copyright (c) 2016-2017, Superpencil (https://superpencil.com | support@superpencil.com>),
 with pokemon-font.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
