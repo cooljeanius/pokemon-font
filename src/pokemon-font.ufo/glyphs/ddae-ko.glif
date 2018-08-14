@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddae-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="B54C"/>
+  <outline>
+    <component base="ssangtikeutCho-ko"/>
+    <component base="aeJung-ko"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:33:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

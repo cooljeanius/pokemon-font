@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeoCompa-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="3155"/>
+  <outline>
+    <contour>
+      <point x="160" y="-40" type="line"/>
+      <point x="200" y="-40" type="line"/>
+      <point x="200" y="400" type="line"/>
+      <point x="160" y="400" type="line"/>
+      <point x="160" y="280" type="line"/>
+      <point x="80" y="280" type="line"/>
+      <point x="80" y="240" type="line"/>
+      <point x="160" y="240" type="line"/>
+      <point x="160" y="120" type="line"/>
+      <point x="80" y="120" type="line"/>
+      <point x="80" y="80" type="line"/>
+      <point x="160" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="80" type="move"/>
+      <point x="160" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:54:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

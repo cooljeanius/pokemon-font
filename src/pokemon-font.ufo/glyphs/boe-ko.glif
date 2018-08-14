@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boe-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="BD48"/>
+  <outline>
+    <component base="pieupCho-ko"/>
+    <component base="oeJung-ko"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:33:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

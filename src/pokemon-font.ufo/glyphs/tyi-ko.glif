@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tyi-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="D2D4"/>
+  <outline>
+    <component base="thieuthCho-ko"/>
+    <component base="yiJung-ko"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:33:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

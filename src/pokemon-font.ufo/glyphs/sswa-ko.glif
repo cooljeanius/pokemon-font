@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sswa-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="C3F4"/>
+  <outline>
+    <component base="ssangsiosCho-ko"/>
+    <component base="waJung-ko"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:33:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

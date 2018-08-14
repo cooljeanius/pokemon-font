@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pe-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="D398"/>
+  <outline>
+    <component base="phieuphCho-ko"/>
+    <component base="eJung-ko"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:33:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hya-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="D590"/>
+  <outline>
+    <component base="hieuhCho-ko"/>
+    <component base="yaJung-ko"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:33:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

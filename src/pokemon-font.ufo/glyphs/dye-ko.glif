@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dye-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="B3A8"/>
+  <outline>
+    <component base="tikeutCho-ko"/>
+    <component base="yeJung-ko"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:33:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

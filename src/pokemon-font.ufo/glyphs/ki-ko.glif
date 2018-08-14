@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ki-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="D0A4"/>
+  <outline>
+    <component base="khieukhCho-ko"/>
+    <component base="iJung-ko"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:33:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ssi-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="C528"/>
+  <outline>
+    <component base="ssangsiosCho-ko"/>
+    <component base="iJung-ko"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:33:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yiCompa-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="3162"/>
+  <outline>
+    <contour>
+      <point x="200" y="-40" type="line"/>
+      <point x="240" y="-40" type="line"/>
+      <point x="240" y="400" type="line"/>
+      <point x="200" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="40" type="line"/>
+      <point x="160" y="40" type="line"/>
+      <point x="160" y="80" type="line"/>
+      <point x="40" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:54:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

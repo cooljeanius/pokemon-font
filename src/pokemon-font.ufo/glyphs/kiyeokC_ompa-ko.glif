@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kiyeokCompa-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="3131"/>
+  <outline>
+    <contour>
+      <point x="240" y="-40" type="line"/>
+      <point x="280" y="-40" type="line"/>
+      <point x="280" y="320" type="line"/>
+      <point x="0" y="320" type="line"/>
+      <point x="0" y="280" type="line"/>
+      <point x="240" y="280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:54:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

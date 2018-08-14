@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mwe-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="BB6C"/>
+  <outline>
+    <component base="mieumCho-ko"/>
+    <component base="weJung-ko"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:33:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

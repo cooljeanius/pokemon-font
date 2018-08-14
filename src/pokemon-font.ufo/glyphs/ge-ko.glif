@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-ko" format="1">
+  <advance width="320"/>
+  <unicode hex="AC8C"/>
+  <outline>
+    <component base="kiyeokCho-ko"/>
+    <component base="eJung-ko" xOffset="80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-14 06:39:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

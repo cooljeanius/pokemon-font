@@ -140,10 +140,16 @@
 	<string>a-hira.glif</string>
 	<key>a-kata</key>
 	<string>a-kata.glif</string>
+	<key>a-ko</key>
+	<string>a-ko.glif</string>
+	<key>aCompa-ko</key>
+	<string>aC_ompa-ko.glif</string>
 	<key>aJung-ko</key>
 	<string>aJ_ung-ko.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
+	<key>ab-ko</key>
+	<string>ab-ko.glif</string>
 	<key>acircumflex</key>
 	<string>acircumflex.glif</string>
 	<key>acute</key>
@@ -154,16 +160,60 @@
 	<string>adieresis.glif</string>
 	<key>ae</key>
 	<string>ae.glif</string>
+	<key>ae-ko</key>
+	<string>ae-ko.glif</string>
+	<key>aeCompa-ko</key>
+	<string>aeC_ompa-ko.glif</string>
 	<key>aeJung-ko</key>
 	<string>aeJ_ung-ko.glif</string>
+	<key>aeb-ko</key>
+	<string>aeb-ko.glif</string>
+	<key>aeg-ko</key>
+	<string>aeg-ko.glif</string>
+	<key>ael-ko</key>
+	<string>ael-ko.glif</string>
+	<key>aem-ko</key>
+	<string>aem-ko.glif</string>
+	<key>aen-ko</key>
+	<string>aen-ko.glif</string>
+	<key>aeng-ko</key>
+	<string>aeng-ko.glif</string>
+	<key>aes-ko</key>
+	<string>aes-ko.glif</string>
+	<key>aess-ko</key>
+	<string>aess-ko.glif</string>
+	<key>ag-ko</key>
+	<string>ag-ko.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
+	<key>al-ko</key>
+	<string>al-ko.glif</string>
+	<key>alg-ko</key>
+	<string>alg-ko.glif</string>
+	<key>alh-ko</key>
+	<string>alh-ko.glif</string>
+	<key>alm-ko</key>
+	<string>alm-ko.glif</string>
+	<key>am-ko</key>
+	<string>am-ko.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
+	<key>an-ko</key>
+	<string>an-ko.glif</string>
+	<key>ang-ko</key>
+	<string>ang-ko.glif</string>
+	<key>anh-ko</key>
+	<string>anh-ko.glif</string>
+	<key>anj-ko</key>
+	<string>anj-ko.glif</string>
+	<key>ap-ko</key>
+	<string>ap-ko.glif</string>
 	<key>approxequal</key>
 	<string>approxequal.glif</string>
 	<key>aring</key>
 	<string>aring.glif</string>
+	<key>as-ko</key>
+	<string>as-ko.glif</string>
 	<key>asciicircum</key>
 	<string>asciicircum.glif</string>
 	<key>asciitilde</key>
@@ -172,10 +222,14 @@
 	<string>asmall-hira.glif</string>
 	<key>asmall-kata</key>
 	<string>asmall-kata.glif</string>
+	<key>ass-ko</key>
+	<string>ass-ko.glif</string>
 	<key>asterisk</key>
 	<string>asterisk.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
+	<key>at-ko</key>
+	<string>at-ko.glif</string>
 	<key>atilde</key>
 	<string>atilde.glif</string>
 	<key>b</key>
@@ -184,22 +238,326 @@
 	<string>ba-hira.glif</string>
 	<key>ba-kata</key>
 	<string>ba-kata.glif</string>
+	<key>ba-ko</key>
+	<string>ba-ko.glif</string>
+	<key>bab-ko</key>
+	<string>bab-ko.glif</string>
 	<key>backslash</key>
 	<string>backslash.glif</string>
+	<key>bad-ko</key>
+	<string>bad-ko.glif</string>
+	<key>bae-ko</key>
+	<string>bae-ko.glif</string>
+	<key>baeb-ko</key>
+	<string>baeb-ko.glif</string>
+	<key>baeg-ko</key>
+	<string>baeg-ko.glif</string>
+	<key>bael-ko</key>
+	<string>bael-ko.glif</string>
+	<key>baem-ko</key>
+	<string>baem-ko.glif</string>
+	<key>baen-ko</key>
+	<string>baen-ko.glif</string>
+	<key>baeng-ko</key>
+	<string>baeng-ko.glif</string>
+	<key>baes-ko</key>
+	<string>baes-ko.glif</string>
+	<key>baess-ko</key>
+	<string>baess-ko.glif</string>
+	<key>baet-ko</key>
+	<string>baet-ko.glif</string>
+	<key>bag-ko</key>
+	<string>bag-ko.glif</string>
+	<key>bagg-ko</key>
+	<string>bagg-ko.glif</string>
+	<key>bags-ko</key>
+	<string>bags-ko.glif</string>
+	<key>bal-ko</key>
+	<string>bal-ko.glif</string>
+	<key>balb-ko</key>
+	<string>balb-ko.glif</string>
+	<key>balg-ko</key>
+	<string>balg-ko.glif</string>
+	<key>balm-ko</key>
+	<string>balm-ko.glif</string>
+	<key>bam-ko</key>
+	<string>bam-ko.glif</string>
+	<key>ban-ko</key>
+	<string>ban-ko.glif</string>
+	<key>bang-ko</key>
+	<string>bang-ko.glif</string>
 	<key>bar</key>
 	<string>bar.glif</string>
+	<key>bas-ko</key>
+	<string>bas-ko.glif</string>
+	<key>bat-ko</key>
+	<string>bat-ko.glif</string>
+	<key>bba-ko</key>
+	<string>bba-ko.glif</string>
+	<key>bbab-ko</key>
+	<string>bbab-ko.glif</string>
+	<key>bbae-ko</key>
+	<string>bbae-ko.glif</string>
+	<key>bbaeb-ko</key>
+	<string>bbaeb-ko.glif</string>
+	<key>bbaeg-ko</key>
+	<string>bbaeg-ko.glif</string>
+	<key>bbael-ko</key>
+	<string>bbael-ko.glif</string>
+	<key>bbaem-ko</key>
+	<string>bbaem-ko.glif</string>
+	<key>bbaen-ko</key>
+	<string>bbaen-ko.glif</string>
+	<key>bbaeng-ko</key>
+	<string>bbaeng-ko.glif</string>
+	<key>bbaes-ko</key>
+	<string>bbaes-ko.glif</string>
+	<key>bbaess-ko</key>
+	<string>bbaess-ko.glif</string>
+	<key>bbag-ko</key>
+	<string>bbag-ko.glif</string>
+	<key>bbah-ko</key>
+	<string>bbah-ko.glif</string>
+	<key>bbal-ko</key>
+	<string>bbal-ko.glif</string>
+	<key>bbalm-ko</key>
+	<string>bbalm-ko.glif</string>
+	<key>bbam-ko</key>
+	<string>bbam-ko.glif</string>
+	<key>bban-ko</key>
+	<string>bban-ko.glif</string>
+	<key>bbang-ko</key>
+	<string>bbang-ko.glif</string>
+	<key>bbas-ko</key>
+	<string>bbas-ko.glif</string>
+	<key>bbass-ko</key>
+	<string>bbass-ko.glif</string>
+	<key>bbe-ko</key>
+	<string>bbe-ko.glif</string>
+	<key>bbeng-ko</key>
+	<string>bbeng-ko.glif</string>
+	<key>bbeo-ko</key>
+	<string>bbeo-ko.glif</string>
+	<key>bbeod-ko</key>
+	<string>bbeod-ko.glif</string>
+	<key>bbeog-ko</key>
+	<string>bbeog-ko.glif</string>
+	<key>bbeol-ko</key>
+	<string>bbeol-ko.glif</string>
+	<key>bbeom-ko</key>
+	<string>bbeom-ko.glif</string>
+	<key>bbeon-ko</key>
+	<string>bbeon-ko.glif</string>
+	<key>bbeong-ko</key>
+	<string>bbeong-ko.glif</string>
+	<key>bbeos-ko</key>
+	<string>bbeos-ko.glif</string>
+	<key>bbeoss-ko</key>
+	<string>bbeoss-ko.glif</string>
+	<key>bbeu-ko</key>
+	<string>bbeu-ko.glif</string>
+	<key>bbeub-ko</key>
+	<string>bbeub-ko.glif</string>
+	<key>bbeul-ko</key>
+	<string>bbeul-ko.glif</string>
+	<key>bbeum-ko</key>
+	<string>bbeum-ko.glif</string>
+	<key>bbeun-ko</key>
+	<string>bbeun-ko.glif</string>
+	<key>bbi-ko</key>
+	<string>bbi-ko.glif</string>
+	<key>bbib-ko</key>
+	<string>bbib-ko.glif</string>
+	<key>bbig-ko</key>
+	<string>bbig-ko.glif</string>
+	<key>bbil-ko</key>
+	<string>bbil-ko.glif</string>
+	<key>bbim-ko</key>
+	<string>bbim-ko.glif</string>
+	<key>bbin-ko</key>
+	<string>bbin-ko.glif</string>
+	<key>bbing-ko</key>
+	<string>bbing-ko.glif</string>
+	<key>bbis-ko</key>
+	<string>bbis-ko.glif</string>
+	<key>bbo-ko</key>
+	<string>bbo-ko.glif</string>
+	<key>bbob-ko</key>
+	<string>bbob-ko.glif</string>
+	<key>bboe-ko</key>
+	<string>bboe-ko.glif</string>
+	<key>bbog-ko</key>
+	<string>bbog-ko.glif</string>
+	<key>bbol-ko</key>
+	<string>bbol-ko.glif</string>
+	<key>bbom-ko</key>
+	<string>bbom-ko.glif</string>
+	<key>bbon-ko</key>
+	<string>bbon-ko.glif</string>
+	<key>bbong-ko</key>
+	<string>bbong-ko.glif</string>
+	<key>bbu-ko</key>
+	<string>bbu-ko.glif</string>
+	<key>bbug-ko</key>
+	<string>bbug-ko.glif</string>
+	<key>bbul-ko</key>
+	<string>bbul-ko.glif</string>
+	<key>bbum-ko</key>
+	<string>bbum-ko.glif</string>
+	<key>bbun-ko</key>
+	<string>bbun-ko.glif</string>
+	<key>bbung-ko</key>
+	<string>bbung-ko.glif</string>
+	<key>bbus-ko</key>
+	<string>bbus-ko.glif</string>
+	<key>bbya-ko</key>
+	<string>bbya-ko.glif</string>
+	<key>bbyag-ko</key>
+	<string>bbyag-ko.glif</string>
+	<key>bbyam-ko</key>
+	<string>bbyam-ko.glif</string>
+	<key>bbyeo-ko</key>
+	<string>bbyeo-ko.glif</string>
+	<key>bbyeob-ko</key>
+	<string>bbyeob-ko.glif</string>
+	<key>bbyeog-ko</key>
+	<string>bbyeog-ko.glif</string>
+	<key>bbyeom-ko</key>
+	<string>bbyeom-ko.glif</string>
+	<key>bbyeong-ko</key>
+	<string>bbyeong-ko.glif</string>
+	<key>bbyeos-ko</key>
+	<string>bbyeos-ko.glif</string>
+	<key>bbyeoss-ko</key>
+	<string>bbyeoss-ko.glif</string>
+	<key>bbyo-ko</key>
+	<string>bbyo-ko.glif</string>
+	<key>bbyong-ko</key>
+	<string>bbyong-ko.glif</string>
+	<key>bbyu-ko</key>
+	<string>bbyu-ko.glif</string>
+	<key>bbyung-ko</key>
+	<string>bbyung-ko.glif</string>
 	<key>be-hira</key>
 	<string>be-hira.glif</string>
 	<key>be-kata</key>
 	<string>be-kata.glif</string>
+	<key>be-ko</key>
+	<string>be-ko.glif</string>
+	<key>beb-ko</key>
+	<string>beb-ko.glif</string>
+	<key>bed-ko</key>
+	<string>bed-ko.glif</string>
+	<key>beg-ko</key>
+	<string>beg-ko.glif</string>
+	<key>bel-ko</key>
+	<string>bel-ko.glif</string>
+	<key>bem-ko</key>
+	<string>bem-ko.glif</string>
+	<key>ben-ko</key>
+	<string>ben-ko.glif</string>
+	<key>beng-ko</key>
+	<string>beng-ko.glif</string>
+	<key>beo-ko</key>
+	<string>beo-ko.glif</string>
+	<key>beob-ko</key>
+	<string>beob-ko.glif</string>
+	<key>beod-ko</key>
+	<string>beod-ko.glif</string>
+	<key>beog-ko</key>
+	<string>beog-ko.glif</string>
+	<key>beoj-ko</key>
+	<string>beoj-ko.glif</string>
+	<key>beol-ko</key>
+	<string>beol-ko.glif</string>
+	<key>beolm-ko</key>
+	<string>beolm-ko.glif</string>
+	<key>beom-ko</key>
+	<string>beom-ko.glif</string>
+	<key>beon-ko</key>
+	<string>beon-ko.glif</string>
+	<key>beong-ko</key>
+	<string>beong-ko.glif</string>
+	<key>beos-ko</key>
+	<string>beos-ko.glif</string>
+	<key>bes-ko</key>
+	<string>bes-ko.glif</string>
+	<key>bess-ko</key>
+	<string>bess-ko.glif</string>
+	<key>beu-ko</key>
+	<string>beu-ko.glif</string>
+	<key>beub-ko</key>
+	<string>beub-ko.glif</string>
+	<key>beug-ko</key>
+	<string>beug-ko.glif</string>
+	<key>beul-ko</key>
+	<string>beul-ko.glif</string>
+	<key>beum-ko</key>
+	<string>beum-ko.glif</string>
+	<key>beun-ko</key>
+	<string>beun-ko.glif</string>
+	<key>beus-ko</key>
+	<string>beus-ko.glif</string>
 	<key>bi-hira</key>
 	<string>bi-hira.glif</string>
 	<key>bi-kata</key>
 	<string>bi-kata.glif</string>
+	<key>bi-ko</key>
+	<string>bi-ko.glif</string>
+	<key>bib-ko</key>
+	<string>bib-ko.glif</string>
+	<key>bic-ko</key>
+	<string>bic-ko.glif</string>
+	<key>big-ko</key>
+	<string>big-ko.glif</string>
+	<key>bij-ko</key>
+	<string>bij-ko.glif</string>
+	<key>bil-ko</key>
+	<string>bil-ko.glif</string>
+	<key>bilm-ko</key>
+	<string>bilm-ko.glif</string>
+	<key>bim-ko</key>
+	<string>bim-ko.glif</string>
+	<key>bin-ko</key>
+	<string>bin-ko.glif</string>
+	<key>bing-ko</key>
+	<string>bing-ko.glif</string>
+	<key>bis-ko</key>
+	<string>bis-ko.glif</string>
 	<key>bo-hira</key>
 	<string>bo-hira.glif</string>
 	<key>bo-kata</key>
 	<string>bo-kata.glif</string>
+	<key>bo-ko</key>
+	<string>bo-ko.glif</string>
+	<key>bob-ko</key>
+	<string>bob-ko.glif</string>
+	<key>boe-ko</key>
+	<string>boe-ko.glif</string>
+	<key>boeb-ko</key>
+	<string>boeb-ko.glif</string>
+	<key>boeg-ko</key>
+	<string>boeg-ko.glif</string>
+	<key>boel-ko</key>
+	<string>boel-ko.glif</string>
+	<key>boem-ko</key>
+	<string>boem-ko.glif</string>
+	<key>boen-ko</key>
+	<string>boen-ko.glif</string>
+	<key>bog-ko</key>
+	<string>bog-ko.glif</string>
+	<key>bogg-ko</key>
+	<string>bogg-ko.glif</string>
+	<key>bol-ko</key>
+	<string>bol-ko.glif</string>
+	<key>bom-ko</key>
+	<string>bom-ko.glif</string>
+	<key>bon-ko</key>
+	<string>bon-ko.glif</string>
+	<key>bong-ko</key>
+	<string>bong-ko.glif</string>
+	<key>bos-ko</key>
+	<string>bos-ko.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -218,82 +576,762 @@
 	<string>bu-hira.glif</string>
 	<key>bu-kata</key>
 	<string>bu-kata.glif</string>
+	<key>bu-ko</key>
+	<string>bu-ko.glif</string>
+	<key>bub-ko</key>
+	<string>bub-ko.glif</string>
+	<key>bud-ko</key>
+	<string>bud-ko.glif</string>
+	<key>bug-ko</key>
+	<string>bug-ko.glif</string>
+	<key>bul-ko</key>
+	<string>bul-ko.glif</string>
+	<key>bulg-ko</key>
+	<string>bulg-ko.glif</string>
 	<key>bullet</key>
 	<string>bullet.glif</string>
+	<key>bulm-ko</key>
+	<string>bulm-ko.glif</string>
+	<key>bum-ko</key>
+	<string>bum-ko.glif</string>
+	<key>bun-ko</key>
+	<string>bun-ko.glif</string>
+	<key>bung-ko</key>
+	<string>bung-ko.glif</string>
+	<key>bup-ko</key>
+	<string>bup-ko.glif</string>
+	<key>bus-ko</key>
+	<string>bus-ko.glif</string>
+	<key>but-ko</key>
+	<string>but-ko.glif</string>
+	<key>bwa-ko</key>
+	<string>bwa-ko.glif</string>
+	<key>bwae-ko</key>
+	<string>bwae-ko.glif</string>
+	<key>bwaess-ko</key>
+	<string>bwaess-ko.glif</string>
+	<key>bwan-ko</key>
+	<string>bwan-ko.glif</string>
+	<key>bwass-ko</key>
+	<string>bwass-ko.glif</string>
+	<key>bwe-ko</key>
+	<string>bwe-ko.glif</string>
+	<key>bweo-ko</key>
+	<string>bweo-ko.glif</string>
+	<key>bweol-ko</key>
+	<string>bweol-ko.glif</string>
+	<key>bweoss-ko</key>
+	<string>bweoss-ko.glif</string>
+	<key>bwi-ko</key>
+	<string>bwi-ko.glif</string>
+	<key>bwig-ko</key>
+	<string>bwig-ko.glif</string>
+	<key>bwil-ko</key>
+	<string>bwil-ko.glif</string>
+	<key>bwin-ko</key>
+	<string>bwin-ko.glif</string>
+	<key>bwing-ko</key>
+	<string>bwing-ko.glif</string>
+	<key>bya-ko</key>
+	<string>bya-ko.glif</string>
+	<key>byab-ko</key>
+	<string>byab-ko.glif</string>
+	<key>byag-ko</key>
+	<string>byag-ko.glif</string>
+	<key>byan-ko</key>
+	<string>byan-ko.glif</string>
+	<key>bye-ko</key>
+	<string>bye-ko.glif</string>
+	<key>byen-ko</key>
+	<string>byen-ko.glif</string>
+	<key>byeo-ko</key>
+	<string>byeo-ko.glif</string>
+	<key>byeob-ko</key>
+	<string>byeob-ko.glif</string>
+	<key>byeog-ko</key>
+	<string>byeog-ko.glif</string>
+	<key>byeol-ko</key>
+	<string>byeol-ko.glif</string>
+	<key>byeon-ko</key>
+	<string>byeon-ko.glif</string>
+	<key>byeong-ko</key>
+	<string>byeong-ko.glif</string>
+	<key>byeos-ko</key>
+	<string>byeos-ko.glif</string>
+	<key>byeoss-ko</key>
+	<string>byeoss-ko.glif</string>
+	<key>byeot-ko</key>
+	<string>byeot-ko.glif</string>
+	<key>byo-ko</key>
+	<string>byo-ko.glif</string>
+	<key>byon-ko</key>
+	<string>byon-ko.glif</string>
+	<key>byu-ko</key>
+	<string>byu-ko.glif</string>
+	<key>byul-ko</key>
+	<string>byul-ko.glif</string>
+	<key>byum-ko</key>
+	<string>byum-ko.glif</string>
+	<key>byun-ko</key>
+	<string>byun-ko.glif</string>
+	<key>byung-ko</key>
+	<string>byung-ko.glif</string>
+	<key>byus-ko</key>
+	<string>byus-ko.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>ca-ko</key>
+	<string>ca-ko.glif</string>
+	<key>cab-ko</key>
+	<string>cab-ko.glif</string>
+	<key>cae-ko</key>
+	<string>cae-ko.glif</string>
+	<key>caeb-ko</key>
+	<string>caeb-ko.glif</string>
+	<key>caeg-ko</key>
+	<string>caeg-ko.glif</string>
+	<key>cael-ko</key>
+	<string>cael-ko.glif</string>
+	<key>caem-ko</key>
+	<string>caem-ko.glif</string>
+	<key>caen-ko</key>
+	<string>caen-ko.glif</string>
+	<key>caeng-ko</key>
+	<string>caeng-ko.glif</string>
+	<key>caes-ko</key>
+	<string>caes-ko.glif</string>
+	<key>caess-ko</key>
+	<string>caess-ko.glif</string>
+	<key>cag-ko</key>
+	<string>cag-ko.glif</string>
+	<key>caj-ko</key>
+	<string>caj-ko.glif</string>
+	<key>cal-ko</key>
+	<string>cal-ko.glif</string>
+	<key>cam-ko</key>
+	<string>cam-ko.glif</string>
+	<key>can-ko</key>
+	<string>can-ko.glif</string>
+	<key>cang-ko</key>
+	<string>cang-ko.glif</string>
+	<key>canh-ko</key>
+	<string>canh-ko.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
 	<key>caroncomb</key>
 	<string>caroncomb.glif</string>
+	<key>cas-ko</key>
+	<string>cas-ko.glif</string>
+	<key>cass-ko</key>
+	<string>cass-ko.glif</string>
 	<key>ccedilla</key>
 	<string>ccedilla.glif</string>
+	<key>ce-ko</key>
+	<string>ce-ko.glif</string>
+	<key>ceb-ko</key>
+	<string>ceb-ko.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
 	<key>cedillacomb</key>
 	<string>cedillacomb.glif</string>
+	<key>ceg-ko</key>
+	<string>ceg-ko.glif</string>
+	<key>cel-ko</key>
+	<string>cel-ko.glif</string>
+	<key>cem-ko</key>
+	<string>cem-ko.glif</string>
+	<key>cen-ko</key>
+	<string>cen-ko.glif</string>
+	<key>ceng-ko</key>
+	<string>ceng-ko.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
+	<key>ceo-ko</key>
+	<string>ceo-ko.glif</string>
+	<key>ceob-ko</key>
+	<string>ceob-ko.glif</string>
+	<key>ceog-ko</key>
+	<string>ceog-ko.glif</string>
+	<key>ceol-ko</key>
+	<string>ceol-ko.glif</string>
+	<key>ceom-ko</key>
+	<string>ceom-ko.glif</string>
+	<key>ceon-ko</key>
+	<string>ceon-ko.glif</string>
+	<key>ceong-ko</key>
+	<string>ceong-ko.glif</string>
+	<key>ceos-ko</key>
+	<string>ceos-ko.glif</string>
+	<key>ceoss-ko</key>
+	<string>ceoss-ko.glif</string>
+	<key>ces-ko</key>
+	<string>ces-ko.glif</string>
+	<key>ceu-ko</key>
+	<string>ceu-ko.glif</string>
+	<key>ceub-ko</key>
+	<string>ceub-ko.glif</string>
+	<key>ceug-ko</key>
+	<string>ceug-ko.glif</string>
+	<key>ceul-ko</key>
+	<string>ceul-ko.glif</string>
+	<key>ceum-ko</key>
+	<string>ceum-ko.glif</string>
+	<key>ceun-ko</key>
+	<string>ceun-ko.glif</string>
+	<key>ceung-ko</key>
+	<string>ceung-ko.glif</string>
+	<key>ceus-ko</key>
+	<string>ceus-ko.glif</string>
 	<key>chieuchCho-ko</key>
 	<string>chieuchC_ho-ko.glif</string>
+	<key>chieuchCompa-ko</key>
+	<string>chieuchC_ompa-ko.glif</string>
+	<key>ci-ko</key>
+	<string>ci-ko.glif</string>
+	<key>cib-ko</key>
+	<string>cib-ko.glif</string>
+	<key>cid-ko</key>
+	<string>cid-ko.glif</string>
 	<key>cieucCho-ko</key>
 	<string>cieucC_ho-ko.glif</string>
+	<key>cieucCompa-ko</key>
+	<string>cieucC_ompa-ko.glif</string>
+	<key>cig-ko</key>
+	<string>cig-ko.glif</string>
+	<key>cil-ko</key>
+	<string>cil-ko.glif</string>
+	<key>cilg-ko</key>
+	<string>cilg-ko.glif</string>
+	<key>cim-ko</key>
+	<string>cim-ko.glif</string>
+	<key>cin-ko</key>
+	<string>cin-ko.glif</string>
+	<key>cing-ko</key>
+	<string>cing-ko.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>circumflexcomb</key>
 	<string>circumflexcomb.glif</string>
+	<key>cis-ko</key>
+	<string>cis-ko.glif</string>
+	<key>co-ko</key>
+	<string>co-ko.glif</string>
+	<key>cob-ko</key>
+	<string>cob-ko.glif</string>
+	<key>coe-ko</key>
+	<string>coe-ko.glif</string>
+	<key>coeb-ko</key>
+	<string>coeb-ko.glif</string>
+	<key>coel-ko</key>
+	<string>coel-ko.glif</string>
+	<key>coem-ko</key>
+	<string>coem-ko.glif</string>
+	<key>coen-ko</key>
+	<string>coen-ko.glif</string>
+	<key>coeng-ko</key>
+	<string>coeng-ko.glif</string>
+	<key>coes-ko</key>
+	<string>coes-ko.glif</string>
+	<key>cog-ko</key>
+	<string>cog-ko.glif</string>
+	<key>col-ko</key>
+	<string>col-ko.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
+	<key>com-ko</key>
+	<string>com-ko.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
 	<key>commaaccentcomb</key>
 	<string>commaaccentcomb.glif</string>
 	<key>commaturnedabovecomb</key>
 	<string>commaturnedabovecomb.glif</string>
+	<key>con-ko</key>
+	<string>con-ko.glif</string>
+	<key>cong-ko</key>
+	<string>cong-ko.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
+	<key>cos-ko</key>
+	<string>cos-ko.glif</string>
+	<key>cu-ko</key>
+	<string>cu-ko.glif</string>
+	<key>cub-ko</key>
+	<string>cub-ko.glif</string>
+	<key>cug-ko</key>
+	<string>cug-ko.glif</string>
+	<key>cul-ko</key>
+	<string>cul-ko.glif</string>
+	<key>cum-ko</key>
+	<string>cum-ko.glif</string>
+	<key>cun-ko</key>
+	<string>cun-ko.glif</string>
+	<key>cung-ko</key>
+	<string>cung-ko.glif</string>
 	<key>currency</key>
 	<string>currency.glif</string>
+	<key>cus-ko</key>
+	<string>cus-ko.glif</string>
+	<key>cwa-ko</key>
+	<string>cwa-ko.glif</string>
+	<key>cwal-ko</key>
+	<string>cwal-ko.glif</string>
+	<key>cwan-ko</key>
+	<string>cwan-ko.glif</string>
+	<key>cwang-ko</key>
+	<string>cwang-ko.glif</string>
+	<key>cwe-ko</key>
+	<string>cwe-ko.glif</string>
+	<key>cwen-ko</key>
+	<string>cwen-ko.glif</string>
+	<key>cweo-ko</key>
+	<string>cweo-ko.glif</string>
+	<key>cweoss-ko</key>
+	<string>cweoss-ko.glif</string>
+	<key>cwi-ko</key>
+	<string>cwi-ko.glif</string>
+	<key>cwib-ko</key>
+	<string>cwib-ko.glif</string>
+	<key>cwil-ko</key>
+	<string>cwil-ko.glif</string>
+	<key>cwim-ko</key>
+	<string>cwim-ko.glif</string>
+	<key>cwin-ko</key>
+	<string>cwin-ko.glif</string>
+	<key>cwing-ko</key>
+	<string>cwing-ko.glif</string>
+	<key>cwis-ko</key>
+	<string>cwis-ko.glif</string>
+	<key>cya-ko</key>
+	<string>cya-ko.glif</string>
+	<key>cyal-ko</key>
+	<string>cyal-ko.glif</string>
+	<key>cyam-ko</key>
+	<string>cyam-ko.glif</string>
+	<key>cyan-ko</key>
+	<string>cyan-ko.glif</string>
+	<key>cyang-ko</key>
+	<string>cyang-ko.glif</string>
+	<key>cyanh-ko</key>
+	<string>cyanh-ko.glif</string>
+	<key>cye-ko</key>
+	<string>cye-ko.glif</string>
+	<key>cyen-ko</key>
+	<string>cyen-ko.glif</string>
+	<key>cyeng-ko</key>
+	<string>cyeng-ko.glif</string>
+	<key>cyeo-ko</key>
+	<string>cyeo-ko.glif</string>
+	<key>cyeon-ko</key>
+	<string>cyeon-ko.glif</string>
+	<key>cyeoss-ko</key>
+	<string>cyeoss-ko.glif</string>
+	<key>cyo-ko</key>
+	<string>cyo-ko.glif</string>
+	<key>cyom-ko</key>
+	<string>cyom-ko.glif</string>
+	<key>cyu-ko</key>
+	<string>cyu-ko.glif</string>
+	<key>cyul-ko</key>
+	<string>cyul-ko.glif</string>
+	<key>cyum-ko</key>
+	<string>cyum-ko.glif</string>
+	<key>cyun-ko</key>
+	<string>cyun-ko.glif</string>
+	<key>cyung-ko</key>
+	<string>cyung-ko.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
 	<key>da-hira</key>
 	<string>da-hira.glif</string>
 	<key>da-kata</key>
 	<string>da-kata.glif</string>
+	<key>da-ko</key>
+	<string>da-ko.glif</string>
+	<key>dab-ko</key>
+	<string>dab-ko.glif</string>
+	<key>dac-ko</key>
+	<string>dac-ko.glif</string>
+	<key>dad-ko</key>
+	<string>dad-ko.glif</string>
+	<key>dae-ko</key>
+	<string>dae-ko.glif</string>
+	<key>daeb-ko</key>
+	<string>daeb-ko.glif</string>
+	<key>daeg-ko</key>
+	<string>daeg-ko.glif</string>
+	<key>dael-ko</key>
+	<string>dael-ko.glif</string>
+	<key>daem-ko</key>
+	<string>daem-ko.glif</string>
+	<key>daen-ko</key>
+	<string>daen-ko.glif</string>
+	<key>daeng-ko</key>
+	<string>daeng-ko.glif</string>
+	<key>daes-ko</key>
+	<string>daes-ko.glif</string>
+	<key>daess-ko</key>
+	<string>daess-ko.glif</string>
+	<key>dag-ko</key>
+	<string>dag-ko.glif</string>
+	<key>dagg-ko</key>
+	<string>dagg-ko.glif</string>
 	<key>dagger</key>
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
 	<string>daggerdbl.glif</string>
+	<key>dah-ko</key>
+	<string>dah-ko.glif</string>
+	<key>daj-ko</key>
+	<string>daj-ko.glif</string>
+	<key>dal-ko</key>
+	<string>dal-ko.glif</string>
+	<key>dalb-ko</key>
+	<string>dalb-ko.glif</string>
+	<key>dalg-ko</key>
+	<string>dalg-ko.glif</string>
+	<key>dalh-ko</key>
+	<string>dalh-ko.glif</string>
+	<key>dalm-ko</key>
+	<string>dalm-ko.glif</string>
+	<key>dam-ko</key>
+	<string>dam-ko.glif</string>
+	<key>dan-ko</key>
+	<string>dan-ko.glif</string>
+	<key>dang-ko</key>
+	<string>dang-ko.glif</string>
+	<key>das-ko</key>
+	<string>das-ko.glif</string>
+	<key>dass-ko</key>
+	<string>dass-ko.glif</string>
 	<key>dblhyphen-kana</key>
 	<string>dblhyphen-kana.glif</string>
+	<key>dda-ko</key>
+	<string>dda-ko.glif</string>
+	<key>ddab-ko</key>
+	<string>ddab-ko.glif</string>
+	<key>ddae-ko</key>
+	<string>ddae-ko.glif</string>
+	<key>ddaeb-ko</key>
+	<string>ddaeb-ko.glif</string>
+	<key>ddaeg-ko</key>
+	<string>ddaeg-ko.glif</string>
+	<key>ddael-ko</key>
+	<string>ddael-ko.glif</string>
+	<key>ddaem-ko</key>
+	<string>ddaem-ko.glif</string>
+	<key>ddaen-ko</key>
+	<string>ddaen-ko.glif</string>
+	<key>ddaeng-ko</key>
+	<string>ddaeng-ko.glif</string>
+	<key>ddaes-ko</key>
+	<string>ddaes-ko.glif</string>
+	<key>ddaess-ko</key>
+	<string>ddaess-ko.glif</string>
+	<key>ddag-ko</key>
+	<string>ddag-ko.glif</string>
+	<key>ddah-ko</key>
+	<string>ddah-ko.glif</string>
+	<key>ddal-ko</key>
+	<string>ddal-ko.glif</string>
+	<key>ddam-ko</key>
+	<string>ddam-ko.glif</string>
+	<key>ddan-ko</key>
+	<string>ddan-ko.glif</string>
+	<key>ddang-ko</key>
+	<string>ddang-ko.glif</string>
+	<key>ddas-ko</key>
+	<string>ddas-ko.glif</string>
+	<key>ddass-ko</key>
+	<string>ddass-ko.glif</string>
+	<key>dde-ko</key>
+	<string>dde-ko.glif</string>
+	<key>ddeb-ko</key>
+	<string>ddeb-ko.glif</string>
+	<key>ddeg-ko</key>
+	<string>ddeg-ko.glif</string>
+	<key>ddel-ko</key>
+	<string>ddel-ko.glif</string>
+	<key>ddem-ko</key>
+	<string>ddem-ko.glif</string>
+	<key>dden-ko</key>
+	<string>dden-ko.glif</string>
+	<key>ddeng-ko</key>
+	<string>ddeng-ko.glif</string>
+	<key>ddeo-ko</key>
+	<string>ddeo-ko.glif</string>
+	<key>ddeob-ko</key>
+	<string>ddeob-ko.glif</string>
+	<key>ddeog-ko</key>
+	<string>ddeog-ko.glif</string>
+	<key>ddeoh-ko</key>
+	<string>ddeoh-ko.glif</string>
+	<key>ddeol-ko</key>
+	<string>ddeol-ko.glif</string>
+	<key>ddeolb-ko</key>
+	<string>ddeolb-ko.glif</string>
+	<key>ddeolm-ko</key>
+	<string>ddeolm-ko.glif</string>
+	<key>ddeom-ko</key>
+	<string>ddeom-ko.glif</string>
+	<key>ddeon-ko</key>
+	<string>ddeon-ko.glif</string>
+	<key>ddeong-ko</key>
+	<string>ddeong-ko.glif</string>
+	<key>ddeos-ko</key>
+	<string>ddeos-ko.glif</string>
+	<key>ddeoss-ko</key>
+	<string>ddeoss-ko.glif</string>
+	<key>ddes-ko</key>
+	<string>ddes-ko.glif</string>
+	<key>ddess-ko</key>
+	<string>ddess-ko.glif</string>
+	<key>ddeu-ko</key>
+	<string>ddeu-ko.glif</string>
+	<key>ddeub-ko</key>
+	<string>ddeub-ko.glif</string>
+	<key>ddeud-ko</key>
+	<string>ddeud-ko.glif</string>
+	<key>ddeug-ko</key>
+	<string>ddeug-ko.glif</string>
+	<key>ddeul-ko</key>
+	<string>ddeul-ko.glif</string>
+	<key>ddeum-ko</key>
+	<string>ddeum-ko.glif</string>
+	<key>ddeun-ko</key>
+	<string>ddeun-ko.glif</string>
+	<key>ddeus-ko</key>
+	<string>ddeus-ko.glif</string>
+	<key>ddi-ko</key>
+	<string>ddi-ko.glif</string>
+	<key>ddib-ko</key>
+	<string>ddib-ko.glif</string>
+	<key>ddil-ko</key>
+	<string>ddil-ko.glif</string>
+	<key>ddim-ko</key>
+	<string>ddim-ko.glif</string>
+	<key>ddin-ko</key>
+	<string>ddin-ko.glif</string>
+	<key>dding-ko</key>
+	<string>dding-ko.glif</string>
+	<key>ddis-ko</key>
+	<string>ddis-ko.glif</string>
+	<key>ddo-ko</key>
+	<string>ddo-ko.glif</string>
+	<key>ddoe-ko</key>
+	<string>ddoe-ko.glif</string>
+	<key>ddoen-ko</key>
+	<string>ddoen-ko.glif</string>
+	<key>ddog-ko</key>
+	<string>ddog-ko.glif</string>
+	<key>ddol-ko</key>
+	<string>ddol-ko.glif</string>
+	<key>ddon-ko</key>
+	<string>ddon-ko.glif</string>
+	<key>ddong-ko</key>
+	<string>ddong-ko.glif</string>
+	<key>ddu-ko</key>
+	<string>ddu-ko.glif</string>
+	<key>ddug-ko</key>
+	<string>ddug-ko.glif</string>
+	<key>ddul-ko</key>
+	<string>ddul-ko.glif</string>
+	<key>ddulh-ko</key>
+	<string>ddulh-ko.glif</string>
+	<key>ddum-ko</key>
+	<string>ddum-ko.glif</string>
+	<key>ddun-ko</key>
+	<string>ddun-ko.glif</string>
+	<key>ddung-ko</key>
+	<string>ddung-ko.glif</string>
+	<key>ddwa-ko</key>
+	<string>ddwa-ko.glif</string>
+	<key>ddwae-ko</key>
+	<string>ddwae-ko.glif</string>
+	<key>ddwal-ko</key>
+	<string>ddwal-ko.glif</string>
+	<key>ddwe-ko</key>
+	<string>ddwe-ko.glif</string>
+	<key>ddwi-ko</key>
+	<string>ddwi-ko.glif</string>
+	<key>ddwib-ko</key>
+	<string>ddwib-ko.glif</string>
+	<key>ddwil-ko</key>
+	<string>ddwil-ko.glif</string>
+	<key>ddwim-ko</key>
+	<string>ddwim-ko.glif</string>
+	<key>ddwin-ko</key>
+	<string>ddwin-ko.glif</string>
+	<key>ddwing-ko</key>
+	<string>ddwing-ko.glif</string>
+	<key>ddyeo-ko</key>
+	<string>ddyeo-ko.glif</string>
+	<key>ddyeoss-ko</key>
+	<string>ddyeoss-ko.glif</string>
+	<key>ddyi-ko</key>
+	<string>ddyi-ko.glif</string>
+	<key>ddyib-ko</key>
+	<string>ddyib-ko.glif</string>
+	<key>ddyil-ko</key>
+	<string>ddyil-ko.glif</string>
+	<key>ddyim-ko</key>
+	<string>ddyim-ko.glif</string>
+	<key>ddyin-ko</key>
+	<string>ddyin-ko.glif</string>
 	<key>de-hira</key>
 	<string>de-hira.glif</string>
 	<key>de-kata</key>
 	<string>de-kata.glif</string>
+	<key>de-ko</key>
+	<string>de-ko.glif</string>
+	<key>deb-ko</key>
+	<string>deb-ko.glif</string>
+	<key>deg-ko</key>
+	<string>deg-ko.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
+	<key>del-ko</key>
+	<string>del-ko.glif</string>
+	<key>dem-ko</key>
+	<string>dem-ko.glif</string>
+	<key>den-ko</key>
+	<string>den-ko.glif</string>
+	<key>deng-ko</key>
+	<string>deng-ko.glif</string>
+	<key>deo-ko</key>
+	<string>deo-ko.glif</string>
+	<key>deob-ko</key>
+	<string>deob-ko.glif</string>
+	<key>deoc-ko</key>
+	<string>deoc-ko.glif</string>
+	<key>deod-ko</key>
+	<string>deod-ko.glif</string>
+	<key>deog-ko</key>
+	<string>deog-ko.glif</string>
+	<key>deogg-ko</key>
+	<string>deogg-ko.glif</string>
+	<key>deol-ko</key>
+	<string>deol-ko.glif</string>
+	<key>deolb-ko</key>
+	<string>deolb-ko.glif</string>
+	<key>deolm-ko</key>
+	<string>deolm-ko.glif</string>
+	<key>deom-ko</key>
+	<string>deom-ko.glif</string>
+	<key>deon-ko</key>
+	<string>deon-ko.glif</string>
+	<key>deong-ko</key>
+	<string>deong-ko.glif</string>
+	<key>deop-ko</key>
+	<string>deop-ko.glif</string>
+	<key>deos-ko</key>
+	<string>deos-ko.glif</string>
+	<key>des-ko</key>
+	<string>des-ko.glif</string>
+	<key>dess-ko</key>
+	<string>dess-ko.glif</string>
+	<key>deu-ko</key>
+	<string>deu-ko.glif</string>
+	<key>deub-ko</key>
+	<string>deub-ko.glif</string>
+	<key>deud-ko</key>
+	<string>deud-ko.glif</string>
+	<key>deug-ko</key>
+	<string>deug-ko.glif</string>
+	<key>deul-ko</key>
+	<string>deul-ko.glif</string>
+	<key>deulm-ko</key>
+	<string>deulm-ko.glif</string>
+	<key>deum-ko</key>
+	<string>deum-ko.glif</string>
+	<key>deun-ko</key>
+	<string>deun-ko.glif</string>
+	<key>deung-ko</key>
+	<string>deung-ko.glif</string>
+	<key>deus-ko</key>
+	<string>deus-ko.glif</string>
 	<key>di-hira</key>
 	<string>di-hira.glif</string>
 	<key>di-kata</key>
 	<string>di-kata.glif</string>
+	<key>di-ko</key>
+	<string>di-ko.glif</string>
+	<key>dib-ko</key>
+	<string>dib-ko.glif</string>
+	<key>did-ko</key>
+	<string>did-ko.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dieresiscomb</key>
 	<string>dieresiscomb.glif</string>
+	<key>dig-ko</key>
+	<string>dig-ko.glif</string>
 	<key>digraphkoto-kata</key>
 	<string>digraphkoto-kata.glif</string>
 	<key>digraphyori-hira</key>
 	<string>digraphyori-hira.glif</string>
+	<key>dij-ko</key>
+	<string>dij-ko.glif</string>
+	<key>dil-ko</key>
+	<string>dil-ko.glif</string>
+	<key>dim-ko</key>
+	<string>dim-ko.glif</string>
+	<key>din-ko</key>
+	<string>din-ko.glif</string>
+	<key>ding-ko</key>
+	<string>ding-ko.glif</string>
+	<key>dis-ko</key>
+	<string>dis-ko.glif</string>
+	<key>diss-ko</key>
+	<string>diss-ko.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
 	<key>do-hira</key>
 	<string>do-hira.glif</string>
 	<key>do-kata</key>
 	<string>do-kata.glif</string>
+	<key>do-ko</key>
+	<string>do-ko.glif</string>
+	<key>dob-ko</key>
+	<string>dob-ko.glif</string>
+	<key>doc-ko</key>
+	<string>doc-ko.glif</string>
+	<key>dod-ko</key>
+	<string>dod-ko.glif</string>
+	<key>doe-ko</key>
+	<string>doe-ko.glif</string>
+	<key>doeb-ko</key>
+	<string>doeb-ko.glif</string>
+	<key>doel-ko</key>
+	<string>doel-ko.glif</string>
+	<key>doem-ko</key>
+	<string>doem-ko.glif</string>
+	<key>doen-ko</key>
+	<string>doen-ko.glif</string>
+	<key>does-ko</key>
+	<string>does-ko.glif</string>
+	<key>dog-ko</key>
+	<string>dog-ko.glif</string>
+	<key>dol-ko</key>
+	<string>dol-ko.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
+	<key>dolm-ko</key>
+	<string>dolm-ko.glif</string>
+	<key>dols-ko</key>
+	<string>dols-ko.glif</string>
+	<key>dom-ko</key>
+	<string>dom-ko.glif</string>
+	<key>don-ko</key>
+	<string>don-ko.glif</string>
+	<key>dong-ko</key>
+	<string>dong-ko.glif</string>
+	<key>dos-ko</key>
+	<string>dos-ko.glif</string>
 	<key>dot-kata</key>
 	<string>dot-kata.glif</string>
+	<key>dot-ko</key>
+	<string>dot-ko.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
 	<key>dotaccentcomb</key>
@@ -306,46 +1344,208 @@
 	<string>du-hira.glif</string>
 	<key>du-kata</key>
 	<string>du-kata.glif</string>
+	<key>du-ko</key>
+	<string>du-ko.glif</string>
+	<key>dub-ko</key>
+	<string>dub-ko.glif</string>
+	<key>dug-ko</key>
+	<string>dug-ko.glif</string>
+	<key>dul-ko</key>
+	<string>dul-ko.glif</string>
+	<key>dum-ko</key>
+	<string>dum-ko.glif</string>
+	<key>dun-ko</key>
+	<string>dun-ko.glif</string>
+	<key>dung-ko</key>
+	<string>dung-ko.glif</string>
+	<key>dus-ko</key>
+	<string>dus-ko.glif</string>
+	<key>dwa-ko</key>
+	<string>dwa-ko.glif</string>
+	<key>dwae-ko</key>
+	<string>dwae-ko.glif</string>
+	<key>dwaess-ko</key>
+	<string>dwaess-ko.glif</string>
+	<key>dwal-ko</key>
+	<string>dwal-ko.glif</string>
+	<key>dwan-ko</key>
+	<string>dwan-ko.glif</string>
+	<key>dwe-ko</key>
+	<string>dwe-ko.glif</string>
+	<key>dweng-ko</key>
+	<string>dweng-ko.glif</string>
+	<key>dweo-ko</key>
+	<string>dweo-ko.glif</string>
+	<key>dweoss-ko</key>
+	<string>dweoss-ko.glif</string>
+	<key>dwi-ko</key>
+	<string>dwi-ko.glif</string>
+	<key>dwib-ko</key>
+	<string>dwib-ko.glif</string>
+	<key>dwil-ko</key>
+	<string>dwil-ko.glif</string>
+	<key>dwin-ko</key>
+	<string>dwin-ko.glif</string>
+	<key>dwing-ko</key>
+	<string>dwing-ko.glif</string>
+	<key>dwis-ko</key>
+	<string>dwis-ko.glif</string>
+	<key>dya-ko</key>
+	<string>dya-ko.glif</string>
+	<key>dye-ko</key>
+	<string>dye-ko.glif</string>
+	<key>dyen-ko</key>
+	<string>dyen-ko.glif</string>
+	<key>dyeo-ko</key>
+	<string>dyeo-ko.glif</string>
+	<key>dyeol-ko</key>
+	<string>dyeol-ko.glif</string>
+	<key>dyeon-ko</key>
+	<string>dyeon-ko.glif</string>
+	<key>dyeong-ko</key>
+	<string>dyeong-ko.glif</string>
+	<key>dyeoss-ko</key>
+	<string>dyeoss-ko.glif</string>
+	<key>dyi-ko</key>
+	<string>dyi-ko.glif</string>
+	<key>dyo-ko</key>
+	<string>dyo-ko.glif</string>
+	<key>dyu-ko</key>
+	<string>dyu-ko.glif</string>
+	<key>dyul-ko</key>
+	<string>dyul-ko.glif</string>
+	<key>dyum-ko</key>
+	<string>dyum-ko.glif</string>
+	<key>dyun-ko</key>
+	<string>dyun-ko.glif</string>
+	<key>dyung-ko</key>
+	<string>dyung-ko.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>e-hira</key>
 	<string>e-hira.glif</string>
 	<key>e-kata</key>
 	<string>e-kata.glif</string>
+	<key>e-ko</key>
+	<string>e-ko.glif</string>
+	<key>eCompa-ko</key>
+	<string>eC_ompa-ko.glif</string>
 	<key>eJung-ko</key>
 	<string>eJ_ung-ko.glif</string>
 	<key>eacute</key>
 	<string>eacute.glif</string>
+	<key>eb-ko</key>
+	<string>eb-ko.glif</string>
 	<key>ecircumflex</key>
 	<string>ecircumflex.glif</string>
 	<key>edieresis</key>
 	<string>edieresis.glif</string>
+	<key>eg-ko</key>
+	<string>eg-ko.glif</string>
 	<key>egrave</key>
 	<string>egrave.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>el-ko</key>
+	<string>el-ko.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
+	<key>em-ko</key>
+	<string>em-ko.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
 	<key>emptyset</key>
 	<string>emptyset.glif</string>
+	<key>en-ko</key>
+	<string>en-ko.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
+	<key>eng-ko</key>
+	<string>eng-ko.glif</string>
+	<key>eo-ko</key>
+	<string>eo-ko.glif</string>
+	<key>eoCompa-ko</key>
+	<string>eoC_ompa-ko.glif</string>
 	<key>eoJung-ko</key>
 	<string>eoJ_ung-ko.glif</string>
+	<key>eob-ko</key>
+	<string>eob-ko.glif</string>
+	<key>eobs-ko</key>
+	<string>eobs-ko.glif</string>
+	<key>eod-ko</key>
+	<string>eod-ko.glif</string>
+	<key>eog-ko</key>
+	<string>eog-ko.glif</string>
+	<key>eoj-ko</key>
+	<string>eoj-ko.glif</string>
+	<key>eok-ko</key>
+	<string>eok-ko.glif</string>
+	<key>eol-ko</key>
+	<string>eol-ko.glif</string>
+	<key>eolg-ko</key>
+	<string>eolg-ko.glif</string>
+	<key>eolm-ko</key>
+	<string>eolm-ko.glif</string>
+	<key>eom-ko</key>
+	<string>eom-ko.glif</string>
+	<key>eon-ko</key>
+	<string>eon-ko.glif</string>
+	<key>eong-ko</key>
+	<string>eong-ko.glif</string>
+	<key>eonj-ko</key>
+	<string>eonj-ko.glif</string>
+	<key>eop-ko</key>
+	<string>eop-ko.glif</string>
+	<key>eos-ko</key>
+	<string>eos-ko.glif</string>
+	<key>eoss-ko</key>
+	<string>eoss-ko.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>es-ko</key>
+	<string>es-ko.glif</string>
 	<key>esmall-hira</key>
 	<string>esmall-hira.glif</string>
 	<key>esmall-kata</key>
 	<string>esmall-kata.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
+	<key>eu-ko</key>
+	<string>eu-ko.glif</string>
+	<key>euCompa-ko</key>
+	<string>euC_ompa-ko.glif</string>
 	<key>euJung-ko</key>
 	<string>euJ_ung-ko.glif</string>
+	<key>eub-ko</key>
+	<string>eub-ko.glif</string>
+	<key>euc-ko</key>
+	<string>euc-ko.glif</string>
+	<key>eug-ko</key>
+	<string>eug-ko.glif</string>
+	<key>euh-ko</key>
+	<string>euh-ko.glif</string>
+	<key>euj-ko</key>
+	<string>euj-ko.glif</string>
+	<key>euk-ko</key>
+	<string>euk-ko.glif</string>
+	<key>eul-ko</key>
+	<string>eul-ko.glif</string>
+	<key>eulp-ko</key>
+	<string>eulp-ko.glif</string>
+	<key>eum-ko</key>
+	<string>eum-ko.glif</string>
+	<key>eun-ko</key>
+	<string>eun-ko.glif</string>
+	<key>eung-ko</key>
+	<string>eung-ko.glif</string>
+	<key>eup-ko</key>
+	<string>eup-ko.glif</string>
 	<key>euro</key>
 	<string>euro.glif</string>
+	<key>eus-ko</key>
+	<string>eus-ko.glif</string>
+	<key>eut-ko</key>
+	<string>eut-ko.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
@@ -368,22 +1568,444 @@
 	<string>ga-kata.glif</string>
 	<key>ga-ko</key>
 	<string>ga-ko.glif</string>
+	<key>gab-ko</key>
+	<string>gab-ko.glif</string>
+	<key>gabs-ko</key>
+	<string>gabs-ko.glif</string>
+	<key>gac-ko</key>
+	<string>gac-ko.glif</string>
+	<key>gad-ko</key>
+	<string>gad-ko.glif</string>
+	<key>gae-ko</key>
+	<string>gae-ko.glif</string>
+	<key>gaeb-ko</key>
+	<string>gaeb-ko.glif</string>
+	<key>gaeg-ko</key>
+	<string>gaeg-ko.glif</string>
+	<key>gael-ko</key>
+	<string>gael-ko.glif</string>
+	<key>gaem-ko</key>
+	<string>gaem-ko.glif</string>
+	<key>gaen-ko</key>
+	<string>gaen-ko.glif</string>
+	<key>gaeng-ko</key>
+	<string>gaeng-ko.glif</string>
+	<key>gaes-ko</key>
+	<string>gaes-ko.glif</string>
+	<key>gaess-ko</key>
+	<string>gaess-ko.glif</string>
 	<key>gag-ko</key>
 	<string>gag-ko.glif</string>
+	<key>gah-ko</key>
+	<string>gah-ko.glif</string>
+	<key>gaj-ko</key>
+	<string>gaj-ko.glif</string>
+	<key>gal-ko</key>
+	<string>gal-ko.glif</string>
+	<key>galg-ko</key>
+	<string>galg-ko.glif</string>
+	<key>galm-ko</key>
+	<string>galm-ko.glif</string>
+	<key>gam-ko</key>
+	<string>gam-ko.glif</string>
+	<key>gan-ko</key>
+	<string>gan-ko.glif</string>
+	<key>gang-ko</key>
+	<string>gang-ko.glif</string>
+	<key>gap-ko</key>
+	<string>gap-ko.glif</string>
+	<key>gas-ko</key>
+	<string>gas-ko.glif</string>
+	<key>gass-ko</key>
+	<string>gass-ko.glif</string>
+	<key>gat-ko</key>
+	<string>gat-ko.glif</string>
 	<key>ge-hira</key>
 	<string>ge-hira.glif</string>
 	<key>ge-kata</key>
 	<string>ge-kata.glif</string>
+	<key>ge-ko</key>
+	<string>ge-ko.glif</string>
+	<key>geb-ko</key>
+	<string>geb-ko.glif</string>
+	<key>gel-ko</key>
+	<string>gel-ko.glif</string>
+	<key>gem-ko</key>
+	<string>gem-ko.glif</string>
+	<key>gen-ko</key>
+	<string>gen-ko.glif</string>
+	<key>geng-ko</key>
+	<string>geng-ko.glif</string>
+	<key>geo-ko</key>
+	<string>geo-ko.glif</string>
+	<key>geob-ko</key>
+	<string>geob-ko.glif</string>
+	<key>geod-ko</key>
+	<string>geod-ko.glif</string>
+	<key>geog-ko</key>
+	<string>geog-ko.glif</string>
+	<key>geoh-ko</key>
+	<string>geoh-ko.glif</string>
+	<key>geoj-ko</key>
+	<string>geoj-ko.glif</string>
+	<key>geol-ko</key>
+	<string>geol-ko.glif</string>
+	<key>geolm-ko</key>
+	<string>geolm-ko.glif</string>
+	<key>geom-ko</key>
+	<string>geom-ko.glif</string>
+	<key>geon-ko</key>
+	<string>geon-ko.glif</string>
+	<key>geong-ko</key>
+	<string>geong-ko.glif</string>
+	<key>geop-ko</key>
+	<string>geop-ko.glif</string>
+	<key>geos-ko</key>
+	<string>geos-ko.glif</string>
+	<key>geoss-ko</key>
+	<string>geoss-ko.glif</string>
+	<key>geot-ko</key>
+	<string>geot-ko.glif</string>
 	<key>germandbls</key>
 	<string>germandbls.glif</string>
+	<key>ges-ko</key>
+	<string>ges-ko.glif</string>
+	<key>gess-ko</key>
+	<string>gess-ko.glif</string>
+	<key>geu-ko</key>
+	<string>geu-ko.glif</string>
+	<key>geub-ko</key>
+	<string>geub-ko.glif</string>
+	<key>geud-ko</key>
+	<string>geud-ko.glif</string>
+	<key>geug-ko</key>
+	<string>geug-ko.glif</string>
+	<key>geul-ko</key>
+	<string>geul-ko.glif</string>
+	<key>geulg-ko</key>
+	<string>geulg-ko.glif</string>
+	<key>geum-ko</key>
+	<string>geum-ko.glif</string>
+	<key>geun-ko</key>
+	<string>geun-ko.glif</string>
+	<key>geung-ko</key>
+	<string>geung-ko.glif</string>
+	<key>geus-ko</key>
+	<string>geus-ko.glif</string>
+	<key>gga-ko</key>
+	<string>gga-ko.glif</string>
+	<key>ggab-ko</key>
+	<string>ggab-ko.glif</string>
+	<key>ggae-ko</key>
+	<string>ggae-ko.glif</string>
+	<key>ggaeb-ko</key>
+	<string>ggaeb-ko.glif</string>
+	<key>ggaeg-ko</key>
+	<string>ggaeg-ko.glif</string>
+	<key>ggael-ko</key>
+	<string>ggael-ko.glif</string>
+	<key>ggaem-ko</key>
+	<string>ggaem-ko.glif</string>
+	<key>ggaen-ko</key>
+	<string>ggaen-ko.glif</string>
+	<key>ggaeng-ko</key>
+	<string>ggaeng-ko.glif</string>
+	<key>ggaes-ko</key>
+	<string>ggaes-ko.glif</string>
+	<key>ggaess-ko</key>
+	<string>ggaess-ko.glif</string>
+	<key>ggag-ko</key>
+	<string>ggag-ko.glif</string>
+	<key>ggagg-ko</key>
+	<string>ggagg-ko.glif</string>
+	<key>ggal-ko</key>
+	<string>ggal-ko.glif</string>
+	<key>ggalm-ko</key>
+	<string>ggalm-ko.glif</string>
+	<key>ggam-ko</key>
+	<string>ggam-ko.glif</string>
+	<key>ggan-ko</key>
+	<string>ggan-ko.glif</string>
+	<key>ggang-ko</key>
+	<string>ggang-ko.glif</string>
+	<key>ggas-ko</key>
+	<string>ggas-ko.glif</string>
+	<key>ggass-ko</key>
+	<string>ggass-ko.glif</string>
+	<key>ggat-ko</key>
+	<string>ggat-ko.glif</string>
+	<key>gge-ko</key>
+	<string>gge-ko.glif</string>
+	<key>ggeg-ko</key>
+	<string>ggeg-ko.glif</string>
+	<key>ggem-ko</key>
+	<string>ggem-ko.glif</string>
+	<key>ggen-ko</key>
+	<string>ggen-ko.glif</string>
+	<key>ggeng-ko</key>
+	<string>ggeng-ko.glif</string>
+	<key>ggeo-ko</key>
+	<string>ggeo-ko.glif</string>
+	<key>ggeob-ko</key>
+	<string>ggeob-ko.glif</string>
+	<key>ggeog-ko</key>
+	<string>ggeog-ko.glif</string>
+	<key>ggeogg-ko</key>
+	<string>ggeogg-ko.glif</string>
+	<key>ggeol-ko</key>
+	<string>ggeol-ko.glif</string>
+	<key>ggeom-ko</key>
+	<string>ggeom-ko.glif</string>
+	<key>ggeon-ko</key>
+	<string>ggeon-ko.glif</string>
+	<key>ggeong-ko</key>
+	<string>ggeong-ko.glif</string>
+	<key>ggeos-ko</key>
+	<string>ggeos-ko.glif</string>
+	<key>ggeoss-ko</key>
+	<string>ggeoss-ko.glif</string>
+	<key>gges-ko</key>
+	<string>gges-ko.glif</string>
+	<key>ggeu-ko</key>
+	<string>ggeu-ko.glif</string>
+	<key>ggeub-ko</key>
+	<string>ggeub-ko.glif</string>
+	<key>ggeug-ko</key>
+	<string>ggeug-ko.glif</string>
+	<key>ggeul-ko</key>
+	<string>ggeul-ko.glif</string>
+	<key>ggeulh-ko</key>
+	<string>ggeulh-ko.glif</string>
+	<key>ggeulm-ko</key>
+	<string>ggeulm-ko.glif</string>
+	<key>ggeum-ko</key>
+	<string>ggeum-ko.glif</string>
+	<key>ggeun-ko</key>
+	<string>ggeun-ko.glif</string>
+	<key>ggeung-ko</key>
+	<string>ggeung-ko.glif</string>
+	<key>ggeunh-ko</key>
+	<string>ggeunh-ko.glif</string>
+	<key>ggeus-ko</key>
+	<string>ggeus-ko.glif</string>
+	<key>ggeut-ko</key>
+	<string>ggeut-ko.glif</string>
+	<key>ggi-ko</key>
+	<string>ggi-ko.glif</string>
+	<key>ggib-ko</key>
+	<string>ggib-ko.glif</string>
+	<key>ggig-ko</key>
+	<string>ggig-ko.glif</string>
+	<key>ggil-ko</key>
+	<string>ggil-ko.glif</string>
+	<key>ggim-ko</key>
+	<string>ggim-ko.glif</string>
+	<key>ggin-ko</key>
+	<string>ggin-ko.glif</string>
+	<key>gging-ko</key>
+	<string>gging-ko.glif</string>
+	<key>ggis-ko</key>
+	<string>ggis-ko.glif</string>
+	<key>ggo-ko</key>
+	<string>ggo-ko.glif</string>
+	<key>ggob-ko</key>
+	<string>ggob-ko.glif</string>
+	<key>ggoc-ko</key>
+	<string>ggoc-ko.glif</string>
+	<key>ggoe-ko</key>
+	<string>ggoe-ko.glif</string>
+	<key>ggoeb-ko</key>
+	<string>ggoeb-ko.glif</string>
+	<key>ggoel-ko</key>
+	<string>ggoel-ko.glif</string>
+	<key>ggoem-ko</key>
+	<string>ggoem-ko.glif</string>
+	<key>ggoen-ko</key>
+	<string>ggoen-ko.glif</string>
+	<key>ggoeng-ko</key>
+	<string>ggoeng-ko.glif</string>
+	<key>ggog-ko</key>
+	<string>ggog-ko.glif</string>
+	<key>ggoj-ko</key>
+	<string>ggoj-ko.glif</string>
+	<key>ggol-ko</key>
+	<string>ggol-ko.glif</string>
+	<key>ggom-ko</key>
+	<string>ggom-ko.glif</string>
+	<key>ggon-ko</key>
+	<string>ggon-ko.glif</string>
+	<key>ggong-ko</key>
+	<string>ggong-ko.glif</string>
+	<key>ggonh-ko</key>
+	<string>ggonh-ko.glif</string>
+	<key>ggos-ko</key>
+	<string>ggos-ko.glif</string>
+	<key>ggu-ko</key>
+	<string>ggu-ko.glif</string>
+	<key>ggub-ko</key>
+	<string>ggub-ko.glif</string>
+	<key>ggug-ko</key>
+	<string>ggug-ko.glif</string>
+	<key>gguj-ko</key>
+	<string>gguj-ko.glif</string>
+	<key>ggul-ko</key>
+	<string>ggul-ko.glif</string>
+	<key>ggulh-ko</key>
+	<string>ggulh-ko.glif</string>
+	<key>ggum-ko</key>
+	<string>ggum-ko.glif</string>
+	<key>ggun-ko</key>
+	<string>ggun-ko.glif</string>
+	<key>ggung-ko</key>
+	<string>ggung-ko.glif</string>
+	<key>ggus-ko</key>
+	<string>ggus-ko.glif</string>
+	<key>ggwa-ko</key>
+	<string>ggwa-ko.glif</string>
+	<key>ggwae-ko</key>
+	<string>ggwae-ko.glif</string>
+	<key>ggwaeg-ko</key>
+	<string>ggwaeg-ko.glif</string>
+	<key>ggwaeng-ko</key>
+	<string>ggwaeng-ko.glif</string>
+	<key>ggwag-ko</key>
+	<string>ggwag-ko.glif</string>
+	<key>ggwal-ko</key>
+	<string>ggwal-ko.glif</string>
+	<key>ggwang-ko</key>
+	<string>ggwang-ko.glif</string>
+	<key>ggwass-ko</key>
+	<string>ggwass-ko.glif</string>
+	<key>ggwe-ko</key>
+	<string>ggwe-ko.glif</string>
+	<key>ggweb-ko</key>
+	<string>ggweb-ko.glif</string>
+	<key>ggweg-ko</key>
+	<string>ggweg-ko.glif</string>
+	<key>ggwel-ko</key>
+	<string>ggwel-ko.glif</string>
+	<key>ggwem-ko</key>
+	<string>ggwem-ko.glif</string>
+	<key>ggwen-ko</key>
+	<string>ggwen-ko.glif</string>
+	<key>ggweo-ko</key>
+	<string>ggweo-ko.glif</string>
+	<key>ggweol-ko</key>
+	<string>ggweol-ko.glif</string>
+	<key>ggweong-ko</key>
+	<string>ggweong-ko.glif</string>
+	<key>ggweoss-ko</key>
+	<string>ggweoss-ko.glif</string>
+	<key>ggwess-ko</key>
+	<string>ggwess-ko.glif</string>
+	<key>ggwi-ko</key>
+	<string>ggwi-ko.glif</string>
+	<key>ggwib-ko</key>
+	<string>ggwib-ko.glif</string>
+	<key>ggwil-ko</key>
+	<string>ggwil-ko.glif</string>
+	<key>ggwim-ko</key>
+	<string>ggwim-ko.glif</string>
+	<key>ggwin-ko</key>
+	<string>ggwin-ko.glif</string>
+	<key>ggya-ko</key>
+	<string>ggya-ko.glif</string>
+	<key>ggyag-ko</key>
+	<string>ggyag-ko.glif</string>
+	<key>ggyal-ko</key>
+	<string>ggyal-ko.glif</string>
+	<key>ggye-ko</key>
+	<string>ggye-ko.glif</string>
+	<key>ggyeo-ko</key>
+	<string>ggyeo-ko.glif</string>
+	<key>ggyeol-ko</key>
+	<string>ggyeol-ko.glif</string>
+	<key>ggyeon-ko</key>
+	<string>ggyeon-ko.glif</string>
+	<key>ggyeos-ko</key>
+	<string>ggyeos-ko.glif</string>
+	<key>ggyeoss-ko</key>
+	<string>ggyeoss-ko.glif</string>
+	<key>ggyeot-ko</key>
+	<string>ggyeot-ko.glif</string>
+	<key>ggyo-ko</key>
+	<string>ggyo-ko.glif</string>
+	<key>ggyu-ko</key>
+	<string>ggyu-ko.glif</string>
 	<key>gi-hira</key>
 	<string>gi-hira.glif</string>
 	<key>gi-kata</key>
 	<string>gi-kata.glif</string>
+	<key>gi-ko</key>
+	<string>gi-ko.glif</string>
+	<key>gib-ko</key>
+	<string>gib-ko.glif</string>
+	<key>gid-ko</key>
+	<string>gid-ko.glif</string>
+	<key>gig-ko</key>
+	<string>gig-ko.glif</string>
+	<key>gij-ko</key>
+	<string>gij-ko.glif</string>
+	<key>gil-ko</key>
+	<string>gil-ko.glif</string>
+	<key>gilm-ko</key>
+	<string>gilm-ko.glif</string>
+	<key>gim-ko</key>
+	<string>gim-ko.glif</string>
+	<key>gin-ko</key>
+	<string>gin-ko.glif</string>
+	<key>ging-ko</key>
+	<string>ging-ko.glif</string>
+	<key>gip-ko</key>
+	<string>gip-ko.glif</string>
+	<key>gis-ko</key>
+	<string>gis-ko.glif</string>
 	<key>go-hira</key>
 	<string>go-hira.glif</string>
 	<key>go-kata</key>
 	<string>go-kata.glif</string>
+	<key>go-ko</key>
+	<string>go-ko.glif</string>
+	<key>gob-ko</key>
+	<string>gob-ko.glif</string>
+	<key>god-ko</key>
+	<string>god-ko.glif</string>
+	<key>goe-ko</key>
+	<string>goe-ko.glif</string>
+	<key>goeb-ko</key>
+	<string>goeb-ko.glif</string>
+	<key>goeg-ko</key>
+	<string>goeg-ko.glif</string>
+	<key>goel-ko</key>
+	<string>goel-ko.glif</string>
+	<key>goem-ko</key>
+	<string>goem-ko.glif</string>
+	<key>goen-ko</key>
+	<string>goen-ko.glif</string>
+	<key>goeng-ko</key>
+	<string>goeng-ko.glif</string>
+	<key>goes-ko</key>
+	<string>goes-ko.glif</string>
+	<key>gog-ko</key>
+	<string>gog-ko.glif</string>
+	<key>goj-ko</key>
+	<string>goj-ko.glif</string>
+	<key>gol-ko</key>
+	<string>gol-ko.glif</string>
+	<key>golh-ko</key>
+	<string>golh-ko.glif</string>
+	<key>golm-ko</key>
+	<string>golm-ko.glif</string>
+	<key>gols-ko</key>
+	<string>gols-ko.glif</string>
+	<key>gom-ko</key>
+	<string>gom-ko.glif</string>
+	<key>gon-ko</key>
+	<string>gon-ko.glif</string>
+	<key>gong-ko</key>
+	<string>gong-ko.glif</string>
+	<key>gos-ko</key>
+	<string>gos-ko.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
 	<key>gravecomb</key>
@@ -396,6 +2018,14 @@
 	<string>gu-hira.glif</string>
 	<key>gu-kata</key>
 	<string>gu-kata.glif</string>
+	<key>gu-ko</key>
+	<string>gu-ko.glif</string>
+	<key>gub-ko</key>
+	<string>gub-ko.glif</string>
+	<key>gud-ko</key>
+	<string>gud-ko.glif</string>
+	<key>gug-ko</key>
+	<string>gug-ko.glif</string>
 	<key>guillemetleft</key>
 	<string>guillemetleft.glif</string>
 	<key>guillemetright</key>
@@ -404,74 +2034,1008 @@
 	<string>guilsinglleft.glif</string>
 	<key>guilsinglright</key>
 	<string>guilsinglright.glif</string>
+	<key>guj-ko</key>
+	<string>guj-ko.glif</string>
+	<key>gul-ko</key>
+	<string>gul-ko.glif</string>
+	<key>gulg-ko</key>
+	<string>gulg-ko.glif</string>
+	<key>gulh-ko</key>
+	<string>gulh-ko.glif</string>
+	<key>gulm-ko</key>
+	<string>gulm-ko.glif</string>
+	<key>gum-ko</key>
+	<string>gum-ko.glif</string>
+	<key>gun-ko</key>
+	<string>gun-ko.glif</string>
+	<key>gung-ko</key>
+	<string>gung-ko.glif</string>
+	<key>gus-ko</key>
+	<string>gus-ko.glif</string>
+	<key>gwa-ko</key>
+	<string>gwa-ko.glif</string>
+	<key>gwab-ko</key>
+	<string>gwab-ko.glif</string>
+	<key>gwae-ko</key>
+	<string>gwae-ko.glif</string>
+	<key>gwaeb-ko</key>
+	<string>gwaeb-ko.glif</string>
+	<key>gwael-ko</key>
+	<string>gwael-ko.glif</string>
+	<key>gwaen-ko</key>
+	<string>gwaen-ko.glif</string>
+	<key>gwaeng-ko</key>
+	<string>gwaeng-ko.glif</string>
+	<key>gwaess-ko</key>
+	<string>gwaess-ko.glif</string>
+	<key>gwag-ko</key>
+	<string>gwag-ko.glif</string>
+	<key>gwal-ko</key>
+	<string>gwal-ko.glif</string>
+	<key>gwalm-ko</key>
+	<string>gwalm-ko.glif</string>
+	<key>gwam-ko</key>
+	<string>gwam-ko.glif</string>
+	<key>gwan-ko</key>
+	<string>gwan-ko.glif</string>
+	<key>gwang-ko</key>
+	<string>gwang-ko.glif</string>
+	<key>gwas-ko</key>
+	<string>gwas-ko.glif</string>
+	<key>gwe-ko</key>
+	<string>gwe-ko.glif</string>
+	<key>gweo-ko</key>
+	<string>gweo-ko.glif</string>
+	<key>gweog-ko</key>
+	<string>gweog-ko.glif</string>
+	<key>gweol-ko</key>
+	<string>gweol-ko.glif</string>
+	<key>gweon-ko</key>
+	<string>gweon-ko.glif</string>
+	<key>gweong-ko</key>
+	<string>gweong-ko.glif</string>
+	<key>gweoss-ko</key>
+	<string>gweoss-ko.glif</string>
+	<key>gwes-ko</key>
+	<string>gwes-ko.glif</string>
+	<key>gwi-ko</key>
+	<string>gwi-ko.glif</string>
+	<key>gwib-ko</key>
+	<string>gwib-ko.glif</string>
+	<key>gwig-ko</key>
+	<string>gwig-ko.glif</string>
+	<key>gwil-ko</key>
+	<string>gwil-ko.glif</string>
+	<key>gwim-ko</key>
+	<string>gwim-ko.glif</string>
+	<key>gwin-ko</key>
+	<string>gwin-ko.glif</string>
+	<key>gwis-ko</key>
+	<string>gwis-ko.glif</string>
+	<key>gya-ko</key>
+	<string>gya-ko.glif</string>
+	<key>gyae-ko</key>
+	<string>gyae-ko.glif</string>
+	<key>gyael-ko</key>
+	<string>gyael-ko.glif</string>
+	<key>gyaen-ko</key>
+	<string>gyaen-ko.glif</string>
+	<key>gyag-ko</key>
+	<string>gyag-ko.glif</string>
+	<key>gyal-ko</key>
+	<string>gyal-ko.glif</string>
+	<key>gyan-ko</key>
+	<string>gyan-ko.glif</string>
+	<key>gyang-ko</key>
+	<string>gyang-ko.glif</string>
+	<key>gyas-ko</key>
+	<string>gyas-ko.glif</string>
+	<key>gye-ko</key>
+	<string>gye-ko.glif</string>
+	<key>gyeb-ko</key>
+	<string>gyeb-ko.glif</string>
+	<key>gyel-ko</key>
+	<string>gyel-ko.glif</string>
+	<key>gyen-ko</key>
+	<string>gyen-ko.glif</string>
+	<key>gyeo-ko</key>
+	<string>gyeo-ko.glif</string>
+	<key>gyeob-ko</key>
+	<string>gyeob-ko.glif</string>
+	<key>gyeod-ko</key>
+	<string>gyeod-ko.glif</string>
+	<key>gyeog-ko</key>
+	<string>gyeog-ko.glif</string>
+	<key>gyeogg-ko</key>
+	<string>gyeogg-ko.glif</string>
+	<key>gyeol-ko</key>
+	<string>gyeol-ko.glif</string>
+	<key>gyeom-ko</key>
+	<string>gyeom-ko.glif</string>
+	<key>gyeon-ko</key>
+	<string>gyeon-ko.glif</string>
+	<key>gyeong-ko</key>
+	<string>gyeong-ko.glif</string>
+	<key>gyeos-ko</key>
+	<string>gyeos-ko.glif</string>
+	<key>gyeoss-ko</key>
+	<string>gyeoss-ko.glif</string>
+	<key>gyeot-ko</key>
+	<string>gyeot-ko.glif</string>
+	<key>gyes-ko</key>
+	<string>gyes-ko.glif</string>
+	<key>gyi-ko</key>
+	<string>gyi-ko.glif</string>
+	<key>gyo-ko</key>
+	<string>gyo-ko.glif</string>
+	<key>gyob-ko</key>
+	<string>gyob-ko.glif</string>
+	<key>gyol-ko</key>
+	<string>gyol-ko.glif</string>
+	<key>gyon-ko</key>
+	<string>gyon-ko.glif</string>
+	<key>gyos-ko</key>
+	<string>gyos-ko.glif</string>
+	<key>gyu-ko</key>
+	<string>gyu-ko.glif</string>
+	<key>gyul-ko</key>
+	<string>gyul-ko.glif</string>
+	<key>gyun-ko</key>
+	<string>gyun-ko.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>ha-hira</key>
 	<string>ha-hira.glif</string>
 	<key>ha-kata</key>
 	<string>ha-kata.glif</string>
+	<key>ha-ko</key>
+	<string>ha-ko.glif</string>
+	<key>hab-ko</key>
+	<string>hab-ko.glif</string>
+	<key>hae-ko</key>
+	<string>hae-ko.glif</string>
+	<key>haeb-ko</key>
+	<string>haeb-ko.glif</string>
+	<key>haeg-ko</key>
+	<string>haeg-ko.glif</string>
+	<key>hael-ko</key>
+	<string>hael-ko.glif</string>
+	<key>haem-ko</key>
+	<string>haem-ko.glif</string>
+	<key>haen-ko</key>
+	<string>haen-ko.glif</string>
+	<key>haeng-ko</key>
+	<string>haeng-ko.glif</string>
+	<key>haes-ko</key>
+	<string>haes-ko.glif</string>
+	<key>haess-ko</key>
+	<string>haess-ko.glif</string>
+	<key>hag-ko</key>
+	<string>hag-ko.glif</string>
+	<key>hal-ko</key>
+	<string>hal-ko.glif</string>
+	<key>halt-ko</key>
+	<string>halt-ko.glif</string>
+	<key>ham-ko</key>
+	<string>ham-ko.glif</string>
+	<key>han-ko</key>
+	<string>han-ko.glif</string>
+	<key>hang-ko</key>
+	<string>hang-ko.glif</string>
+	<key>has-ko</key>
+	<string>has-ko.glif</string>
 	<key>he-hira</key>
 	<string>he-hira.glif</string>
 	<key>he-kata</key>
 	<string>he-kata.glif</string>
+	<key>he-ko</key>
+	<string>he-ko.glif</string>
+	<key>heb-ko</key>
+	<string>heb-ko.glif</string>
+	<key>heg-ko</key>
+	<string>heg-ko.glif</string>
+	<key>hel-ko</key>
+	<string>hel-ko.glif</string>
+	<key>hem-ko</key>
+	<string>hem-ko.glif</string>
+	<key>hen-ko</key>
+	<string>hen-ko.glif</string>
+	<key>heng-ko</key>
+	<string>heng-ko.glif</string>
+	<key>heo-ko</key>
+	<string>heo-ko.glif</string>
+	<key>heob-ko</key>
+	<string>heob-ko.glif</string>
+	<key>heog-ko</key>
+	<string>heog-ko.glif</string>
+	<key>heol-ko</key>
+	<string>heol-ko.glif</string>
+	<key>heolm-ko</key>
+	<string>heolm-ko.glif</string>
+	<key>heom-ko</key>
+	<string>heom-ko.glif</string>
+	<key>heon-ko</key>
+	<string>heon-ko.glif</string>
+	<key>heong-ko</key>
+	<string>heong-ko.glif</string>
+	<key>heos-ko</key>
+	<string>heos-ko.glif</string>
+	<key>hes-ko</key>
+	<string>hes-ko.glif</string>
+	<key>heu-ko</key>
+	<string>heu-ko.glif</string>
+	<key>heub-ko</key>
+	<string>heub-ko.glif</string>
+	<key>heud-ko</key>
+	<string>heud-ko.glif</string>
+	<key>heug-ko</key>
+	<string>heug-ko.glif</string>
+	<key>heul-ko</key>
+	<string>heul-ko.glif</string>
+	<key>heulg-ko</key>
+	<string>heulg-ko.glif</string>
+	<key>heum-ko</key>
+	<string>heum-ko.glif</string>
+	<key>heun-ko</key>
+	<string>heun-ko.glif</string>
+	<key>heung-ko</key>
+	<string>heung-ko.glif</string>
+	<key>heunh-ko</key>
+	<string>heunh-ko.glif</string>
+	<key>heus-ko</key>
+	<string>heus-ko.glif</string>
+	<key>heut-ko</key>
+	<string>heut-ko.glif</string>
 	<key>hi-hira</key>
 	<string>hi-hira.glif</string>
 	<key>hi-kata</key>
 	<string>hi-kata.glif</string>
+	<key>hi-ko</key>
+	<string>hi-ko.glif</string>
+	<key>hib-ko</key>
+	<string>hib-ko.glif</string>
 	<key>hieuhCho-ko</key>
 	<string>hieuhC_ho-ko.glif</string>
+	<key>hieuhCompa-ko</key>
+	<string>hieuhC_ompa-ko.glif</string>
+	<key>hig-ko</key>
+	<string>hig-ko.glif</string>
+	<key>hil-ko</key>
+	<string>hil-ko.glif</string>
+	<key>him-ko</key>
+	<string>him-ko.glif</string>
+	<key>hin-ko</key>
+	<string>hin-ko.glif</string>
+	<key>hing-ko</key>
+	<string>hing-ko.glif</string>
+	<key>his-ko</key>
+	<string>his-ko.glif</string>
 	<key>ho-hira</key>
 	<string>ho-hira.glif</string>
 	<key>ho-kata</key>
 	<string>ho-kata.glif</string>
+	<key>ho-ko</key>
+	<string>ho-ko.glif</string>
+	<key>hob-ko</key>
+	<string>hob-ko.glif</string>
+	<key>hoe-ko</key>
+	<string>hoe-ko.glif</string>
+	<key>hoeb-ko</key>
+	<string>hoeb-ko.glif</string>
+	<key>hoeg-ko</key>
+	<string>hoeg-ko.glif</string>
+	<key>hoel-ko</key>
+	<string>hoel-ko.glif</string>
+	<key>hoen-ko</key>
+	<string>hoen-ko.glif</string>
+	<key>hoeng-ko</key>
+	<string>hoeng-ko.glif</string>
+	<key>hoes-ko</key>
+	<string>hoes-ko.glif</string>
+	<key>hog-ko</key>
+	<string>hog-ko.glif</string>
+	<key>hol-ko</key>
+	<string>hol-ko.glif</string>
+	<key>holt-ko</key>
+	<string>holt-ko.glif</string>
+	<key>hom-ko</key>
+	<string>hom-ko.glif</string>
+	<key>hon-ko</key>
+	<string>hon-ko.glif</string>
+	<key>hong-ko</key>
+	<string>hong-ko.glif</string>
+	<key>hos-ko</key>
+	<string>hos-ko.glif</string>
+	<key>hot-ko</key>
+	<string>hot-ko.glif</string>
 	<key>hu-hira</key>
 	<string>hu-hira.glif</string>
 	<key>hu-kata</key>
 	<string>hu-kata.glif</string>
+	<key>hu-ko</key>
+	<string>hu-ko.glif</string>
+	<key>hug-ko</key>
+	<string>hug-ko.glif</string>
+	<key>hul-ko</key>
+	<string>hul-ko.glif</string>
+	<key>hult-ko</key>
+	<string>hult-ko.glif</string>
+	<key>hum-ko</key>
+	<string>hum-ko.glif</string>
+	<key>hun-ko</key>
+	<string>hun-ko.glif</string>
+	<key>hung-ko</key>
+	<string>hung-ko.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
 	<key>hungarumlautcomb</key>
 	<string>hungarumlautcomb.glif</string>
+	<key>hus-ko</key>
+	<string>hus-ko.glif</string>
+	<key>hwa-ko</key>
+	<string>hwa-ko.glif</string>
+	<key>hwae-ko</key>
+	<string>hwae-ko.glif</string>
+	<key>hwaeg-ko</key>
+	<string>hwaeg-ko.glif</string>
+	<key>hwaen-ko</key>
+	<string>hwaen-ko.glif</string>
+	<key>hwaeng-ko</key>
+	<string>hwaeng-ko.glif</string>
+	<key>hwaes-ko</key>
+	<string>hwaes-ko.glif</string>
+	<key>hwag-ko</key>
+	<string>hwag-ko.glif</string>
+	<key>hwal-ko</key>
+	<string>hwal-ko.glif</string>
+	<key>hwan-ko</key>
+	<string>hwan-ko.glif</string>
+	<key>hwang-ko</key>
+	<string>hwang-ko.glif</string>
+	<key>hwas-ko</key>
+	<string>hwas-ko.glif</string>
+	<key>hwe-ko</key>
+	<string>hwe-ko.glif</string>
+	<key>hweg-ko</key>
+	<string>hweg-ko.glif</string>
+	<key>hwel-ko</key>
+	<string>hwel-ko.glif</string>
+	<key>hwen-ko</key>
+	<string>hwen-ko.glif</string>
+	<key>hweng-ko</key>
+	<string>hweng-ko.glif</string>
+	<key>hweo-ko</key>
+	<string>hweo-ko.glif</string>
+	<key>hweol-ko</key>
+	<string>hweol-ko.glif</string>
+	<key>hweom-ko</key>
+	<string>hweom-ko.glif</string>
+	<key>hweon-ko</key>
+	<string>hweon-ko.glif</string>
+	<key>hweong-ko</key>
+	<string>hweong-ko.glif</string>
+	<key>hwi-ko</key>
+	<string>hwi-ko.glif</string>
+	<key>hwib-ko</key>
+	<string>hwib-ko.glif</string>
+	<key>hwig-ko</key>
+	<string>hwig-ko.glif</string>
+	<key>hwil-ko</key>
+	<string>hwil-ko.glif</string>
+	<key>hwim-ko</key>
+	<string>hwim-ko.glif</string>
+	<key>hwin-ko</key>
+	<string>hwin-ko.glif</string>
+	<key>hwing-ko</key>
+	<string>hwing-ko.glif</string>
+	<key>hwis-ko</key>
+	<string>hwis-ko.glif</string>
+	<key>hya-ko</key>
+	<string>hya-ko.glif</string>
+	<key>hyang-ko</key>
+	<string>hyang-ko.glif</string>
+	<key>hye-ko</key>
+	<string>hye-ko.glif</string>
+	<key>hyeb-ko</key>
+	<string>hyeb-ko.glif</string>
+	<key>hyel-ko</key>
+	<string>hyel-ko.glif</string>
+	<key>hyen-ko</key>
+	<string>hyen-ko.glif</string>
+	<key>hyeo-ko</key>
+	<string>hyeo-ko.glif</string>
+	<key>hyeob-ko</key>
+	<string>hyeob-ko.glif</string>
+	<key>hyeog-ko</key>
+	<string>hyeog-ko.glif</string>
+	<key>hyeol-ko</key>
+	<string>hyeol-ko.glif</string>
+	<key>hyeom-ko</key>
+	<string>hyeom-ko.glif</string>
+	<key>hyeon-ko</key>
+	<string>hyeon-ko.glif</string>
+	<key>hyeong-ko</key>
+	<string>hyeong-ko.glif</string>
+	<key>hyeos-ko</key>
+	<string>hyeos-ko.glif</string>
+	<key>hyeoss-ko</key>
+	<string>hyeoss-ko.glif</string>
+	<key>hyi-ko</key>
+	<string>hyi-ko.glif</string>
+	<key>hyib-ko</key>
+	<string>hyib-ko.glif</string>
+	<key>hyil-ko</key>
+	<string>hyil-ko.glif</string>
+	<key>hyim-ko</key>
+	<string>hyim-ko.glif</string>
+	<key>hyin-ko</key>
+	<string>hyin-ko.glif</string>
+	<key>hying-ko</key>
+	<string>hying-ko.glif</string>
+	<key>hyo-ko</key>
+	<string>hyo-ko.glif</string>
+	<key>hyob-ko</key>
+	<string>hyob-ko.glif</string>
+	<key>hyol-ko</key>
+	<string>hyol-ko.glif</string>
+	<key>hyon-ko</key>
+	<string>hyon-ko.glif</string>
+	<key>hyos-ko</key>
+	<string>hyos-ko.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
+	<key>hyu-ko</key>
+	<string>hyu-ko.glif</string>
+	<key>hyug-ko</key>
+	<string>hyug-ko.glif</string>
+	<key>hyul-ko</key>
+	<string>hyul-ko.glif</string>
+	<key>hyum-ko</key>
+	<string>hyum-ko.glif</string>
+	<key>hyun-ko</key>
+	<string>hyun-ko.glif</string>
+	<key>hyung-ko</key>
+	<string>hyung-ko.glif</string>
+	<key>hyus-ko</key>
+	<string>hyus-ko.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>i-hira</key>
 	<string>i-hira.glif</string>
 	<key>i-kata</key>
 	<string>i-kata.glif</string>
+	<key>i-ko</key>
+	<string>i-ko.glif</string>
+	<key>iCompa-ko</key>
+	<string>iC_ompa-ko.glif</string>
 	<key>iJung-ko</key>
 	<string>iJ_ung-ko.glif</string>
 	<key>iacute</key>
 	<string>iacute.glif</string>
+	<key>ib-ko</key>
+	<string>ib-ko.glif</string>
 	<key>icircumflex</key>
 	<string>icircumflex.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
 	<key>ieungCho-ko</key>
 	<string>ieungC_ho-ko.glif</string>
+	<key>ieungCompa-ko</key>
+	<string>ieungC_ompa-ko.glif</string>
+	<key>ig-ko</key>
+	<string>ig-ko.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
+	<key>ij-ko</key>
+	<string>ij-ko.glif</string>
+	<key>il-ko</key>
+	<string>il-ko.glif</string>
+	<key>ilg-ko</key>
+	<string>ilg-ko.glif</string>
+	<key>ilh-ko</key>
+	<string>ilh-ko.glif</string>
+	<key>ilm-ko</key>
+	<string>ilm-ko.glif</string>
+	<key>im-ko</key>
+	<string>im-ko.glif</string>
+	<key>in-ko</key>
+	<string>in-ko.glif</string>
 	<key>infinity</key>
 	<string>infinity.glif</string>
+	<key>ing-ko</key>
+	<string>ing-ko.glif</string>
 	<key>integral</key>
 	<string>integral.glif</string>
+	<key>ip-ko</key>
+	<string>ip-ko.glif</string>
+	<key>is-ko</key>
+	<string>is-ko.glif</string>
 	<key>ismall-hira</key>
 	<string>ismall-hira.glif</string>
 	<key>ismall-kata</key>
 	<string>ismall-kata.glif</string>
+	<key>iss-ko</key>
+	<string>iss-ko.glif</string>
 	<key>iteration-hira</key>
 	<string>iteration-hira.glif</string>
 	<key>iteration-kata</key>
 	<string>iteration-kata.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
+	<key>ja-ko</key>
+	<string>ja-ko.glif</string>
+	<key>jab-ko</key>
+	<string>jab-ko.glif</string>
+	<key>jad-ko</key>
+	<string>jad-ko.glif</string>
+	<key>jae-ko</key>
+	<string>jae-ko.glif</string>
+	<key>jaeb-ko</key>
+	<string>jaeb-ko.glif</string>
+	<key>jaeg-ko</key>
+	<string>jaeg-ko.glif</string>
+	<key>jael-ko</key>
+	<string>jael-ko.glif</string>
+	<key>jaem-ko</key>
+	<string>jaem-ko.glif</string>
+	<key>jaen-ko</key>
+	<string>jaen-ko.glif</string>
+	<key>jaeng-ko</key>
+	<string>jaeng-ko.glif</string>
+	<key>jaes-ko</key>
+	<string>jaes-ko.glif</string>
+	<key>jaess-ko</key>
+	<string>jaess-ko.glif</string>
+	<key>jag-ko</key>
+	<string>jag-ko.glif</string>
+	<key>jaj-ko</key>
+	<string>jaj-ko.glif</string>
+	<key>jal-ko</key>
+	<string>jal-ko.glif</string>
+	<key>jalm-ko</key>
+	<string>jalm-ko.glif</string>
+	<key>jam-ko</key>
+	<string>jam-ko.glif</string>
+	<key>jan-ko</key>
+	<string>jan-ko.glif</string>
+	<key>jang-ko</key>
+	<string>jang-ko.glif</string>
+	<key>janh-ko</key>
+	<string>janh-ko.glif</string>
+	<key>jas-ko</key>
+	<string>jas-ko.glif</string>
+	<key>jass-ko</key>
+	<string>jass-ko.glif</string>
+	<key>je-ko</key>
+	<string>je-ko.glif</string>
+	<key>jeb-ko</key>
+	<string>jeb-ko.glif</string>
+	<key>jeg-ko</key>
+	<string>jeg-ko.glif</string>
+	<key>jel-ko</key>
+	<string>jel-ko.glif</string>
+	<key>jem-ko</key>
+	<string>jem-ko.glif</string>
+	<key>jen-ko</key>
+	<string>jen-ko.glif</string>
+	<key>jeng-ko</key>
+	<string>jeng-ko.glif</string>
+	<key>jeo-ko</key>
+	<string>jeo-ko.glif</string>
+	<key>jeob-ko</key>
+	<string>jeob-ko.glif</string>
+	<key>jeog-ko</key>
+	<string>jeog-ko.glif</string>
+	<key>jeoj-ko</key>
+	<string>jeoj-ko.glif</string>
+	<key>jeol-ko</key>
+	<string>jeol-ko.glif</string>
+	<key>jeolm-ko</key>
+	<string>jeolm-ko.glif</string>
+	<key>jeom-ko</key>
+	<string>jeom-ko.glif</string>
+	<key>jeon-ko</key>
+	<string>jeon-ko.glif</string>
+	<key>jeong-ko</key>
+	<string>jeong-ko.glif</string>
+	<key>jeos-ko</key>
+	<string>jeos-ko.glif</string>
+	<key>jes-ko</key>
+	<string>jes-ko.glif</string>
+	<key>jeu-ko</key>
+	<string>jeu-ko.glif</string>
+	<key>jeub-ko</key>
+	<string>jeub-ko.glif</string>
+	<key>jeug-ko</key>
+	<string>jeug-ko.glif</string>
+	<key>jeul-ko</key>
+	<string>jeul-ko.glif</string>
+	<key>jeum-ko</key>
+	<string>jeum-ko.glif</string>
+	<key>jeun-ko</key>
+	<string>jeun-ko.glif</string>
+	<key>jeung-ko</key>
+	<string>jeung-ko.glif</string>
+	<key>jeus-ko</key>
+	<string>jeus-ko.glif</string>
+	<key>ji-ko</key>
+	<string>ji-ko.glif</string>
+	<key>jib-ko</key>
+	<string>jib-ko.glif</string>
+	<key>jid-ko</key>
+	<string>jid-ko.glif</string>
+	<key>jig-ko</key>
+	<string>jig-ko.glif</string>
+	<key>jij-ko</key>
+	<string>jij-ko.glif</string>
+	<key>jil-ko</key>
+	<string>jil-ko.glif</string>
+	<key>jilm-ko</key>
+	<string>jilm-ko.glif</string>
+	<key>jim-ko</key>
+	<string>jim-ko.glif</string>
+	<key>jin-ko</key>
+	<string>jin-ko.glif</string>
+	<key>jing-ko</key>
+	<string>jing-ko.glif</string>
+	<key>jip-ko</key>
+	<string>jip-ko.glif</string>
+	<key>jis-ko</key>
+	<string>jis-ko.glif</string>
+	<key>jit-ko</key>
+	<string>jit-ko.glif</string>
+	<key>jja-ko</key>
+	<string>jja-ko.glif</string>
+	<key>jjab-ko</key>
+	<string>jjab-ko.glif</string>
+	<key>jjae-ko</key>
+	<string>jjae-ko.glif</string>
+	<key>jjaeb-ko</key>
+	<string>jjaeb-ko.glif</string>
+	<key>jjaeg-ko</key>
+	<string>jjaeg-ko.glif</string>
+	<key>jjael-ko</key>
+	<string>jjael-ko.glif</string>
+	<key>jjaem-ko</key>
+	<string>jjaem-ko.glif</string>
+	<key>jjaen-ko</key>
+	<string>jjaen-ko.glif</string>
+	<key>jjaeng-ko</key>
+	<string>jjaeng-ko.glif</string>
+	<key>jjaes-ko</key>
+	<string>jjaes-ko.glif</string>
+	<key>jjaess-ko</key>
+	<string>jjaess-ko.glif</string>
+	<key>jjag-ko</key>
+	<string>jjag-ko.glif</string>
+	<key>jjal-ko</key>
+	<string>jjal-ko.glif</string>
+	<key>jjalb-ko</key>
+	<string>jjalb-ko.glif</string>
+	<key>jjam-ko</key>
+	<string>jjam-ko.glif</string>
+	<key>jjan-ko</key>
+	<string>jjan-ko.glif</string>
+	<key>jjang-ko</key>
+	<string>jjang-ko.glif</string>
+	<key>jjanh-ko</key>
+	<string>jjanh-ko.glif</string>
+	<key>jjas-ko</key>
+	<string>jjas-ko.glif</string>
+	<key>jjass-ko</key>
+	<string>jjass-ko.glif</string>
+	<key>jje-ko</key>
+	<string>jje-ko.glif</string>
+	<key>jjeng-ko</key>
+	<string>jjeng-ko.glif</string>
+	<key>jjeo-ko</key>
+	<string>jjeo-ko.glif</string>
+	<key>jjeob-ko</key>
+	<string>jjeob-ko.glif</string>
+	<key>jjeog-ko</key>
+	<string>jjeog-ko.glif</string>
+	<key>jjeol-ko</key>
+	<string>jjeol-ko.glif</string>
+	<key>jjeom-ko</key>
+	<string>jjeom-ko.glif</string>
+	<key>jjeon-ko</key>
+	<string>jjeon-ko.glif</string>
+	<key>jjeong-ko</key>
+	<string>jjeong-ko.glif</string>
+	<key>jjeos-ko</key>
+	<string>jjeos-ko.glif</string>
+	<key>jjeoss-ko</key>
+	<string>jjeoss-ko.glif</string>
+	<key>jjeu-ko</key>
+	<string>jjeu-ko.glif</string>
+	<key>jjeum-ko</key>
+	<string>jjeum-ko.glif</string>
+	<key>jjeung-ko</key>
+	<string>jjeung-ko.glif</string>
+	<key>jjeus-ko</key>
+	<string>jjeus-ko.glif</string>
+	<key>jji-ko</key>
+	<string>jji-ko.glif</string>
+	<key>jjib-ko</key>
+	<string>jjib-ko.glif</string>
+	<key>jjig-ko</key>
+	<string>jjig-ko.glif</string>
+	<key>jjih-ko</key>
+	<string>jjih-ko.glif</string>
+	<key>jjij-ko</key>
+	<string>jjij-ko.glif</string>
+	<key>jjil-ko</key>
+	<string>jjil-ko.glif</string>
+	<key>jjim-ko</key>
+	<string>jjim-ko.glif</string>
+	<key>jjin-ko</key>
+	<string>jjin-ko.glif</string>
+	<key>jjing-ko</key>
+	<string>jjing-ko.glif</string>
+	<key>jjo-ko</key>
+	<string>jjo-ko.glif</string>
+	<key>jjob-ko</key>
+	<string>jjob-ko.glif</string>
+	<key>jjoc-ko</key>
+	<string>jjoc-ko.glif</string>
+	<key>jjoe-ko</key>
+	<string>jjoe-ko.glif</string>
+	<key>jjoeb-ko</key>
+	<string>jjoeb-ko.glif</string>
+	<key>jjoel-ko</key>
+	<string>jjoel-ko.glif</string>
+	<key>jjoem-ko</key>
+	<string>jjoem-ko.glif</string>
+	<key>jjoen-ko</key>
+	<string>jjoen-ko.glif</string>
+	<key>jjog-ko</key>
+	<string>jjog-ko.glif</string>
+	<key>jjol-ko</key>
+	<string>jjol-ko.glif</string>
+	<key>jjom-ko</key>
+	<string>jjom-ko.glif</string>
+	<key>jjon-ko</key>
+	<string>jjon-ko.glif</string>
+	<key>jjong-ko</key>
+	<string>jjong-ko.glif</string>
+	<key>jjos-ko</key>
+	<string>jjos-ko.glif</string>
+	<key>jju-ko</key>
+	<string>jju-ko.glif</string>
+	<key>jjub-ko</key>
+	<string>jjub-ko.glif</string>
+	<key>jjug-ko</key>
+	<string>jjug-ko.glif</string>
+	<key>jjul-ko</key>
+	<string>jjul-ko.glif</string>
+	<key>jjum-ko</key>
+	<string>jjum-ko.glif</string>
+	<key>jjun-ko</key>
+	<string>jjun-ko.glif</string>
+	<key>jjung-ko</key>
+	<string>jjung-ko.glif</string>
+	<key>jjwa-ko</key>
+	<string>jjwa-ko.glif</string>
+	<key>jjwae-ko</key>
+	<string>jjwae-ko.glif</string>
+	<key>jjwaess-ko</key>
+	<string>jjwaess-ko.glif</string>
+	<key>jjwag-ko</key>
+	<string>jjwag-ko.glif</string>
+	<key>jjwal-ko</key>
+	<string>jjwal-ko.glif</string>
+	<key>jjwass-ko</key>
+	<string>jjwass-ko.glif</string>
+	<key>jjweo-ko</key>
+	<string>jjweo-ko.glif</string>
+	<key>jjweong-ko</key>
+	<string>jjweong-ko.glif</string>
+	<key>jjweoss-ko</key>
+	<string>jjweoss-ko.glif</string>
+	<key>jjwi-ko</key>
+	<string>jjwi-ko.glif</string>
+	<key>jjya-ko</key>
+	<string>jjya-ko.glif</string>
+	<key>jjyan-ko</key>
+	<string>jjyan-ko.glif</string>
+	<key>jjyang-ko</key>
+	<string>jjyang-ko.glif</string>
+	<key>jjyeo-ko</key>
+	<string>jjyeo-ko.glif</string>
+	<key>jjyeoss-ko</key>
+	<string>jjyeoss-ko.glif</string>
+	<key>jjyong-ko</key>
+	<string>jjyong-ko.glif</string>
+	<key>jjyu-ko</key>
+	<string>jjyu-ko.glif</string>
+	<key>jo-ko</key>
+	<string>jo-ko.glif</string>
+	<key>job-ko</key>
+	<string>job-ko.glif</string>
+	<key>joc-ko</key>
+	<string>joc-ko.glif</string>
+	<key>joe-ko</key>
+	<string>joe-ko.glif</string>
+	<key>joeb-ko</key>
+	<string>joeb-ko.glif</string>
+	<key>joel-ko</key>
+	<string>joel-ko.glif</string>
+	<key>joem-ko</key>
+	<string>joem-ko.glif</string>
+	<key>joen-ko</key>
+	<string>joen-ko.glif</string>
+	<key>joeng-ko</key>
+	<string>joeng-ko.glif</string>
+	<key>joes-ko</key>
+	<string>joes-ko.glif</string>
+	<key>jog-ko</key>
+	<string>jog-ko.glif</string>
+	<key>joh-ko</key>
+	<string>joh-ko.glif</string>
+	<key>joj-ko</key>
+	<string>joj-ko.glif</string>
+	<key>jol-ko</key>
+	<string>jol-ko.glif</string>
+	<key>jolm-ko</key>
+	<string>jolm-ko.glif</string>
+	<key>jom-ko</key>
+	<string>jom-ko.glif</string>
+	<key>jon-ko</key>
+	<string>jon-ko.glif</string>
+	<key>jong-ko</key>
+	<string>jong-ko.glif</string>
+	<key>jos-ko</key>
+	<string>jos-ko.glif</string>
+	<key>ju-ko</key>
+	<string>ju-ko.glif</string>
+	<key>jub-ko</key>
+	<string>jub-ko.glif</string>
+	<key>jug-ko</key>
+	<string>jug-ko.glif</string>
+	<key>jul-ko</key>
+	<string>jul-ko.glif</string>
+	<key>julg-ko</key>
+	<string>julg-ko.glif</string>
+	<key>julm-ko</key>
+	<string>julm-ko.glif</string>
+	<key>jum-ko</key>
+	<string>jum-ko.glif</string>
+	<key>jun-ko</key>
+	<string>jun-ko.glif</string>
+	<key>jung-ko</key>
+	<string>jung-ko.glif</string>
+	<key>jus-ko</key>
+	<string>jus-ko.glif</string>
+	<key>jwa-ko</key>
+	<string>jwa-ko.glif</string>
+	<key>jwab-ko</key>
+	<string>jwab-ko.glif</string>
+	<key>jwae-ko</key>
+	<string>jwae-ko.glif</string>
+	<key>jwaeng-ko</key>
+	<string>jwaeng-ko.glif</string>
+	<key>jwaess-ko</key>
+	<string>jwaess-ko.glif</string>
+	<key>jwag-ko</key>
+	<string>jwag-ko.glif</string>
+	<key>jwal-ko</key>
+	<string>jwal-ko.glif</string>
+	<key>jwang-ko</key>
+	<string>jwang-ko.glif</string>
+	<key>jwas-ko</key>
+	<string>jwas-ko.glif</string>
+	<key>jwe-ko</key>
+	<string>jwe-ko.glif</string>
+	<key>jweo-ko</key>
+	<string>jweo-ko.glif</string>
+	<key>jweoss-ko</key>
+	<string>jweoss-ko.glif</string>
+	<key>jwi-ko</key>
+	<string>jwi-ko.glif</string>
+	<key>jwib-ko</key>
+	<string>jwib-ko.glif</string>
+	<key>jwig-ko</key>
+	<string>jwig-ko.glif</string>
+	<key>jwil-ko</key>
+	<string>jwil-ko.glif</string>
+	<key>jwim-ko</key>
+	<string>jwim-ko.glif</string>
+	<key>jwin-ko</key>
+	<string>jwin-ko.glif</string>
+	<key>jwis-ko</key>
+	<string>jwis-ko.glif</string>
+	<key>jya-ko</key>
+	<string>jya-ko.glif</string>
+	<key>jyae-ko</key>
+	<string>jyae-ko.glif</string>
+	<key>jyael-ko</key>
+	<string>jyael-ko.glif</string>
+	<key>jyaen-ko</key>
+	<string>jyaen-ko.glif</string>
+	<key>jyag-ko</key>
+	<string>jyag-ko.glif</string>
+	<key>jyal-ko</key>
+	<string>jyal-ko.glif</string>
+	<key>jyam-ko</key>
+	<string>jyam-ko.glif</string>
+	<key>jyan-ko</key>
+	<string>jyan-ko.glif</string>
+	<key>jyang-ko</key>
+	<string>jyang-ko.glif</string>
+	<key>jyanh-ko</key>
+	<string>jyanh-ko.glif</string>
+	<key>jye-ko</key>
+	<string>jye-ko.glif</string>
+	<key>jyeo-ko</key>
+	<string>jyeo-ko.glif</string>
+	<key>jyeob-ko</key>
+	<string>jyeob-ko.glif</string>
+	<key>jyeol-ko</key>
+	<string>jyeol-ko.glif</string>
+	<key>jyeom-ko</key>
+	<string>jyeom-ko.glif</string>
+	<key>jyeon-ko</key>
+	<string>jyeon-ko.glif</string>
+	<key>jyeong-ko</key>
+	<string>jyeong-ko.glif</string>
+	<key>jyeoss-ko</key>
+	<string>jyeoss-ko.glif</string>
+	<key>jyo-ko</key>
+	<string>jyo-ko.glif</string>
+	<key>jyog-ko</key>
+	<string>jyog-ko.glif</string>
+	<key>jyon-ko</key>
+	<string>jyon-ko.glif</string>
+	<key>jyong-ko</key>
+	<string>jyong-ko.glif</string>
+	<key>jyu-ko</key>
+	<string>jyu-ko.glif</string>
+	<key>jyul-ko</key>
+	<string>jyul-ko.glif</string>
+	<key>jyum-ko</key>
+	<string>jyum-ko.glif</string>
+	<key>jyun-ko</key>
+	<string>jyun-ko.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
 	<key>ka-hira</key>
 	<string>ka-hira.glif</string>
 	<key>ka-kata</key>
 	<string>ka-kata.glif</string>
+	<key>ka-ko</key>
+	<string>ka-ko.glif</string>
+	<key>kab-ko</key>
+	<string>kab-ko.glif</string>
+	<key>kae-ko</key>
+	<string>kae-ko.glif</string>
+	<key>kaeb-ko</key>
+	<string>kaeb-ko.glif</string>
+	<key>kaeg-ko</key>
+	<string>kaeg-ko.glif</string>
+	<key>kael-ko</key>
+	<string>kael-ko.glif</string>
+	<key>kaem-ko</key>
+	<string>kaem-ko.glif</string>
+	<key>kaen-ko</key>
+	<string>kaen-ko.glif</string>
+	<key>kaeng-ko</key>
+	<string>kaeng-ko.glif</string>
+	<key>kaes-ko</key>
+	<string>kaes-ko.glif</string>
+	<key>kaess-ko</key>
+	<string>kaess-ko.glif</string>
+	<key>kag-ko</key>
+	<string>kag-ko.glif</string>
+	<key>kal-ko</key>
+	<string>kal-ko.glif</string>
+	<key>kam-ko</key>
+	<string>kam-ko.glif</string>
+	<key>kan-ko</key>
+	<string>kan-ko.glif</string>
+	<key>kang-ko</key>
+	<string>kang-ko.glif</string>
+	<key>kas-ko</key>
+	<string>kas-ko.glif</string>
 	<key>kasmall-hira</key>
 	<string>kasmall-hira.glif</string>
 	<key>kasmall-kata</key>
@@ -480,26 +3044,210 @@
 	<string>ke-hira.glif</string>
 	<key>ke-kata</key>
 	<string>ke-kata.glif</string>
+	<key>ke-ko</key>
+	<string>ke-ko.glif</string>
+	<key>keb-ko</key>
+	<string>keb-ko.glif</string>
+	<key>keg-ko</key>
+	<string>keg-ko.glif</string>
+	<key>kel-ko</key>
+	<string>kel-ko.glif</string>
+	<key>kem-ko</key>
+	<string>kem-ko.glif</string>
+	<key>ken-ko</key>
+	<string>ken-ko.glif</string>
+	<key>keng-ko</key>
+	<string>keng-ko.glif</string>
+	<key>keo-ko</key>
+	<string>keo-ko.glif</string>
+	<key>keob-ko</key>
+	<string>keob-ko.glif</string>
+	<key>keod-ko</key>
+	<string>keod-ko.glif</string>
+	<key>keog-ko</key>
+	<string>keog-ko.glif</string>
+	<key>keol-ko</key>
+	<string>keol-ko.glif</string>
+	<key>keom-ko</key>
+	<string>keom-ko.glif</string>
+	<key>keon-ko</key>
+	<string>keon-ko.glif</string>
+	<key>keong-ko</key>
+	<string>keong-ko.glif</string>
+	<key>keos-ko</key>
+	<string>keos-ko.glif</string>
+	<key>keoss-ko</key>
+	<string>keoss-ko.glif</string>
+	<key>kes-ko</key>
+	<string>kes-ko.glif</string>
 	<key>kesmall-hira</key>
 	<string>kesmall-hira.glif</string>
 	<key>kesmall-kata</key>
 	<string>kesmall-kata.glif</string>
+	<key>keu-ko</key>
+	<string>keu-ko.glif</string>
+	<key>keub-ko</key>
+	<string>keub-ko.glif</string>
+	<key>keug-ko</key>
+	<string>keug-ko.glif</string>
+	<key>keul-ko</key>
+	<string>keul-ko.glif</string>
+	<key>keum-ko</key>
+	<string>keum-ko.glif</string>
+	<key>keun-ko</key>
+	<string>keun-ko.glif</string>
+	<key>keung-ko</key>
+	<string>keung-ko.glif</string>
 	<key>khieukhCho-ko</key>
 	<string>khieukhC_ho-ko.glif</string>
+	<key>khieukhCompa-ko</key>
+	<string>khieukhC_ompa-ko.glif</string>
 	<key>ki-hira</key>
 	<string>ki-hira.glif</string>
 	<key>ki-kata</key>
 	<string>ki-kata.glif</string>
+	<key>ki-ko</key>
+	<string>ki-ko.glif</string>
+	<key>kib-ko</key>
+	<string>kib-ko.glif</string>
+	<key>kig-ko</key>
+	<string>kig-ko.glif</string>
+	<key>kil-ko</key>
+	<string>kil-ko.glif</string>
+	<key>kim-ko</key>
+	<string>kim-ko.glif</string>
+	<key>kin-ko</key>
+	<string>kin-ko.glif</string>
+	<key>king-ko</key>
+	<string>king-ko.glif</string>
+	<key>kis-ko</key>
+	<string>kis-ko.glif</string>
 	<key>kiyeokCho-ko</key>
 	<string>kiyeokC_ho-ko.glif</string>
+	<key>kiyeokCompa-ko</key>
+	<string>kiyeokC_ompa-ko.glif</string>
 	<key>ko-hira</key>
 	<string>ko-hira.glif</string>
 	<key>ko-kata</key>
 	<string>ko-kata.glif</string>
+	<key>ko-ko</key>
+	<string>ko-ko.glif</string>
+	<key>kob-ko</key>
+	<string>kob-ko.glif</string>
+	<key>koe-ko</key>
+	<string>koe-ko.glif</string>
+	<key>koel-ko</key>
+	<string>koel-ko.glif</string>
+	<key>kog-ko</key>
+	<string>kog-ko.glif</string>
+	<key>kol-ko</key>
+	<string>kol-ko.glif</string>
+	<key>kom-ko</key>
+	<string>kom-ko.glif</string>
+	<key>kon-ko</key>
+	<string>kon-ko.glif</string>
+	<key>kong-ko</key>
+	<string>kong-ko.glif</string>
+	<key>kos-ko</key>
+	<string>kos-ko.glif</string>
 	<key>ku-hira</key>
 	<string>ku-hira.glif</string>
 	<key>ku-kata</key>
 	<string>ku-kata.glif</string>
+	<key>ku-ko</key>
+	<string>ku-ko.glif</string>
+	<key>kub-ko</key>
+	<string>kub-ko.glif</string>
+	<key>kug-ko</key>
+	<string>kug-ko.glif</string>
+	<key>kul-ko</key>
+	<string>kul-ko.glif</string>
+	<key>kum-ko</key>
+	<string>kum-ko.glif</string>
+	<key>kun-ko</key>
+	<string>kun-ko.glif</string>
+	<key>kung-ko</key>
+	<string>kung-ko.glif</string>
+	<key>kus-ko</key>
+	<string>kus-ko.glif</string>
+	<key>kwa-ko</key>
+	<string>kwa-ko.glif</string>
+	<key>kwae-ko</key>
+	<string>kwae-ko.glif</string>
+	<key>kwaeng-ko</key>
+	<string>kwaeng-ko.glif</string>
+	<key>kwag-ko</key>
+	<string>kwag-ko.glif</string>
+	<key>kwal-ko</key>
+	<string>kwal-ko.glif</string>
+	<key>kwam-ko</key>
+	<string>kwam-ko.glif</string>
+	<key>kwan-ko</key>
+	<string>kwan-ko.glif</string>
+	<key>kwang-ko</key>
+	<string>kwang-ko.glif</string>
+	<key>kwe-ko</key>
+	<string>kwe-ko.glif</string>
+	<key>kweng-ko</key>
+	<string>kweng-ko.glif</string>
+	<key>kweo-ko</key>
+	<string>kweo-ko.glif</string>
+	<key>kweol-ko</key>
+	<string>kweol-ko.glif</string>
+	<key>kweon-ko</key>
+	<string>kweon-ko.glif</string>
+	<key>kweong-ko</key>
+	<string>kweong-ko.glif</string>
+	<key>kwi-ko</key>
+	<string>kwi-ko.glif</string>
+	<key>kwib-ko</key>
+	<string>kwib-ko.glif</string>
+	<key>kwig-ko</key>
+	<string>kwig-ko.glif</string>
+	<key>kwil-ko</key>
+	<string>kwil-ko.glif</string>
+	<key>kwim-ko</key>
+	<string>kwim-ko.glif</string>
+	<key>kwin-ko</key>
+	<string>kwin-ko.glif</string>
+	<key>kwing-ko</key>
+	<string>kwing-ko.glif</string>
+	<key>kwis-ko</key>
+	<string>kwis-ko.glif</string>
+	<key>kya-ko</key>
+	<string>kya-ko.glif</string>
+	<key>kyag-ko</key>
+	<string>kyag-ko.glif</string>
+	<key>kyang-ko</key>
+	<string>kyang-ko.glif</string>
+	<key>kye-ko</key>
+	<string>kye-ko.glif</string>
+	<key>kyeo-ko</key>
+	<string>kyeo-ko.glif</string>
+	<key>kyeob-ko</key>
+	<string>kyeob-ko.glif</string>
+	<key>kyeol-ko</key>
+	<string>kyeol-ko.glif</string>
+	<key>kyeom-ko</key>
+	<string>kyeom-ko.glif</string>
+	<key>kyeon-ko</key>
+	<string>kyeon-ko.glif</string>
+	<key>kyeong-ko</key>
+	<string>kyeong-ko.glif</string>
+	<key>kyeos-ko</key>
+	<string>kyeos-ko.glif</string>
+	<key>kyeoss-ko</key>
+	<string>kyeoss-ko.glif</string>
+	<key>kyo-ko</key>
+	<string>kyo-ko.glif</string>
+	<key>kyu-ko</key>
+	<string>kyu-ko.glif</string>
+	<key>kyul-ko</key>
+	<string>kyul-ko.glif</string>
+	<key>kyum-ko</key>
+	<string>kyum-ko.glif</string>
+	<key>kyun-ko</key>
+	<string>kyun-ko.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>leftArrow</key>
@@ -520,34 +3268,294 @@
 	<string>ma-hira.glif</string>
 	<key>ma-kata</key>
 	<string>ma-kata.glif</string>
+	<key>ma-ko</key>
+	<string>ma-ko.glif</string>
+	<key>mab-ko</key>
+	<string>mab-ko.glif</string>
 	<key>macron</key>
 	<string>macron.glif</string>
 	<key>macroncomb</key>
 	<string>macroncomb.glif</string>
+	<key>mad-ko</key>
+	<string>mad-ko.glif</string>
+	<key>mae-ko</key>
+	<string>mae-ko.glif</string>
+	<key>maeb-ko</key>
+	<string>maeb-ko.glif</string>
+	<key>maeg-ko</key>
+	<string>maeg-ko.glif</string>
+	<key>maej-ko</key>
+	<string>maej-ko.glif</string>
+	<key>mael-ko</key>
+	<string>mael-ko.glif</string>
+	<key>maem-ko</key>
+	<string>maem-ko.glif</string>
+	<key>maen-ko</key>
+	<string>maen-ko.glif</string>
+	<key>maeng-ko</key>
+	<string>maeng-ko.glif</string>
+	<key>maes-ko</key>
+	<string>maes-ko.glif</string>
+	<key>maess-ko</key>
+	<string>maess-ko.glif</string>
+	<key>mag-ko</key>
+	<string>mag-ko.glif</string>
+	<key>mah-ko</key>
+	<string>mah-ko.glif</string>
+	<key>maj-ko</key>
+	<string>maj-ko.glif</string>
+	<key>mal-ko</key>
+	<string>mal-ko.glif</string>
 	<key>male</key>
 	<string>male.glif</string>
+	<key>malg-ko</key>
+	<string>malg-ko.glif</string>
+	<key>malm-ko</key>
+	<string>malm-ko.glif</string>
+	<key>mam-ko</key>
+	<string>mam-ko.glif</string>
+	<key>man-ko</key>
+	<string>man-ko.glif</string>
+	<key>mang-ko</key>
+	<string>mang-ko.glif</string>
+	<key>manh-ko</key>
+	<string>manh-ko.glif</string>
+	<key>mas-ko</key>
+	<string>mas-ko.glif</string>
+	<key>mat-ko</key>
+	<string>mat-ko.glif</string>
 	<key>me-hira</key>
 	<string>me-hira.glif</string>
 	<key>me-kata</key>
 	<string>me-kata.glif</string>
+	<key>me-ko</key>
+	<string>me-ko.glif</string>
+	<key>meb-ko</key>
+	<string>meb-ko.glif</string>
+	<key>meg-ko</key>
+	<string>meg-ko.glif</string>
+	<key>mel-ko</key>
+	<string>mel-ko.glif</string>
+	<key>mem-ko</key>
+	<string>mem-ko.glif</string>
+	<key>men-ko</key>
+	<string>men-ko.glif</string>
+	<key>meng-ko</key>
+	<string>meng-ko.glif</string>
+	<key>meo-ko</key>
+	<string>meo-ko.glif</string>
+	<key>meob-ko</key>
+	<string>meob-ko.glif</string>
+	<key>meog-ko</key>
+	<string>meog-ko.glif</string>
+	<key>meoh-ko</key>
+	<string>meoh-ko.glif</string>
+	<key>meoj-ko</key>
+	<string>meoj-ko.glif</string>
+	<key>meol-ko</key>
+	<string>meol-ko.glif</string>
+	<key>meolm-ko</key>
+	<string>meolm-ko.glif</string>
+	<key>meom-ko</key>
+	<string>meom-ko.glif</string>
+	<key>meon-ko</key>
+	<string>meon-ko.glif</string>
+	<key>meong-ko</key>
+	<string>meong-ko.glif</string>
+	<key>meos-ko</key>
+	<string>meos-ko.glif</string>
+	<key>mes-ko</key>
+	<string>mes-ko.glif</string>
+	<key>mess-ko</key>
+	<string>mess-ko.glif</string>
+	<key>meu-ko</key>
+	<string>meu-ko.glif</string>
+	<key>meul-ko</key>
+	<string>meul-ko.glif</string>
+	<key>meum-ko</key>
+	<string>meum-ko.glif</string>
+	<key>meun-ko</key>
+	<string>meun-ko.glif</string>
+	<key>meus-ko</key>
+	<string>meus-ko.glif</string>
 	<key>mi-hira</key>
 	<string>mi-hira.glif</string>
 	<key>mi-kata</key>
 	<string>mi-kata.glif</string>
+	<key>mi-ko</key>
+	<string>mi-ko.glif</string>
+	<key>mib-ko</key>
+	<string>mib-ko.glif</string>
+	<key>mic-ko</key>
+	<string>mic-ko.glif</string>
+	<key>mid-ko</key>
+	<string>mid-ko.glif</string>
 	<key>mieumCho-ko</key>
 	<string>mieumC_ho-ko.glif</string>
+	<key>mieumCompa-ko</key>
+	<string>mieumC_ompa-ko.glif</string>
+	<key>mig-ko</key>
+	<string>mig-ko.glif</string>
+	<key>mil-ko</key>
+	<string>mil-ko.glif</string>
+	<key>milm-ko</key>
+	<string>milm-ko.glif</string>
+	<key>mim-ko</key>
+	<string>mim-ko.glif</string>
+	<key>min-ko</key>
+	<string>min-ko.glif</string>
+	<key>ming-ko</key>
+	<string>ming-ko.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
+	<key>mis-ko</key>
+	<string>mis-ko.glif</string>
+	<key>miss-ko</key>
+	<string>miss-ko.glif</string>
+	<key>mit-ko</key>
+	<string>mit-ko.glif</string>
 	<key>mo-hira</key>
 	<string>mo-hira.glif</string>
 	<key>mo-kata</key>
 	<string>mo-kata.glif</string>
+	<key>mo-ko</key>
+	<string>mo-ko.glif</string>
+	<key>mob-ko</key>
+	<string>mob-ko.glif</string>
+	<key>moe-ko</key>
+	<string>moe-ko.glif</string>
+	<key>moeb-ko</key>
+	<string>moeb-ko.glif</string>
+	<key>moel-ko</key>
+	<string>moel-ko.glif</string>
+	<key>moen-ko</key>
+	<string>moen-ko.glif</string>
+	<key>moeng-ko</key>
+	<string>moeng-ko.glif</string>
+	<key>moes-ko</key>
+	<string>moes-ko.glif</string>
+	<key>mog-ko</key>
+	<string>mog-ko.glif</string>
+	<key>mogs-ko</key>
+	<string>mogs-ko.glif</string>
+	<key>mol-ko</key>
+	<string>mol-ko.glif</string>
+	<key>molm-ko</key>
+	<string>molm-ko.glif</string>
+	<key>mom-ko</key>
+	<string>mom-ko.glif</string>
+	<key>mon-ko</key>
+	<string>mon-ko.glif</string>
+	<key>mong-ko</key>
+	<string>mong-ko.glif</string>
+	<key>mos-ko</key>
+	<string>mos-ko.glif</string>
 	<key>mu-hira</key>
 	<string>mu-hira.glif</string>
 	<key>mu-kata</key>
 	<string>mu-kata.glif</string>
+	<key>mu-ko</key>
+	<string>mu-ko.glif</string>
+	<key>mub-ko</key>
+	<string>mub-ko.glif</string>
+	<key>mud-ko</key>
+	<string>mud-ko.glif</string>
+	<key>mug-ko</key>
+	<string>mug-ko.glif</string>
+	<key>mugg-ko</key>
+	<string>mugg-ko.glif</string>
+	<key>muh-ko</key>
+	<string>muh-ko.glif</string>
+	<key>mul-ko</key>
+	<string>mul-ko.glif</string>
+	<key>mulg-ko</key>
+	<string>mulg-ko.glif</string>
+	<key>mulm-ko</key>
+	<string>mulm-ko.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
+	<key>mum-ko</key>
+	<string>mum-ko.glif</string>
+	<key>mun-ko</key>
+	<string>mun-ko.glif</string>
+	<key>mung-ko</key>
+	<string>mung-ko.glif</string>
+	<key>mus-ko</key>
+	<string>mus-ko.glif</string>
+	<key>mut-ko</key>
+	<string>mut-ko.glif</string>
+	<key>mwa-ko</key>
+	<string>mwa-ko.glif</string>
+	<key>mwan-ko</key>
+	<string>mwan-ko.glif</string>
+	<key>mwang-ko</key>
+	<string>mwang-ko.glif</string>
+	<key>mwass-ko</key>
+	<string>mwass-ko.glif</string>
+	<key>mwe-ko</key>
+	<string>mwe-ko.glif</string>
+	<key>mweo-ko</key>
+	<string>mweo-ko.glif</string>
+	<key>mweob-ko</key>
+	<string>mweob-ko.glif</string>
+	<key>mweol-ko</key>
+	<string>mweol-ko.glif</string>
+	<key>mweon-ko</key>
+	<string>mweon-ko.glif</string>
+	<key>mweos-ko</key>
+	<string>mweos-ko.glif</string>
+	<key>mwi-ko</key>
+	<string>mwi-ko.glif</string>
+	<key>mwil-ko</key>
+	<string>mwil-ko.glif</string>
+	<key>mwin-ko</key>
+	<string>mwin-ko.glif</string>
+	<key>mya-ko</key>
+	<string>mya-ko.glif</string>
+	<key>myag-ko</key>
+	<string>myag-ko.glif</string>
+	<key>myal-ko</key>
+	<string>myal-ko.glif</string>
+	<key>myang-ko</key>
+	<string>myang-ko.glif</string>
+	<key>mye-ko</key>
+	<string>mye-ko.glif</string>
+	<key>myeo-ko</key>
+	<string>myeo-ko.glif</string>
+	<key>myeoc-ko</key>
+	<string>myeoc-ko.glif</string>
+	<key>myeog-ko</key>
+	<string>myeog-ko.glif</string>
+	<key>myeol-ko</key>
+	<string>myeol-ko.glif</string>
+	<key>myeon-ko</key>
+	<string>myeon-ko.glif</string>
+	<key>myeong-ko</key>
+	<string>myeong-ko.glif</string>
+	<key>myeos-ko</key>
+	<string>myeos-ko.glif</string>
+	<key>myeoss-ko</key>
+	<string>myeoss-ko.glif</string>
+	<key>myo-ko</key>
+	<string>myo-ko.glif</string>
+	<key>myob-ko</key>
+	<string>myob-ko.glif</string>
+	<key>myol-ko</key>
+	<string>myol-ko.glif</string>
+	<key>myon-ko</key>
+	<string>myon-ko.glif</string>
+	<key>myos-ko</key>
+	<string>myos-ko.glif</string>
+	<key>myu-ko</key>
+	<string>myu-ko.glif</string>
+	<key>myul-ko</key>
+	<string>myul-ko.glif</string>
+	<key>myum-ko</key>
+	<string>myum-ko.glif</string>
+	<key>myun-ko</key>
+	<string>myun-ko.glif</string>
+	<key>myus-ko</key>
+	<string>myus-ko.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>n-hira</key>
@@ -558,26 +3566,202 @@
 	<string>na-hira.glif</string>
 	<key>na-kata</key>
 	<string>na-kata.glif</string>
+	<key>na-ko</key>
+	<string>na-ko.glif</string>
+	<key>nab-ko</key>
+	<string>nab-ko.glif</string>
+	<key>nac-ko</key>
+	<string>nac-ko.glif</string>
+	<key>nad-ko</key>
+	<string>nad-ko.glif</string>
+	<key>nae-ko</key>
+	<string>nae-ko.glif</string>
+	<key>naeb-ko</key>
+	<string>naeb-ko.glif</string>
+	<key>naeg-ko</key>
+	<string>naeg-ko.glif</string>
+	<key>nael-ko</key>
+	<string>nael-ko.glif</string>
+	<key>naem-ko</key>
+	<string>naem-ko.glif</string>
+	<key>naen-ko</key>
+	<string>naen-ko.glif</string>
+	<key>naeng-ko</key>
+	<string>naeng-ko.glif</string>
+	<key>naes-ko</key>
+	<string>naes-ko.glif</string>
+	<key>naess-ko</key>
+	<string>naess-ko.glif</string>
+	<key>nag-ko</key>
+	<string>nag-ko.glif</string>
+	<key>nagg-ko</key>
+	<string>nagg-ko.glif</string>
+	<key>nah-ko</key>
+	<string>nah-ko.glif</string>
+	<key>naj-ko</key>
+	<string>naj-ko.glif</string>
+	<key>nal-ko</key>
+	<string>nal-ko.glif</string>
+	<key>nalg-ko</key>
+	<string>nalg-ko.glif</string>
+	<key>nalm-ko</key>
+	<string>nalm-ko.glif</string>
+	<key>nam-ko</key>
+	<string>nam-ko.glif</string>
+	<key>nan-ko</key>
+	<string>nan-ko.glif</string>
+	<key>nang-ko</key>
+	<string>nang-ko.glif</string>
+	<key>nas-ko</key>
+	<string>nas-ko.glif</string>
+	<key>nass-ko</key>
+	<string>nass-ko.glif</string>
+	<key>nat-ko</key>
+	<string>nat-ko.glif</string>
 	<key>ne-hira</key>
 	<string>ne-hira.glif</string>
 	<key>ne-kata</key>
 	<string>ne-kata.glif</string>
+	<key>ne-ko</key>
+	<string>ne-ko.glif</string>
+	<key>neb-ko</key>
+	<string>neb-ko.glif</string>
+	<key>neg-ko</key>
+	<string>neg-ko.glif</string>
+	<key>nel-ko</key>
+	<string>nel-ko.glif</string>
+	<key>nem-ko</key>
+	<string>nem-ko.glif</string>
+	<key>nen-ko</key>
+	<string>nen-ko.glif</string>
+	<key>neng-ko</key>
+	<string>neng-ko.glif</string>
+	<key>neo-ko</key>
+	<string>neo-ko.glif</string>
+	<key>neob-ko</key>
+	<string>neob-ko.glif</string>
+	<key>neog-ko</key>
+	<string>neog-ko.glif</string>
+	<key>neogs-ko</key>
+	<string>neogs-ko.glif</string>
+	<key>neoh-ko</key>
+	<string>neoh-ko.glif</string>
+	<key>neol-ko</key>
+	<string>neol-ko.glif</string>
+	<key>neolb-ko</key>
+	<string>neolb-ko.glif</string>
+	<key>neolm-ko</key>
+	<string>neolm-ko.glif</string>
+	<key>neom-ko</key>
+	<string>neom-ko.glif</string>
+	<key>neon-ko</key>
+	<string>neon-ko.glif</string>
+	<key>neong-ko</key>
+	<string>neong-ko.glif</string>
+	<key>neos-ko</key>
+	<string>neos-ko.glif</string>
+	<key>neoss-ko</key>
+	<string>neoss-ko.glif</string>
+	<key>nes-ko</key>
+	<string>nes-ko.glif</string>
+	<key>ness-ko</key>
+	<string>ness-ko.glif</string>
+	<key>neu-ko</key>
+	<string>neu-ko.glif</string>
+	<key>neub-ko</key>
+	<string>neub-ko.glif</string>
+	<key>neug-ko</key>
+	<string>neug-ko.glif</string>
+	<key>neuj-ko</key>
+	<string>neuj-ko.glif</string>
+	<key>neul-ko</key>
+	<string>neul-ko.glif</string>
+	<key>neulg-ko</key>
+	<string>neulg-ko.glif</string>
+	<key>neulm-ko</key>
+	<string>neulm-ko.glif</string>
+	<key>neum-ko</key>
+	<string>neum-ko.glif</string>
+	<key>neun-ko</key>
+	<string>neun-ko.glif</string>
+	<key>neung-ko</key>
+	<string>neung-ko.glif</string>
+	<key>neup-ko</key>
+	<string>neup-ko.glif</string>
+	<key>neus-ko</key>
+	<string>neus-ko.glif</string>
 	<key>ni-hira</key>
 	<string>ni-hira.glif</string>
 	<key>ni-kata</key>
 	<string>ni-kata.glif</string>
+	<key>ni-ko</key>
+	<string>ni-ko.glif</string>
+	<key>nib-ko</key>
+	<string>nib-ko.glif</string>
 	<key>nieunCho-ko</key>
 	<string>nieunC_ho-ko.glif</string>
+	<key>nieunCompa-ko</key>
+	<string>nieunC_ompa-ko.glif</string>
+	<key>nig-ko</key>
+	<string>nig-ko.glif</string>
+	<key>nil-ko</key>
+	<string>nil-ko.glif</string>
+	<key>nilm-ko</key>
+	<string>nilm-ko.glif</string>
+	<key>nim-ko</key>
+	<string>nim-ko.glif</string>
+	<key>nin-ko</key>
+	<string>nin-ko.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>ning-ko</key>
+	<string>ning-ko.glif</string>
+	<key>nip-ko</key>
+	<string>nip-ko.glif</string>
+	<key>nis-ko</key>
+	<string>nis-ko.glif</string>
 	<key>no-hira</key>
 	<string>no-hira.glif</string>
 	<key>no-kata</key>
 	<string>no-kata.glif</string>
+	<key>no-ko</key>
+	<string>no-ko.glif</string>
+	<key>nob-ko</key>
+	<string>nob-ko.glif</string>
+	<key>noe-ko</key>
+	<string>noe-ko.glif</string>
+	<key>noeb-ko</key>
+	<string>noeb-ko.glif</string>
+	<key>noel-ko</key>
+	<string>noel-ko.glif</string>
+	<key>noem-ko</key>
+	<string>noem-ko.glif</string>
+	<key>noen-ko</key>
+	<string>noen-ko.glif</string>
+	<key>noes-ko</key>
+	<string>noes-ko.glif</string>
+	<key>nog-ko</key>
+	<string>nog-ko.glif</string>
+	<key>noh-ko</key>
+	<string>noh-ko.glif</string>
+	<key>nol-ko</key>
+	<string>nol-ko.glif</string>
+	<key>nolm-ko</key>
+	<string>nolm-ko.glif</string>
+	<key>nom-ko</key>
+	<string>nom-ko.glif</string>
+	<key>non-ko</key>
+	<string>non-ko.glif</string>
+	<key>nong-ko</key>
+	<string>nong-ko.glif</string>
+	<key>nop-ko</key>
+	<string>nop-ko.glif</string>
 	<key>northEastArrow</key>
 	<string>northE_astA_rrow.glif</string>
 	<key>northWestArrow</key>
 	<string>northW_estA_rrow.glif</string>
+	<key>nos-ko</key>
+	<string>nos-ko.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
 	<key>ntilde</key>
@@ -586,38 +3770,192 @@
 	<string>nu-hira.glif</string>
 	<key>nu-kata</key>
 	<string>nu-kata.glif</string>
+	<key>nu-ko</key>
+	<string>nu-ko.glif</string>
+	<key>nub-ko</key>
+	<string>nub-ko.glif</string>
+	<key>nud-ko</key>
+	<string>nud-ko.glif</string>
+	<key>nug-ko</key>
+	<string>nug-ko.glif</string>
+	<key>nul-ko</key>
+	<string>nul-ko.glif</string>
+	<key>num-ko</key>
+	<string>num-ko.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
 	<key>numero</key>
 	<string>numero.glif</string>
+	<key>nun-ko</key>
+	<string>nun-ko.glif</string>
+	<key>nung-ko</key>
+	<string>nung-ko.glif</string>
+	<key>nus-ko</key>
+	<string>nus-ko.glif</string>
+	<key>nwa-ko</key>
+	<string>nwa-ko.glif</string>
+	<key>nwal-ko</key>
+	<string>nwal-ko.glif</string>
+	<key>nwan-ko</key>
+	<string>nwan-ko.glif</string>
+	<key>nwass-ko</key>
+	<string>nwass-ko.glif</string>
+	<key>nwe-ko</key>
+	<string>nwe-ko.glif</string>
+	<key>nweo-ko</key>
+	<string>nweo-ko.glif</string>
+	<key>nweoss-ko</key>
+	<string>nweoss-ko.glif</string>
+	<key>nwi-ko</key>
+	<string>nwi-ko.glif</string>
+	<key>nwib-ko</key>
+	<string>nwib-ko.glif</string>
+	<key>nwil-ko</key>
+	<string>nwil-ko.glif</string>
+	<key>nwim-ko</key>
+	<string>nwim-ko.glif</string>
+	<key>nwin-ko</key>
+	<string>nwin-ko.glif</string>
+	<key>nya-ko</key>
+	<string>nya-ko.glif</string>
+	<key>nyag-ko</key>
+	<string>nyag-ko.glif</string>
+	<key>nyal-ko</key>
+	<string>nyal-ko.glif</string>
+	<key>nyam-ko</key>
+	<string>nyam-ko.glif</string>
+	<key>nyan-ko</key>
+	<string>nyan-ko.glif</string>
+	<key>nyang-ko</key>
+	<string>nyang-ko.glif</string>
+	<key>nye-ko</key>
+	<string>nye-ko.glif</string>
+	<key>nyen-ko</key>
+	<string>nyen-ko.glif</string>
+	<key>nyeo-ko</key>
+	<string>nyeo-ko.glif</string>
+	<key>nyeob-ko</key>
+	<string>nyeob-ko.glif</string>
+	<key>nyeog-ko</key>
+	<string>nyeog-ko.glif</string>
+	<key>nyeok-ko</key>
+	<string>nyeok-ko.glif</string>
+	<key>nyeol-ko</key>
+	<string>nyeol-ko.glif</string>
+	<key>nyeom-ko</key>
+	<string>nyeom-ko.glif</string>
+	<key>nyeon-ko</key>
+	<string>nyeon-ko.glif</string>
+	<key>nyeong-ko</key>
+	<string>nyeong-ko.glif</string>
+	<key>nyeoss-ko</key>
+	<string>nyeoss-ko.glif</string>
+	<key>nyi-ko</key>
+	<string>nyi-ko.glif</string>
+	<key>nyil-ko</key>
+	<string>nyil-ko.glif</string>
+	<key>nyin-ko</key>
+	<string>nyin-ko.glif</string>
+	<key>nyo-ko</key>
+	<string>nyo-ko.glif</string>
+	<key>nyob-ko</key>
+	<string>nyob-ko.glif</string>
+	<key>nyog-ko</key>
+	<string>nyog-ko.glif</string>
+	<key>nyol-ko</key>
+	<string>nyol-ko.glif</string>
+	<key>nyon-ko</key>
+	<string>nyon-ko.glif</string>
+	<key>nyong-ko</key>
+	<string>nyong-ko.glif</string>
+	<key>nyos-ko</key>
+	<string>nyos-ko.glif</string>
+	<key>nyu-ko</key>
+	<string>nyu-ko.glif</string>
+	<key>nyub-ko</key>
+	<string>nyub-ko.glif</string>
+	<key>nyug-ko</key>
+	<string>nyug-ko.glif</string>
+	<key>nyul-ko</key>
+	<string>nyul-ko.glif</string>
+	<key>nyum-ko</key>
+	<string>nyum-ko.glif</string>
+	<key>nyung-ko</key>
+	<string>nyung-ko.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>o-hira</key>
 	<string>o-hira.glif</string>
 	<key>o-kata</key>
 	<string>o-kata.glif</string>
+	<key>o-ko</key>
+	<string>o-ko.glif</string>
+	<key>oCompa-ko</key>
+	<string>oC_ompa-ko.glif</string>
 	<key>oJung-ko</key>
 	<string>oJ_ung-ko.glif</string>
 	<key>oacute</key>
 	<string>oacute.glif</string>
+	<key>ob-ko</key>
+	<string>ob-ko.glif</string>
+	<key>oc-ko</key>
+	<string>oc-ko.glif</string>
 	<key>ocircumflex</key>
 	<string>ocircumflex.glif</string>
 	<key>odieresis</key>
 	<string>odieresis.glif</string>
 	<key>oe</key>
 	<string>oe.glif</string>
+	<key>oe-ko</key>
+	<string>oe-ko.glif</string>
+	<key>oeCompa-ko</key>
+	<string>oeC_ompa-ko.glif</string>
 	<key>oeJung-ko</key>
 	<string>oeJ_ung-ko.glif</string>
+	<key>oeb-ko</key>
+	<string>oeb-ko.glif</string>
+	<key>oeg-ko</key>
+	<string>oeg-ko.glif</string>
+	<key>oel-ko</key>
+	<string>oel-ko.glif</string>
+	<key>oem-ko</key>
+	<string>oem-ko.glif</string>
+	<key>oen-ko</key>
+	<string>oen-ko.glif</string>
+	<key>oeng-ko</key>
+	<string>oeng-ko.glif</string>
+	<key>oes-ko</key>
+	<string>oes-ko.glif</string>
+	<key>og-ko</key>
+	<string>og-ko.glif</string>
 	<key>ogonek</key>
 	<string>ogonek.glif</string>
 	<key>ogonekcomb</key>
 	<string>ogonekcomb.glif</string>
 	<key>ograve</key>
 	<string>ograve.glif</string>
+	<key>ol-ko</key>
+	<string>ol-ko.glif</string>
+	<key>olg-ko</key>
+	<string>olg-ko.glif</string>
+	<key>olh-ko</key>
+	<string>olh-ko.glif</string>
+	<key>olm-ko</key>
+	<string>olm-ko.glif</string>
+	<key>ols-ko</key>
+	<string>ols-ko.glif</string>
+	<key>om-ko</key>
+	<string>om-ko.glif</string>
+	<key>on-ko</key>
+	<string>on-ko.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>ong-ko</key>
+	<string>ong-ko.glif</string>
 	<key>ordmasculine</key>
 	<string>ordmasculine.glif</string>
+	<key>os-ko</key>
+	<string>os-ko.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>osmall-hira</key>
@@ -632,6 +3970,42 @@
 	<string>pa-hira.glif</string>
 	<key>pa-kata</key>
 	<string>pa-kata.glif</string>
+	<key>pa-ko</key>
+	<string>pa-ko.glif</string>
+	<key>pab-ko</key>
+	<string>pab-ko.glif</string>
+	<key>pae-ko</key>
+	<string>pae-ko.glif</string>
+	<key>paeb-ko</key>
+	<string>paeb-ko.glif</string>
+	<key>paeg-ko</key>
+	<string>paeg-ko.glif</string>
+	<key>pael-ko</key>
+	<string>pael-ko.glif</string>
+	<key>paem-ko</key>
+	<string>paem-ko.glif</string>
+	<key>paen-ko</key>
+	<string>paen-ko.glif</string>
+	<key>paeng-ko</key>
+	<string>paeng-ko.glif</string>
+	<key>paes-ko</key>
+	<string>paes-ko.glif</string>
+	<key>paess-ko</key>
+	<string>paess-ko.glif</string>
+	<key>pag-ko</key>
+	<string>pag-ko.glif</string>
+	<key>pagg-ko</key>
+	<string>pagg-ko.glif</string>
+	<key>pal-ko</key>
+	<string>pal-ko.glif</string>
+	<key>palm-ko</key>
+	<string>palm-ko.glif</string>
+	<key>pam-ko</key>
+	<string>pam-ko.glif</string>
+	<key>pan-ko</key>
+	<string>pan-ko.glif</string>
+	<key>pang-ko</key>
+	<string>pang-ko.glif</string>
 	<key>paragraph</key>
 	<string>paragraph.glif</string>
 	<key>parenleft</key>
@@ -640,10 +4014,48 @@
 	<string>parenright.glif</string>
 	<key>partialdiff</key>
 	<string>partialdiff.glif</string>
+	<key>pas-ko</key>
+	<string>pas-ko.glif</string>
+	<key>pass-ko</key>
+	<string>pass-ko.glif</string>
+	<key>pat-ko</key>
+	<string>pat-ko.glif</string>
 	<key>pe-hira</key>
 	<string>pe-hira.glif</string>
 	<key>pe-kata</key>
 	<string>pe-kata.glif</string>
+	<key>pe-ko</key>
+	<string>pe-ko.glif</string>
+	<key>peb-ko</key>
+	<string>peb-ko.glif</string>
+	<key>peg-ko</key>
+	<string>peg-ko.glif</string>
+	<key>pel-ko</key>
+	<string>pel-ko.glif</string>
+	<key>pem-ko</key>
+	<string>pem-ko.glif</string>
+	<key>pen-ko</key>
+	<string>pen-ko.glif</string>
+	<key>peng-ko</key>
+	<string>peng-ko.glif</string>
+	<key>peo-ko</key>
+	<string>peo-ko.glif</string>
+	<key>peob-ko</key>
+	<string>peob-ko.glif</string>
+	<key>peog-ko</key>
+	<string>peog-ko.glif</string>
+	<key>peol-ko</key>
+	<string>peol-ko.glif</string>
+	<key>peom-ko</key>
+	<string>peom-ko.glif</string>
+	<key>peon-ko</key>
+	<string>peon-ko.glif</string>
+	<key>peong-ko</key>
+	<string>peong-ko.glif</string>
+	<key>peos-ko</key>
+	<string>peos-ko.glif</string>
+	<key>peoss-ko</key>
+	<string>peoss-ko.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
 	<key>period</key>
@@ -654,14 +4066,48 @@
 	<string>periodcentered.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
+	<key>pes-ko</key>
+	<string>pes-ko.glif</string>
+	<key>peu-ko</key>
+	<string>peu-ko.glif</string>
+	<key>peub-ko</key>
+	<string>peub-ko.glif</string>
+	<key>peul-ko</key>
+	<string>peul-ko.glif</string>
+	<key>peum-ko</key>
+	<string>peum-ko.glif</string>
+	<key>peun-ko</key>
+	<string>peun-ko.glif</string>
+	<key>peus-ko</key>
+	<string>peus-ko.glif</string>
 	<key>phieuphCho-ko</key>
 	<string>phieuphC_ho-ko.glif</string>
+	<key>phieuphCompa-ko</key>
+	<string>phieuphC_ompa-ko.glif</string>
 	<key>pi-hira</key>
 	<string>pi-hira.glif</string>
 	<key>pi-kata</key>
 	<string>pi-kata.glif</string>
+	<key>pi-ko</key>
+	<string>pi-ko.glif</string>
+	<key>pib-ko</key>
+	<string>pib-ko.glif</string>
 	<key>pieupCho-ko</key>
 	<string>pieupC_ho-ko.glif</string>
+	<key>pieupCompa-ko</key>
+	<string>pieupC_ompa-ko.glif</string>
+	<key>pig-ko</key>
+	<string>pig-ko.glif</string>
+	<key>pil-ko</key>
+	<string>pil-ko.glif</string>
+	<key>pim-ko</key>
+	<string>pim-ko.glif</string>
+	<key>pin-ko</key>
+	<string>pin-ko.glif</string>
+	<key>ping-ko</key>
+	<string>ping-ko.glif</string>
+	<key>pis-ko</key>
+	<string>pis-ko.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
 	<key>plusminus</key>
@@ -670,6 +4116,26 @@
 	<string>po-hira.glif</string>
 	<key>po-kata</key>
 	<string>po-kata.glif</string>
+	<key>po-ko</key>
+	<string>po-ko.glif</string>
+	<key>pob-ko</key>
+	<string>pob-ko.glif</string>
+	<key>poe-ko</key>
+	<string>poe-ko.glif</string>
+	<key>poen-ko</key>
+	<string>poen-ko.glif</string>
+	<key>pog-ko</key>
+	<string>pog-ko.glif</string>
+	<key>pol-ko</key>
+	<string>pol-ko.glif</string>
+	<key>pom-ko</key>
+	<string>pom-ko.glif</string>
+	<key>pon-ko</key>
+	<string>pon-ko.glif</string>
+	<key>pong-ko</key>
+	<string>pong-ko.glif</string>
+	<key>pos-ko</key>
+	<string>pos-ko.glif</string>
 	<key>product</key>
 	<string>product.glif</string>
 	<key>prolonged-kana</key>
@@ -678,6 +4144,92 @@
 	<string>pu-hira.glif</string>
 	<key>pu-kata</key>
 	<string>pu-kata.glif</string>
+	<key>pu-ko</key>
+	<string>pu-ko.glif</string>
+	<key>pub-ko</key>
+	<string>pub-ko.glif</string>
+	<key>pud-ko</key>
+	<string>pud-ko.glif</string>
+	<key>pug-ko</key>
+	<string>pug-ko.glif</string>
+	<key>pul-ko</key>
+	<string>pul-ko.glif</string>
+	<key>pulm-ko</key>
+	<string>pulm-ko.glif</string>
+	<key>pum-ko</key>
+	<string>pum-ko.glif</string>
+	<key>pun-ko</key>
+	<string>pun-ko.glif</string>
+	<key>pung-ko</key>
+	<string>pung-ko.glif</string>
+	<key>pus-ko</key>
+	<string>pus-ko.glif</string>
+	<key>pwa-ko</key>
+	<string>pwa-ko.glif</string>
+	<key>pwang-ko</key>
+	<string>pwang-ko.glif</string>
+	<key>pweo-ko</key>
+	<string>pweo-ko.glif</string>
+	<key>pweong-ko</key>
+	<string>pweong-ko.glif</string>
+	<key>pwi-ko</key>
+	<string>pwi-ko.glif</string>
+	<key>pwil-ko</key>
+	<string>pwil-ko.glif</string>
+	<key>pwim-ko</key>
+	<string>pwim-ko.glif</string>
+	<key>pwin-ko</key>
+	<string>pwin-ko.glif</string>
+	<key>pwis-ko</key>
+	<string>pwis-ko.glif</string>
+	<key>pya-ko</key>
+	<string>pya-ko.glif</string>
+	<key>pyag-ko</key>
+	<string>pyag-ko.glif</string>
+	<key>pye-ko</key>
+	<string>pye-ko.glif</string>
+	<key>pyeb-ko</key>
+	<string>pyeb-ko.glif</string>
+	<key>pyel-ko</key>
+	<string>pyel-ko.glif</string>
+	<key>pyeo-ko</key>
+	<string>pyeo-ko.glif</string>
+	<key>pyeob-ko</key>
+	<string>pyeob-ko.glif</string>
+	<key>pyeol-ko</key>
+	<string>pyeol-ko.glif</string>
+	<key>pyeom-ko</key>
+	<string>pyeom-ko.glif</string>
+	<key>pyeon-ko</key>
+	<string>pyeon-ko.glif</string>
+	<key>pyeong-ko</key>
+	<string>pyeong-ko.glif</string>
+	<key>pyeoss-ko</key>
+	<string>pyeoss-ko.glif</string>
+	<key>pyes-ko</key>
+	<string>pyes-ko.glif</string>
+	<key>pyo-ko</key>
+	<string>pyo-ko.glif</string>
+	<key>pyob-ko</key>
+	<string>pyob-ko.glif</string>
+	<key>pyol-ko</key>
+	<string>pyol-ko.glif</string>
+	<key>pyon-ko</key>
+	<string>pyon-ko.glif</string>
+	<key>pyos-ko</key>
+	<string>pyos-ko.glif</string>
+	<key>pyu-ko</key>
+	<string>pyu-ko.glif</string>
+	<key>pyul-ko</key>
+	<string>pyul-ko.glif</string>
+	<key>pyum-ko</key>
+	<string>pyum-ko.glif</string>
+	<key>pyun-ko</key>
+	<string>pyun-ko.glif</string>
+	<key>pyung-ko</key>
+	<string>pyung-ko.glif</string>
+	<key>pyus-ko</key>
+	<string>pyus-ko.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
 	<key>question</key>
@@ -720,66 +4272,458 @@
 	<string>ra-hira.glif</string>
 	<key>ra-kata</key>
 	<string>ra-kata.glif</string>
+	<key>ra-ko</key>
+	<string>ra-ko.glif</string>
+	<key>rab-ko</key>
+	<string>rab-ko.glif</string>
 	<key>radical</key>
 	<string>radical.glif</string>
+	<key>rae-ko</key>
+	<string>rae-ko.glif</string>
+	<key>raeb-ko</key>
+	<string>raeb-ko.glif</string>
+	<key>raeg-ko</key>
+	<string>raeg-ko.glif</string>
+	<key>rael-ko</key>
+	<string>rael-ko.glif</string>
+	<key>raem-ko</key>
+	<string>raem-ko.glif</string>
+	<key>raen-ko</key>
+	<string>raen-ko.glif</string>
+	<key>raeng-ko</key>
+	<string>raeng-ko.glif</string>
+	<key>raes-ko</key>
+	<string>raes-ko.glif</string>
+	<key>raess-ko</key>
+	<string>raess-ko.glif</string>
+	<key>rag-ko</key>
+	<string>rag-ko.glif</string>
+	<key>rah-ko</key>
+	<string>rah-ko.glif</string>
+	<key>raj-ko</key>
+	<string>raj-ko.glif</string>
+	<key>ral-ko</key>
+	<string>ral-ko.glif</string>
+	<key>ram-ko</key>
+	<string>ram-ko.glif</string>
+	<key>ran-ko</key>
+	<string>ran-ko.glif</string>
+	<key>rang-ko</key>
+	<string>rang-ko.glif</string>
+	<key>rap-ko</key>
+	<string>rap-ko.glif</string>
+	<key>ras-ko</key>
+	<string>ras-ko.glif</string>
+	<key>rass-ko</key>
+	<string>rass-ko.glif</string>
 	<key>re-hira</key>
 	<string>re-hira.glif</string>
 	<key>re-kata</key>
 	<string>re-kata.glif</string>
+	<key>re-ko</key>
+	<string>re-ko.glif</string>
+	<key>reb-ko</key>
+	<string>reb-ko.glif</string>
+	<key>reg-ko</key>
+	<string>reg-ko.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
+	<key>rel-ko</key>
+	<string>rel-ko.glif</string>
+	<key>rem-ko</key>
+	<string>rem-ko.glif</string>
+	<key>ren-ko</key>
+	<string>ren-ko.glif</string>
+	<key>reng-ko</key>
+	<string>reng-ko.glif</string>
+	<key>reo-ko</key>
+	<string>reo-ko.glif</string>
+	<key>reob-ko</key>
+	<string>reob-ko.glif</string>
+	<key>reog-ko</key>
+	<string>reog-ko.glif</string>
+	<key>reoh-ko</key>
+	<string>reoh-ko.glif</string>
+	<key>reol-ko</key>
+	<string>reol-ko.glif</string>
+	<key>reom-ko</key>
+	<string>reom-ko.glif</string>
+	<key>reon-ko</key>
+	<string>reon-ko.glif</string>
+	<key>reong-ko</key>
+	<string>reong-ko.glif</string>
+	<key>reos-ko</key>
+	<string>reos-ko.glif</string>
+	<key>reoss-ko</key>
+	<string>reoss-ko.glif</string>
 	<key>replacementCharacter</key>
 	<string>replacementC_haracter.glif</string>
+	<key>res-ko</key>
+	<string>res-ko.glif</string>
+	<key>reu-ko</key>
+	<string>reu-ko.glif</string>
+	<key>reub-ko</key>
+	<string>reub-ko.glif</string>
+	<key>reug-ko</key>
+	<string>reug-ko.glif</string>
+	<key>reuj-ko</key>
+	<string>reuj-ko.glif</string>
+	<key>reul-ko</key>
+	<string>reul-ko.glif</string>
+	<key>reum-ko</key>
+	<string>reum-ko.glif</string>
+	<key>reun-ko</key>
+	<string>reun-ko.glif</string>
+	<key>reung-ko</key>
+	<string>reung-ko.glif</string>
+	<key>reup-ko</key>
+	<string>reup-ko.glif</string>
+	<key>reus-ko</key>
+	<string>reus-ko.glif</string>
+	<key>reut-ko</key>
+	<string>reut-ko.glif</string>
 	<key>ri-hira</key>
 	<string>ri-hira.glif</string>
 	<key>ri-kata</key>
 	<string>ri-kata.glif</string>
+	<key>ri-ko</key>
+	<string>ri-ko.glif</string>
+	<key>rib-ko</key>
+	<string>rib-ko.glif</string>
 	<key>rieulCho-ko</key>
 	<string>rieulC_ho-ko.glif</string>
+	<key>rieulCompa-ko</key>
+	<string>rieulC_ompa-ko.glif</string>
+	<key>rig-ko</key>
+	<string>rig-ko.glif</string>
 	<key>rightArrow</key>
 	<string>rightA_rrow.glif</string>
 	<key>rightBlackTriangle</key>
 	<string>rightB_lackT_riangle.glif</string>
 	<key>rightWhiteTriangle</key>
 	<string>rightW_hiteT_riangle.glif</string>
+	<key>ril-ko</key>
+	<string>ril-ko.glif</string>
+	<key>rim-ko</key>
+	<string>rim-ko.glif</string>
+	<key>rin-ko</key>
+	<string>rin-ko.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
+	<key>ring-ko</key>
+	<string>ring-ko.glif</string>
 	<key>ringcomb</key>
 	<string>ringcomb.glif</string>
+	<key>ris-ko</key>
+	<string>ris-ko.glif</string>
 	<key>ro-hira</key>
 	<string>ro-hira.glif</string>
 	<key>ro-kata</key>
 	<string>ro-kata.glif</string>
+	<key>ro-ko</key>
+	<string>ro-ko.glif</string>
+	<key>rob-ko</key>
+	<string>rob-ko.glif</string>
+	<key>roe-ko</key>
+	<string>roe-ko.glif</string>
+	<key>roeb-ko</key>
+	<string>roeb-ko.glif</string>
+	<key>roel-ko</key>
+	<string>roel-ko.glif</string>
+	<key>roem-ko</key>
+	<string>roem-ko.glif</string>
+	<key>roen-ko</key>
+	<string>roen-ko.glif</string>
+	<key>roeng-ko</key>
+	<string>roeng-ko.glif</string>
+	<key>roes-ko</key>
+	<string>roes-ko.glif</string>
+	<key>rog-ko</key>
+	<string>rog-ko.glif</string>
+	<key>rol-ko</key>
+	<string>rol-ko.glif</string>
+	<key>rom-ko</key>
+	<string>rom-ko.glif</string>
+	<key>ron-ko</key>
+	<string>ron-ko.glif</string>
+	<key>rong-ko</key>
+	<string>rong-ko.glif</string>
+	<key>ros-ko</key>
+	<string>ros-ko.glif</string>
 	<key>ru-hira</key>
 	<string>ru-hira.glif</string>
 	<key>ru-kata</key>
 	<string>ru-kata.glif</string>
+	<key>ru-ko</key>
+	<string>ru-ko.glif</string>
+	<key>rub-ko</key>
+	<string>rub-ko.glif</string>
+	<key>rug-ko</key>
+	<string>rug-ko.glif</string>
+	<key>rul-ko</key>
+	<string>rul-ko.glif</string>
+	<key>rum-ko</key>
+	<string>rum-ko.glif</string>
+	<key>run-ko</key>
+	<string>run-ko.glif</string>
+	<key>rung-ko</key>
+	<string>rung-ko.glif</string>
+	<key>rus-ko</key>
+	<string>rus-ko.glif</string>
+	<key>rwa-ko</key>
+	<string>rwa-ko.glif</string>
+	<key>rwaess-ko</key>
+	<string>rwaess-ko.glif</string>
+	<key>rwan-ko</key>
+	<string>rwan-ko.glif</string>
+	<key>rwang-ko</key>
+	<string>rwang-ko.glif</string>
+	<key>rwe-ko</key>
+	<string>rwe-ko.glif</string>
+	<key>rweo-ko</key>
+	<string>rweo-ko.glif</string>
+	<key>rweoss-ko</key>
+	<string>rweoss-ko.glif</string>
+	<key>rwi-ko</key>
+	<string>rwi-ko.glif</string>
+	<key>rwig-ko</key>
+	<string>rwig-ko.glif</string>
+	<key>rwil-ko</key>
+	<string>rwil-ko.glif</string>
+	<key>rwim-ko</key>
+	<string>rwim-ko.glif</string>
+	<key>rwin-ko</key>
+	<string>rwin-ko.glif</string>
+	<key>rwing-ko</key>
+	<string>rwing-ko.glif</string>
+	<key>rwis-ko</key>
+	<string>rwis-ko.glif</string>
+	<key>rya-ko</key>
+	<string>rya-ko.glif</string>
+	<key>ryag-ko</key>
+	<string>ryag-ko.glif</string>
+	<key>ryan-ko</key>
+	<string>ryan-ko.glif</string>
+	<key>ryang-ko</key>
+	<string>ryang-ko.glif</string>
+	<key>ryas-ko</key>
+	<string>ryas-ko.glif</string>
+	<key>rye-ko</key>
+	<string>rye-ko.glif</string>
+	<key>ryeb-ko</key>
+	<string>ryeb-ko.glif</string>
+	<key>ryen-ko</key>
+	<string>ryen-ko.glif</string>
+	<key>ryeo-ko</key>
+	<string>ryeo-ko.glif</string>
+	<key>ryeob-ko</key>
+	<string>ryeob-ko.glif</string>
+	<key>ryeog-ko</key>
+	<string>ryeog-ko.glif</string>
+	<key>ryeol-ko</key>
+	<string>ryeol-ko.glif</string>
+	<key>ryeom-ko</key>
+	<string>ryeom-ko.glif</string>
+	<key>ryeon-ko</key>
+	<string>ryeon-ko.glif</string>
+	<key>ryeong-ko</key>
+	<string>ryeong-ko.glif</string>
+	<key>ryeos-ko</key>
+	<string>ryeos-ko.glif</string>
+	<key>ryeoss-ko</key>
+	<string>ryeoss-ko.glif</string>
+	<key>ryes-ko</key>
+	<string>ryes-ko.glif</string>
+	<key>ryo-ko</key>
+	<string>ryo-ko.glif</string>
+	<key>ryob-ko</key>
+	<string>ryob-ko.glif</string>
+	<key>ryol-ko</key>
+	<string>ryol-ko.glif</string>
+	<key>ryon-ko</key>
+	<string>ryon-ko.glif</string>
+	<key>ryong-ko</key>
+	<string>ryong-ko.glif</string>
+	<key>ryos-ko</key>
+	<string>ryos-ko.glif</string>
+	<key>ryu-ko</key>
+	<string>ryu-ko.glif</string>
+	<key>ryub-ko</key>
+	<string>ryub-ko.glif</string>
+	<key>ryug-ko</key>
+	<string>ryug-ko.glif</string>
+	<key>ryul-ko</key>
+	<string>ryul-ko.glif</string>
+	<key>ryum-ko</key>
+	<string>ryum-ko.glif</string>
+	<key>ryun-ko</key>
+	<string>ryun-ko.glif</string>
+	<key>ryung-ko</key>
+	<string>ryung-ko.glif</string>
+	<key>ryus-ko</key>
+	<string>ryus-ko.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>sa-hira</key>
 	<string>sa-hira.glif</string>
 	<key>sa-kata</key>
 	<string>sa-kata.glif</string>
+	<key>sa-ko</key>
+	<string>sa-ko.glif</string>
+	<key>sab-ko</key>
+	<string>sab-ko.glif</string>
+	<key>sad-ko</key>
+	<string>sad-ko.glif</string>
+	<key>sae-ko</key>
+	<string>sae-ko.glif</string>
+	<key>saeb-ko</key>
+	<string>saeb-ko.glif</string>
+	<key>saeg-ko</key>
+	<string>saeg-ko.glif</string>
+	<key>sael-ko</key>
+	<string>sael-ko.glif</string>
+	<key>saem-ko</key>
+	<string>saem-ko.glif</string>
+	<key>saen-ko</key>
+	<string>saen-ko.glif</string>
+	<key>saeng-ko</key>
+	<string>saeng-ko.glif</string>
+	<key>saes-ko</key>
+	<string>saes-ko.glif</string>
+	<key>saess-ko</key>
+	<string>saess-ko.glif</string>
+	<key>sag-ko</key>
+	<string>sag-ko.glif</string>
+	<key>sags-ko</key>
+	<string>sags-ko.glif</string>
+	<key>sal-ko</key>
+	<string>sal-ko.glif</string>
+	<key>salg-ko</key>
+	<string>salg-ko.glif</string>
+	<key>salm-ko</key>
+	<string>salm-ko.glif</string>
+	<key>sam-ko</key>
+	<string>sam-ko.glif</string>
+	<key>san-ko</key>
+	<string>san-ko.glif</string>
+	<key>sang-ko</key>
+	<string>sang-ko.glif</string>
+	<key>sas-ko</key>
+	<string>sas-ko.glif</string>
+	<key>sass-ko</key>
+	<string>sass-ko.glif</string>
+	<key>sat-ko</key>
+	<string>sat-ko.glif</string>
 	<key>se-hira</key>
 	<string>se-hira.glif</string>
 	<key>se-kata</key>
 	<string>se-kata.glif</string>
+	<key>se-ko</key>
+	<string>se-ko.glif</string>
+	<key>seb-ko</key>
+	<string>seb-ko.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
+	<key>seg-ko</key>
+	<string>seg-ko.glif</string>
+	<key>sel-ko</key>
+	<string>sel-ko.glif</string>
+	<key>sem-ko</key>
+	<string>sem-ko.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
 	<key>semivoiced-kana</key>
 	<string>semivoiced-kana.glif</string>
 	<key>semivoicedcomb-kana</key>
 	<string>semivoicedcomb-kana.glif</string>
+	<key>sen-ko</key>
+	<string>sen-ko.glif</string>
+	<key>seng-ko</key>
+	<string>seng-ko.glif</string>
+	<key>seo-ko</key>
+	<string>seo-ko.glif</string>
+	<key>seob-ko</key>
+	<string>seob-ko.glif</string>
+	<key>seod-ko</key>
+	<string>seod-ko.glif</string>
+	<key>seog-ko</key>
+	<string>seog-ko.glif</string>
+	<key>seogg-ko</key>
+	<string>seogg-ko.glif</string>
+	<key>seogs-ko</key>
+	<string>seogs-ko.glif</string>
+	<key>seol-ko</key>
+	<string>seol-ko.glif</string>
+	<key>seolb-ko</key>
+	<string>seolb-ko.glif</string>
+	<key>seolm-ko</key>
+	<string>seolm-ko.glif</string>
+	<key>seom-ko</key>
+	<string>seom-ko.glif</string>
+	<key>seon-ko</key>
+	<string>seon-ko.glif</string>
+	<key>seong-ko</key>
+	<string>seong-ko.glif</string>
+	<key>seop-ko</key>
+	<string>seop-ko.glif</string>
+	<key>seos-ko</key>
+	<string>seos-ko.glif</string>
+	<key>seoss-ko</key>
+	<string>seoss-ko.glif</string>
+	<key>ses-ko</key>
+	<string>ses-ko.glif</string>
+	<key>sess-ko</key>
+	<string>sess-ko.glif</string>
+	<key>seu-ko</key>
+	<string>seu-ko.glif</string>
+	<key>seub-ko</key>
+	<string>seub-ko.glif</string>
+	<key>seug-ko</key>
+	<string>seug-ko.glif</string>
+	<key>seul-ko</key>
+	<string>seul-ko.glif</string>
+	<key>seulg-ko</key>
+	<string>seulg-ko.glif</string>
+	<key>seum-ko</key>
+	<string>seum-ko.glif</string>
+	<key>seun-ko</key>
+	<string>seun-ko.glif</string>
+	<key>seung-ko</key>
+	<string>seung-ko.glif</string>
+	<key>seus-ko</key>
+	<string>seus-ko.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>si-hira</key>
 	<string>si-hira.glif</string>
 	<key>si-kata</key>
 	<string>si-kata.glif</string>
+	<key>si-ko</key>
+	<string>si-ko.glif</string>
+	<key>sib-ko</key>
+	<string>sib-ko.glif</string>
+	<key>sid-ko</key>
+	<string>sid-ko.glif</string>
+	<key>sig-ko</key>
+	<string>sig-ko.glif</string>
+	<key>sil-ko</key>
+	<string>sil-ko.glif</string>
+	<key>silh-ko</key>
+	<string>silh-ko.glif</string>
+	<key>sim-ko</key>
+	<string>sim-ko.glif</string>
+	<key>sin-ko</key>
+	<string>sin-ko.glif</string>
+	<key>sing-ko</key>
+	<string>sing-ko.glif</string>
 	<key>siosCho-ko</key>
 	<string>siosC_ho-ko.glif</string>
+	<key>siosCompa-ko</key>
+	<string>siosC_ompa-ko.glif</string>
+	<key>sip-ko</key>
+	<string>sip-ko.glif</string>
+	<key>sis-ko</key>
+	<string>sis-ko.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>slash</key>
@@ -792,22 +4736,238 @@
 	<string>so-hira.glif</string>
 	<key>so-kata</key>
 	<string>so-kata.glif</string>
+	<key>so-ko</key>
+	<string>so-ko.glif</string>
+	<key>sob-ko</key>
+	<string>sob-ko.glif</string>
+	<key>soe-ko</key>
+	<string>soe-ko.glif</string>
+	<key>soeb-ko</key>
+	<string>soeb-ko.glif</string>
+	<key>soel-ko</key>
+	<string>soel-ko.glif</string>
+	<key>soem-ko</key>
+	<string>soem-ko.glif</string>
+	<key>soen-ko</key>
+	<string>soen-ko.glif</string>
+	<key>soes-ko</key>
+	<string>soes-ko.glif</string>
+	<key>sog-ko</key>
+	<string>sog-ko.glif</string>
+	<key>sogg-ko</key>
+	<string>sogg-ko.glif</string>
+	<key>sol-ko</key>
+	<string>sol-ko.glif</string>
+	<key>solm-ko</key>
+	<string>solm-ko.glif</string>
+	<key>som-ko</key>
+	<string>som-ko.glif</string>
+	<key>son-ko</key>
+	<string>son-ko.glif</string>
+	<key>song-ko</key>
+	<string>song-ko.glif</string>
+	<key>sos-ko</key>
+	<string>sos-ko.glif</string>
+	<key>sot-ko</key>
+	<string>sot-ko.glif</string>
 	<key>southEastArrow</key>
 	<string>southE_astA_rrow.glif</string>
 	<key>southWestArrow</key>
 	<string>southW_estA_rrow.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>ssa-ko</key>
+	<string>ssa-ko.glif</string>
+	<key>ssab-ko</key>
+	<string>ssab-ko.glif</string>
+	<key>ssae-ko</key>
+	<string>ssae-ko.glif</string>
+	<key>ssaeb-ko</key>
+	<string>ssaeb-ko.glif</string>
+	<key>ssaeg-ko</key>
+	<string>ssaeg-ko.glif</string>
+	<key>ssael-ko</key>
+	<string>ssael-ko.glif</string>
+	<key>ssaem-ko</key>
+	<string>ssaem-ko.glif</string>
+	<key>ssaen-ko</key>
+	<string>ssaen-ko.glif</string>
+	<key>ssaeng-ko</key>
+	<string>ssaeng-ko.glif</string>
+	<key>ssaess-ko</key>
+	<string>ssaess-ko.glif</string>
+	<key>ssag-ko</key>
+	<string>ssag-ko.glif</string>
+	<key>ssags-ko</key>
+	<string>ssags-ko.glif</string>
+	<key>ssah-ko</key>
+	<string>ssah-ko.glif</string>
+	<key>ssal-ko</key>
+	<string>ssal-ko.glif</string>
+	<key>ssam-ko</key>
+	<string>ssam-ko.glif</string>
+	<key>ssan-ko</key>
+	<string>ssan-ko.glif</string>
+	<key>ssang-ko</key>
+	<string>ssang-ko.glif</string>
+	<key>ssangSiosCompa-ko</key>
+	<string>ssangS_iosC_ompa-ko.glif</string>
 	<key>ssangcieucCho-ko</key>
 	<string>ssangcieucC_ho-ko.glif</string>
+	<key>ssangcieucCompa-ko</key>
+	<string>ssangcieucC_ompa-ko.glif</string>
 	<key>ssangkiyeokCho-ko</key>
 	<string>ssangkiyeokC_ho-ko.glif</string>
+	<key>ssangkiyeokCompa-ko</key>
+	<string>ssangkiyeokC_ompa-ko.glif</string>
 	<key>ssangpieupCho-ko</key>
 	<string>ssangpieupC_ho-ko.glif</string>
+	<key>ssangpieupCompa-ko</key>
+	<string>ssangpieupC_ompa-ko.glif</string>
 	<key>ssangsiosCho-ko</key>
 	<string>ssangsiosC_ho-ko.glif</string>
 	<key>ssangtikeutCho-ko</key>
 	<string>ssangtikeutC_ho-ko.glif</string>
+	<key>ssangtikeutCompa-ko</key>
+	<string>ssangtikeutC_ompa-ko.glif</string>
+	<key>ssass-ko</key>
+	<string>ssass-ko.glif</string>
+	<key>sse-ko</key>
+	<string>sse-ko.glif</string>
+	<key>ssel-ko</key>
+	<string>ssel-ko.glif</string>
+	<key>ssen-ko</key>
+	<string>ssen-ko.glif</string>
+	<key>sseo-ko</key>
+	<string>sseo-ko.glif</string>
+	<key>sseob-ko</key>
+	<string>sseob-ko.glif</string>
+	<key>sseog-ko</key>
+	<string>sseog-ko.glif</string>
+	<key>sseol-ko</key>
+	<string>sseol-ko.glif</string>
+	<key>sseolm-ko</key>
+	<string>sseolm-ko.glif</string>
+	<key>sseom-ko</key>
+	<string>sseom-ko.glif</string>
+	<key>sseon-ko</key>
+	<string>sseon-ko.glif</string>
+	<key>sseong-ko</key>
+	<string>sseong-ko.glif</string>
+	<key>sseoss-ko</key>
+	<string>sseoss-ko.glif</string>
+	<key>sseu-ko</key>
+	<string>sseu-ko.glif</string>
+	<key>sseub-ko</key>
+	<string>sseub-ko.glif</string>
+	<key>sseug-ko</key>
+	<string>sseug-ko.glif</string>
+	<key>sseul-ko</key>
+	<string>sseul-ko.glif</string>
+	<key>sseulh-ko</key>
+	<string>sseulh-ko.glif</string>
+	<key>sseulm-ko</key>
+	<string>sseulm-ko.glif</string>
+	<key>sseum-ko</key>
+	<string>sseum-ko.glif</string>
+	<key>sseun-ko</key>
+	<string>sseun-ko.glif</string>
+	<key>ssi-ko</key>
+	<string>ssi-ko.glif</string>
+	<key>ssib-ko</key>
+	<string>ssib-ko.glif</string>
+	<key>ssig-ko</key>
+	<string>ssig-ko.glif</string>
+	<key>ssil-ko</key>
+	<string>ssil-ko.glif</string>
+	<key>ssim-ko</key>
+	<string>ssim-ko.glif</string>
+	<key>ssin-ko</key>
+	<string>ssin-ko.glif</string>
+	<key>ssing-ko</key>
+	<string>ssing-ko.glif</string>
+	<key>ssis-ko</key>
+	<string>ssis-ko.glif</string>
+	<key>sso-ko</key>
+	<string>sso-ko.glif</string>
+	<key>ssob-ko</key>
+	<string>ssob-ko.glif</string>
+	<key>ssod-ko</key>
+	<string>ssod-ko.glif</string>
+	<key>ssoe-ko</key>
+	<string>ssoe-ko.glif</string>
+	<key>ssoeb-ko</key>
+	<string>ssoeb-ko.glif</string>
+	<key>ssoel-ko</key>
+	<string>ssoel-ko.glif</string>
+	<key>ssoem-ko</key>
+	<string>ssoem-ko.glif</string>
+	<key>ssoen-ko</key>
+	<string>ssoen-ko.glif</string>
+	<key>ssog-ko</key>
+	<string>ssog-ko.glif</string>
+	<key>ssol-ko</key>
+	<string>ssol-ko.glif</string>
+	<key>ssolm-ko</key>
+	<string>ssolm-ko.glif</string>
+	<key>ssom-ko</key>
+	<string>ssom-ko.glif</string>
+	<key>sson-ko</key>
+	<string>sson-ko.glif</string>
+	<key>ssong-ko</key>
+	<string>ssong-ko.glif</string>
+	<key>ssu-ko</key>
+	<string>ssu-ko.glif</string>
+	<key>ssub-ko</key>
+	<string>ssub-ko.glif</string>
+	<key>ssug-ko</key>
+	<string>ssug-ko.glif</string>
+	<key>ssul-ko</key>
+	<string>ssul-ko.glif</string>
+	<key>ssum-ko</key>
+	<string>ssum-ko.glif</string>
+	<key>ssun-ko</key>
+	<string>ssun-ko.glif</string>
+	<key>ssung-ko</key>
+	<string>ssung-ko.glif</string>
+	<key>sswa-ko</key>
+	<string>sswa-ko.glif</string>
+	<key>sswae-ko</key>
+	<string>sswae-ko.glif</string>
+	<key>sswaess-ko</key>
+	<string>sswaess-ko.glif</string>
+	<key>sswag-ko</key>
+	<string>sswag-ko.glif</string>
+	<key>sswan-ko</key>
+	<string>sswan-ko.glif</string>
+	<key>sswass-ko</key>
+	<string>sswass-ko.glif</string>
+	<key>sswe-ko</key>
+	<string>sswe-ko.glif</string>
+	<key>ssweo-ko</key>
+	<string>ssweo-ko.glif</string>
+	<key>ssweoss-ko</key>
+	<string>ssweoss-ko.glif</string>
+	<key>sswi-ko</key>
+	<string>sswi-ko.glif</string>
+	<key>sswin-ko</key>
+	<string>sswin-ko.glif</string>
+	<key>ssyang-ko</key>
+	<string>ssyang-ko.glif</string>
+	<key>ssyen-ko</key>
+	<string>ssyen-ko.glif</string>
+	<key>ssyi-ko</key>
+	<string>ssyi-ko.glif</string>
+	<key>ssyil-ko</key>
+	<string>ssyil-ko.glif</string>
+	<key>ssyim-ko</key>
+	<string>ssyim-ko.glif</string>
+	<key>ssyin-ko</key>
+	<string>ssyin-ko.glif</string>
+	<key>ssyo-ko</key>
+	<string>ssyo-ko.glif</string>
+	<key>ssyung-ko</key>
+	<string>ssyung-ko.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
 	<key>strokeshortcomb</key>
@@ -816,20 +4976,272 @@
 	<string>su-hira.glif</string>
 	<key>su-kata</key>
 	<string>su-kata.glif</string>
+	<key>su-ko</key>
+	<string>su-ko.glif</string>
+	<key>sub-ko</key>
+	<string>sub-ko.glif</string>
+	<key>suc-ko</key>
+	<string>suc-ko.glif</string>
+	<key>sud-ko</key>
+	<string>sud-ko.glif</string>
+	<key>sug-ko</key>
+	<string>sug-ko.glif</string>
+	<key>sul-ko</key>
+	<string>sul-ko.glif</string>
+	<key>sum-ko</key>
+	<string>sum-ko.glif</string>
 	<key>summation</key>
 	<string>summation.glif</string>
+	<key>sun-ko</key>
+	<string>sun-ko.glif</string>
+	<key>sung-ko</key>
+	<string>sung-ko.glif</string>
+	<key>sup-ko</key>
+	<string>sup-ko.glif</string>
+	<key>sus-ko</key>
+	<string>sus-ko.glif</string>
+	<key>sut-ko</key>
+	<string>sut-ko.glif</string>
+	<key>swa-ko</key>
+	<string>swa-ko.glif</string>
+	<key>swae-ko</key>
+	<string>swae-ko.glif</string>
+	<key>swael-ko</key>
+	<string>swael-ko.glif</string>
+	<key>swaem-ko</key>
+	<string>swaem-ko.glif</string>
+	<key>swaen-ko</key>
+	<string>swaen-ko.glif</string>
+	<key>swaes-ko</key>
+	<string>swaes-ko.glif</string>
+	<key>swaess-ko</key>
+	<string>swaess-ko.glif</string>
+	<key>swag-ko</key>
+	<string>swag-ko.glif</string>
+	<key>swal-ko</key>
+	<string>swal-ko.glif</string>
+	<key>swan-ko</key>
+	<string>swan-ko.glif</string>
+	<key>swang-ko</key>
+	<string>swang-ko.glif</string>
+	<key>swe-ko</key>
+	<string>swe-ko.glif</string>
+	<key>sweg-ko</key>
+	<string>sweg-ko.glif</string>
+	<key>swel-ko</key>
+	<string>swel-ko.glif</string>
+	<key>swem-ko</key>
+	<string>swem-ko.glif</string>
+	<key>swen-ko</key>
+	<string>swen-ko.glif</string>
+	<key>sweng-ko</key>
+	<string>sweng-ko.glif</string>
+	<key>sweo-ko</key>
+	<string>sweo-ko.glif</string>
+	<key>sweoss-ko</key>
+	<string>sweoss-ko.glif</string>
+	<key>swi-ko</key>
+	<string>swi-ko.glif</string>
+	<key>swib-ko</key>
+	<string>swib-ko.glif</string>
+	<key>swig-ko</key>
+	<string>swig-ko.glif</string>
+	<key>swil-ko</key>
+	<string>swil-ko.glif</string>
+	<key>swim-ko</key>
+	<string>swim-ko.glif</string>
+	<key>swin-ko</key>
+	<string>swin-ko.glif</string>
+	<key>swing-ko</key>
+	<string>swing-ko.glif</string>
+	<key>swis-ko</key>
+	<string>swis-ko.glif</string>
+	<key>sya-ko</key>
+	<string>sya-ko.glif</string>
+	<key>syab-ko</key>
+	<string>syab-ko.glif</string>
+	<key>syae-ko</key>
+	<string>syae-ko.glif</string>
+	<key>syael-ko</key>
+	<string>syael-ko.glif</string>
+	<key>syaem-ko</key>
+	<string>syaem-ko.glif</string>
+	<key>syaen-ko</key>
+	<string>syaen-ko.glif</string>
+	<key>syaeng-ko</key>
+	<string>syaeng-ko.glif</string>
+	<key>syag-ko</key>
+	<string>syag-ko.glif</string>
+	<key>syal-ko</key>
+	<string>syal-ko.glif</string>
+	<key>syam-ko</key>
+	<string>syam-ko.glif</string>
+	<key>syan-ko</key>
+	<string>syan-ko.glif</string>
+	<key>syang-ko</key>
+	<string>syang-ko.glif</string>
+	<key>syas-ko</key>
+	<string>syas-ko.glif</string>
+	<key>sye-ko</key>
+	<string>sye-ko.glif</string>
+	<key>syel-ko</key>
+	<string>syel-ko.glif</string>
+	<key>syen-ko</key>
+	<string>syen-ko.glif</string>
+	<key>syeng-ko</key>
+	<string>syeng-ko.glif</string>
+	<key>syeo-ko</key>
+	<string>syeo-ko.glif</string>
+	<key>syeob-ko</key>
+	<string>syeob-ko.glif</string>
+	<key>syeog-ko</key>
+	<string>syeog-ko.glif</string>
+	<key>syeol-ko</key>
+	<string>syeol-ko.glif</string>
+	<key>syeom-ko</key>
+	<string>syeom-ko.glif</string>
+	<key>syeon-ko</key>
+	<string>syeon-ko.glif</string>
+	<key>syeong-ko</key>
+	<string>syeong-ko.glif</string>
+	<key>syeos-ko</key>
+	<string>syeos-ko.glif</string>
+	<key>syeoss-ko</key>
+	<string>syeoss-ko.glif</string>
+	<key>syo-ko</key>
+	<string>syo-ko.glif</string>
+	<key>syob-ko</key>
+	<string>syob-ko.glif</string>
+	<key>syog-ko</key>
+	<string>syog-ko.glif</string>
+	<key>syol-ko</key>
+	<string>syol-ko.glif</string>
+	<key>syom-ko</key>
+	<string>syom-ko.glif</string>
+	<key>syon-ko</key>
+	<string>syon-ko.glif</string>
+	<key>syong-ko</key>
+	<string>syong-ko.glif</string>
+	<key>syos-ko</key>
+	<string>syos-ko.glif</string>
+	<key>syu-ko</key>
+	<string>syu-ko.glif</string>
+	<key>syug-ko</key>
+	<string>syug-ko.glif</string>
+	<key>syul-ko</key>
+	<string>syul-ko.glif</string>
+	<key>syum-ko</key>
+	<string>syum-ko.glif</string>
+	<key>syung-ko</key>
+	<string>syung-ko.glif</string>
+	<key>syus-ko</key>
+	<string>syus-ko.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>ta-hira</key>
 	<string>ta-hira.glif</string>
 	<key>ta-kata</key>
 	<string>ta-kata.glif</string>
+	<key>ta-ko</key>
+	<string>ta-ko.glif</string>
+	<key>tab-ko</key>
+	<string>tab-ko.glif</string>
+	<key>tae-ko</key>
+	<string>tae-ko.glif</string>
+	<key>taeb-ko</key>
+	<string>taeb-ko.glif</string>
+	<key>taeg-ko</key>
+	<string>taeg-ko.glif</string>
+	<key>tael-ko</key>
+	<string>tael-ko.glif</string>
+	<key>taem-ko</key>
+	<string>taem-ko.glif</string>
+	<key>taen-ko</key>
+	<string>taen-ko.glif</string>
+	<key>taeng-ko</key>
+	<string>taeng-ko.glif</string>
+	<key>taes-ko</key>
+	<string>taes-ko.glif</string>
+	<key>taess-ko</key>
+	<string>taess-ko.glif</string>
+	<key>tag-ko</key>
+	<string>tag-ko.glif</string>
+	<key>tal-ko</key>
+	<string>tal-ko.glif</string>
+	<key>talg-ko</key>
+	<string>talg-ko.glif</string>
+	<key>tam-ko</key>
+	<string>tam-ko.glif</string>
+	<key>tan-ko</key>
+	<string>tan-ko.glif</string>
+	<key>tang-ko</key>
+	<string>tang-ko.glif</string>
+	<key>tas-ko</key>
+	<string>tas-ko.glif</string>
+	<key>tass-ko</key>
+	<string>tass-ko.glif</string>
 	<key>te-hira</key>
 	<string>te-hira.glif</string>
 	<key>te-kata</key>
 	<string>te-kata.glif</string>
+	<key>te-ko</key>
+	<string>te-ko.glif</string>
+	<key>teb-ko</key>
+	<string>teb-ko.glif</string>
+	<key>teg-ko</key>
+	<string>teg-ko.glif</string>
+	<key>tel-ko</key>
+	<string>tel-ko.glif</string>
+	<key>tem-ko</key>
+	<string>tem-ko.glif</string>
+	<key>ten-ko</key>
+	<string>ten-ko.glif</string>
+	<key>teng-ko</key>
+	<string>teng-ko.glif</string>
+	<key>teo-ko</key>
+	<string>teo-ko.glif</string>
+	<key>teob-ko</key>
+	<string>teob-ko.glif</string>
+	<key>teog-ko</key>
+	<string>teog-ko.glif</string>
+	<key>teol-ko</key>
+	<string>teol-ko.glif</string>
+	<key>teolm-ko</key>
+	<string>teolm-ko.glif</string>
+	<key>teom-ko</key>
+	<string>teom-ko.glif</string>
+	<key>teon-ko</key>
+	<string>teon-ko.glif</string>
+	<key>teong-ko</key>
+	<string>teong-ko.glif</string>
+	<key>teos-ko</key>
+	<string>teos-ko.glif</string>
+	<key>teoss-ko</key>
+	<string>teoss-ko.glif</string>
+	<key>tes-ko</key>
+	<string>tes-ko.glif</string>
+	<key>teu-ko</key>
+	<string>teu-ko.glif</string>
+	<key>teub-ko</key>
+	<string>teub-ko.glif</string>
+	<key>teud-ko</key>
+	<string>teud-ko.glif</string>
+	<key>teug-ko</key>
+	<string>teug-ko.glif</string>
+	<key>teul-ko</key>
+	<string>teul-ko.glif</string>
+	<key>teulm-ko</key>
+	<string>teulm-ko.glif</string>
+	<key>teum-ko</key>
+	<string>teum-ko.glif</string>
+	<key>teun-ko</key>
+	<string>teun-ko.glif</string>
+	<key>teus-ko</key>
+	<string>teus-ko.glif</string>
 	<key>thieuthCho-ko</key>
 	<string>thieuthC_ho-ko.glif</string>
+	<key>thieuthCompa-ko</key>
+	<string>thieuthC_ompa-ko.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>
@@ -838,34 +5250,160 @@
 	<string>ti-hira.glif</string>
 	<key>ti-kata</key>
 	<string>ti-kata.glif</string>
+	<key>ti-ko</key>
+	<string>ti-ko.glif</string>
+	<key>tib-ko</key>
+	<string>tib-ko.glif</string>
+	<key>tig-ko</key>
+	<string>tig-ko.glif</string>
 	<key>tikeutCho-ko</key>
 	<string>tikeutC_ho-ko.glif</string>
+	<key>tikeutCompa-ko</key>
+	<string>tikeutC_ompa-ko.glif</string>
+	<key>til-ko</key>
+	<string>til-ko.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tildecomb</key>
 	<string>tildecomb.glif</string>
+	<key>tim-ko</key>
+	<string>tim-ko.glif</string>
+	<key>tin-ko</key>
+	<string>tin-ko.glif</string>
+	<key>ting-ko</key>
+	<string>ting-ko.glif</string>
+	<key>tis-ko</key>
+	<string>tis-ko.glif</string>
 	<key>to-hira</key>
 	<string>to-hira.glif</string>
 	<key>to-kata</key>
 	<string>to-kata.glif</string>
+	<key>to-ko</key>
+	<string>to-ko.glif</string>
+	<key>tob-ko</key>
+	<string>tob-ko.glif</string>
+	<key>toe-ko</key>
+	<string>toe-ko.glif</string>
+	<key>toen-ko</key>
+	<string>toen-ko.glif</string>
+	<key>toeng-ko</key>
+	<string>toeng-ko.glif</string>
+	<key>toes-ko</key>
+	<string>toes-ko.glif</string>
+	<key>tog-ko</key>
+	<string>tog-ko.glif</string>
+	<key>tol-ko</key>
+	<string>tol-ko.glif</string>
+	<key>tom-ko</key>
+	<string>tom-ko.glif</string>
+	<key>ton-ko</key>
+	<string>ton-ko.glif</string>
+	<key>tong-ko</key>
+	<string>tong-ko.glif</string>
+	<key>top-ko</key>
+	<string>top-ko.glif</string>
+	<key>tos-ko</key>
+	<string>tos-ko.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>tu-hira</key>
 	<string>tu-hira.glif</string>
 	<key>tu-kata</key>
 	<string>tu-kata.glif</string>
+	<key>tu-ko</key>
+	<string>tu-ko.glif</string>
+	<key>tub-ko</key>
+	<string>tub-ko.glif</string>
+	<key>tug-ko</key>
+	<string>tug-ko.glif</string>
+	<key>tul-ko</key>
+	<string>tul-ko.glif</string>
+	<key>tum-ko</key>
+	<string>tum-ko.glif</string>
+	<key>tun-ko</key>
+	<string>tun-ko.glif</string>
+	<key>tung-ko</key>
+	<string>tung-ko.glif</string>
+	<key>tus-ko</key>
+	<string>tus-ko.glif</string>
 	<key>tusmall-hira</key>
 	<string>tusmall-hira.glif</string>
 	<key>tusmall-kata</key>
 	<string>tusmall-kata.glif</string>
+	<key>twa-ko</key>
+	<string>twa-ko.glif</string>
+	<key>twae-ko</key>
+	<string>twae-ko.glif</string>
+	<key>twan-ko</key>
+	<string>twan-ko.glif</string>
+	<key>twe-ko</key>
+	<string>twe-ko.glif</string>
+	<key>tweo-ko</key>
+	<string>tweo-ko.glif</string>
+	<key>tweoss-ko</key>
+	<string>tweoss-ko.glif</string>
+	<key>twi-ko</key>
+	<string>twi-ko.glif</string>
+	<key>twib-ko</key>
+	<string>twib-ko.glif</string>
+	<key>twig-ko</key>
+	<string>twig-ko.glif</string>
+	<key>twil-ko</key>
+	<string>twil-ko.glif</string>
+	<key>twim-ko</key>
+	<string>twim-ko.glif</string>
+	<key>twin-ko</key>
+	<string>twin-ko.glif</string>
+	<key>twing-ko</key>
+	<string>twing-ko.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+	<key>tya-ko</key>
+	<string>tya-ko.glif</string>
+	<key>tyang-ko</key>
+	<string>tyang-ko.glif</string>
+	<key>tye-ko</key>
+	<string>tye-ko.glif</string>
+	<key>tyen-ko</key>
+	<string>tyen-ko.glif</string>
+	<key>tyeo-ko</key>
+	<string>tyeo-ko.glif</string>
+	<key>tyeon-ko</key>
+	<string>tyeon-ko.glif</string>
+	<key>tyeoss-ko</key>
+	<string>tyeoss-ko.glif</string>
+	<key>tyi-ko</key>
+	<string>tyi-ko.glif</string>
+	<key>tyib-ko</key>
+	<string>tyib-ko.glif</string>
+	<key>tyil-ko</key>
+	<string>tyil-ko.glif</string>
+	<key>tyim-ko</key>
+	<string>tyim-ko.glif</string>
+	<key>tyin-ko</key>
+	<string>tyin-ko.glif</string>
+	<key>tyo-ko</key>
+	<string>tyo-ko.glif</string>
+	<key>tyu-ko</key>
+	<string>tyu-ko.glif</string>
+	<key>tyul-ko</key>
+	<string>tyul-ko.glif</string>
+	<key>tyum-ko</key>
+	<string>tyum-ko.glif</string>
+	<key>tyun-ko</key>
+	<string>tyun-ko.glif</string>
+	<key>tyung-ko</key>
+	<string>tyung-ko.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>u-hira</key>
 	<string>u-hira.glif</string>
 	<key>u-kata</key>
 	<string>u-kata.glif</string>
+	<key>u-ko</key>
+	<string>u-ko.glif</string>
+	<key>uCompa-ko</key>
+	<string>uC_ompa-ko.glif</string>
 	<key>uJung-ko</key>
 	<string>uJ_ung-ko.glif</string>
 	<key>u_n_o_w_n_a.liga</key>
@@ -922,14 +5460,30 @@
 	<string>u_n_o_w_n_z.liga.glif</string>
 	<key>uacute</key>
 	<string>uacute.glif</string>
+	<key>ub-ko</key>
+	<string>ub-ko.glif</string>
 	<key>ucircumflex</key>
 	<string>ucircumflex.glif</string>
 	<key>udieresis</key>
 	<string>udieresis.glif</string>
+	<key>ug-ko</key>
+	<string>ug-ko.glif</string>
 	<key>ugrave</key>
 	<string>ugrave.glif</string>
+	<key>ul-ko</key>
+	<string>ul-ko.glif</string>
+	<key>ulg-ko</key>
+	<string>ulg-ko.glif</string>
+	<key>ulm-ko</key>
+	<string>ulm-ko.glif</string>
+	<key>um-ko</key>
+	<string>um-ko.glif</string>
+	<key>un-ko</key>
+	<string>un-ko.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
+	<key>ung-ko</key>
+	<string>ung-ko.glif</string>
 	<key>uni5186</key>
 	<string>uni5186.glif</string>
 	<key>upArrow</key>
@@ -938,6 +5492,8 @@
 	<string>upB_lackT_riangle.glif</string>
 	<key>upDownArrow</key>
 	<string>upD_ownA_rrow.glif</string>
+	<key>us-ko</key>
+	<string>us-ko.glif</string>
 	<key>usmall-hira</key>
 	<string>usmall-hira.glif</string>
 	<key>usmall-kata</key>
@@ -970,16 +5526,50 @@
 	<string>wa-hira.glif</string>
 	<key>wa-kata</key>
 	<string>wa-kata.glif</string>
+	<key>wa-ko</key>
+	<string>wa-ko.glif</string>
+	<key>waCompa-ko</key>
+	<string>waC_ompa-ko.glif</string>
 	<key>waJung-ko</key>
 	<string>waJ_ung-ko.glif</string>
+	<key>wab-ko</key>
+	<string>wab-ko.glif</string>
 	<key>wacute</key>
 	<string>wacute.glif</string>
+	<key>wae-ko</key>
+	<string>wae-ko.glif</string>
+	<key>waeCompa-ko</key>
+	<string>waeC_ompa-ko.glif</string>
 	<key>waeJung-ko</key>
 	<string>waeJ_ung-ko.glif</string>
+	<key>waeg-ko</key>
+	<string>waeg-ko.glif</string>
+	<key>waem-ko</key>
+	<string>waem-ko.glif</string>
+	<key>waen-ko</key>
+	<string>waen-ko.glif</string>
+	<key>waeng-ko</key>
+	<string>waeng-ko.glif</string>
+	<key>waes-ko</key>
+	<string>waes-ko.glif</string>
+	<key>wag-ko</key>
+	<string>wag-ko.glif</string>
+	<key>wal-ko</key>
+	<string>wal-ko.glif</string>
+	<key>wam-ko</key>
+	<string>wam-ko.glif</string>
+	<key>wan-ko</key>
+	<string>wan-ko.glif</string>
+	<key>wang-ko</key>
+	<string>wang-ko.glif</string>
+	<key>was-ko</key>
+	<string>was-ko.glif</string>
 	<key>wasmall-hira</key>
 	<string>wasmall-hira.glif</string>
 	<key>wasmall-kata</key>
 	<string>wasmall-kata.glif</string>
+	<key>wass-ko</key>
+	<string>wass-ko.glif</string>
 	<key>wcircumflex</key>
 	<string>wcircumflex.glif</string>
 	<key>wdieresis</key>
@@ -988,18 +5578,70 @@
 	<string>we-hira.glif</string>
 	<key>we-kata</key>
 	<string>we-kata.glif</string>
+	<key>we-ko</key>
+	<string>we-ko.glif</string>
+	<key>weCompa-ko</key>
+	<string>weC_ompa-ko.glif</string>
 	<key>weJung-ko</key>
 	<string>weJ_ung-ko.glif</string>
+	<key>web-ko</key>
+	<string>web-ko.glif</string>
+	<key>weg-ko</key>
+	<string>weg-ko.glif</string>
+	<key>wel-ko</key>
+	<string>wel-ko.glif</string>
+	<key>wem-ko</key>
+	<string>wem-ko.glif</string>
+	<key>wen-ko</key>
+	<string>wen-ko.glif</string>
+	<key>weng-ko</key>
+	<string>weng-ko.glif</string>
+	<key>weo-ko</key>
+	<string>weo-ko.glif</string>
+	<key>weoCompa-ko</key>
+	<string>weoC_ompa-ko.glif</string>
 	<key>weoJung-ko</key>
 	<string>weoJ_ung-ko.glif</string>
+	<key>weob-ko</key>
+	<string>weob-ko.glif</string>
+	<key>weog-ko</key>
+	<string>weog-ko.glif</string>
+	<key>weol-ko</key>
+	<string>weol-ko.glif</string>
+	<key>weom-ko</key>
+	<string>weom-ko.glif</string>
+	<key>weon-ko</key>
+	<string>weon-ko.glif</string>
+	<key>weong-ko</key>
+	<string>weong-ko.glif</string>
+	<key>weoss-ko</key>
+	<string>weoss-ko.glif</string>
 	<key>wgrave</key>
 	<string>wgrave.glif</string>
 	<key>wi-hira</key>
 	<string>wi-hira.glif</string>
 	<key>wi-kata</key>
 	<string>wi-kata.glif</string>
+	<key>wi-ko</key>
+	<string>wi-ko.glif</string>
+	<key>wiCompa-ko</key>
+	<string>wiC_ompa-ko.glif</string>
 	<key>wiJung-ko</key>
 	<string>wiJ_ung-ko.glif</string>
+	<key>wib-ko</key>
+	<string>wib-ko.glif</string>
+	<key>wig-ko</key>
+	<string>wig-ko.glif</string>
+	<key>wil-ko</key>
+	<string>wil-ko.glif</string>
+	<key>wim-ko</key>
+	<string>wim-ko.glif</string>
+	<key>win-ko</key>
+	<string>win-ko.glif</string>
+	<key>wing-ko</key>
+	<string>wing-ko.glif</string>
+	<key>wis-ko</key>
+	<string>wis-ko.glif</string>
 	<key>wo-hira</key>
 	<string>wo-hira.glif</string>
 	<key>wo-kata</key>
@@ -1012,36 +5654,150 @@
 	<string>ya-hira.glif</string>
 	<key>ya-kata</key>
 	<string>ya-kata.glif</string>
+	<key>ya-ko</key>
+	<string>ya-ko.glif</string>
+	<key>yaCompa-ko</key>
+	<string>yaC_ompa-ko.glif</string>
 	<key>yaJung-ko</key>
 	<string>yaJ_ung-ko.glif</string>
+	<key>yab-ko</key>
+	<string>yab-ko.glif</string>
 	<key>yacute</key>
 	<string>yacute.glif</string>
+	<key>yae-ko</key>
+	<string>yae-ko.glif</string>
+	<key>yaeCompa-ko</key>
+	<string>yaeC_ompa-ko.glif</string>
 	<key>yaeJung-ko</key>
 	<string>yaeJ_ung-ko.glif</string>
+	<key>yaeb-ko</key>
+	<string>yaeb-ko.glif</string>
+	<key>yael-ko</key>
+	<string>yael-ko.glif</string>
+	<key>yaen-ko</key>
+	<string>yaen-ko.glif</string>
+	<key>yag-ko</key>
+	<string>yag-ko.glif</string>
+	<key>yah-ko</key>
+	<string>yah-ko.glif</string>
+	<key>yal-ko</key>
+	<string>yal-ko.glif</string>
+	<key>yalb-ko</key>
+	<string>yalb-ko.glif</string>
+	<key>yam-ko</key>
+	<string>yam-ko.glif</string>
+	<key>yan-ko</key>
+	<string>yan-ko.glif</string>
+	<key>yang-ko</key>
+	<string>yang-ko.glif</string>
+	<key>yas-ko</key>
+	<string>yas-ko.glif</string>
 	<key>yasmall-hira</key>
 	<string>yasmall-hira.glif</string>
 	<key>yasmall-kata</key>
 	<string>yasmall-kata.glif</string>
+	<key>yat-ko</key>
+	<string>yat-ko.glif</string>
 	<key>ycircumflex</key>
 	<string>ycircumflex.glif</string>
 	<key>ydieresis</key>
 	<string>ydieresis.glif</string>
+	<key>ye-ko</key>
+	<string>ye-ko.glif</string>
+	<key>yeCompa-ko</key>
+	<string>yeC_ompa-ko.glif</string>
 	<key>yeJung-ko</key>
 	<string>yeJ_ung-ko.glif</string>
+	<key>yeb-ko</key>
+	<string>yeb-ko.glif</string>
+	<key>yel-ko</key>
+	<string>yel-ko.glif</string>
+	<key>yem-ko</key>
+	<string>yem-ko.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
+	<key>yen-ko</key>
+	<string>yen-ko.glif</string>
+	<key>yeo-ko</key>
+	<string>yeo-ko.glif</string>
+	<key>yeoCompa-ko</key>
+	<string>yeoC_ompa-ko.glif</string>
 	<key>yeoJung-ko</key>
 	<string>yeoJ_ung-ko.glif</string>
+	<key>yeob-ko</key>
+	<string>yeob-ko.glif</string>
+	<key>yeobs-ko</key>
+	<string>yeobs-ko.glif</string>
+	<key>yeog-ko</key>
+	<string>yeog-ko.glif</string>
+	<key>yeogg-ko</key>
+	<string>yeogg-ko.glif</string>
+	<key>yeoh-ko</key>
+	<string>yeoh-ko.glif</string>
+	<key>yeol-ko</key>
+	<string>yeol-ko.glif</string>
+	<key>yeolb-ko</key>
+	<string>yeolb-ko.glif</string>
+	<key>yeolm-ko</key>
+	<string>yeolm-ko.glif</string>
+	<key>yeom-ko</key>
+	<string>yeom-ko.glif</string>
+	<key>yeon-ko</key>
+	<string>yeon-ko.glif</string>
+	<key>yeong-ko</key>
+	<string>yeong-ko.glif</string>
+	<key>yeop-ko</key>
+	<string>yeop-ko.glif</string>
+	<key>yeos-ko</key>
+	<string>yeos-ko.glif</string>
+	<key>yeoss-ko</key>
+	<string>yeoss-ko.glif</string>
+	<key>yeot-ko</key>
+	<string>yeot-ko.glif</string>
+	<key>yes-ko</key>
+	<string>yes-ko.glif</string>
+	<key>yess-ko</key>
+	<string>yess-ko.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
+	<key>yi-ko</key>
+	<string>yi-ko.glif</string>
+	<key>yiCompa-ko</key>
+	<string>yiC_ompa-ko.glif</string>
 	<key>yiJung-ko</key>
 	<string>yiJ_ung-ko.glif</string>
+	<key>yil-ko</key>
+	<string>yil-ko.glif</string>
+	<key>yim-ko</key>
+	<string>yim-ko.glif</string>
+	<key>yin-ko</key>
+	<string>yin-ko.glif</string>
+	<key>yis-ko</key>
+	<string>yis-ko.glif</string>
 	<key>yo-hira</key>
 	<string>yo-hira.glif</string>
 	<key>yo-kata</key>
 	<string>yo-kata.glif</string>
+	<key>yo-ko</key>
+	<string>yo-ko.glif</string>
+	<key>yoCompa-ko</key>
+	<string>yoC_ompa-ko.glif</string>
 	<key>yoJung-ko</key>
 	<string>yoJ_ung-ko.glif</string>
+	<key>yob-ko</key>
+	<string>yob-ko.glif</string>
+	<key>yog-ko</key>
+	<string>yog-ko.glif</string>
+	<key>yol-ko</key>
+	<string>yol-ko.glif</string>
+	<key>yom-ko</key>
+	<string>yom-ko.glif</string>
+	<key>yon-ko</key>
+	<string>yon-ko.glif</string>
+	<key>yong-ko</key>
+	<string>yong-ko.glif</string>
+	<key>yos-ko</key>
+	<string>yos-ko.glif</string>
 	<key>yosmall-hira</key>
 	<string>yosmall-hira.glif</string>
 	<key>yosmall-kata</key>
@@ -1050,8 +5806,28 @@
 	<string>yu-hira.glif</string>
 	<key>yu-kata</key>
 	<string>yu-kata.glif</string>
+	<key>yu-ko</key>
+	<string>yu-ko.glif</string>
+	<key>yuCompa-ko</key>
+	<string>yuC_ompa-ko.glif</string>
 	<key>yuJung-ko</key>
 	<string>yuJ_ung-ko.glif</string>
+	<key>yub-ko</key>
+	<string>yub-ko.glif</string>
+	<key>yuc-ko</key>
+	<string>yuc-ko.glif</string>
+	<key>yug-ko</key>
+	<string>yug-ko.glif</string>
+	<key>yul-ko</key>
+	<string>yul-ko.glif</string>
+	<key>yum-ko</key>
+	<string>yum-ko.glif</string>
+	<key>yun-ko</key>
+	<string>yun-ko.glif</string>
+	<key>yung-ko</key>
+	<string>yung-ko.glif</string>
+	<key>yus-ko</key>
+	<string>yus-ko.glif</string>
 	<key>yusmall-hira</key>
 	<string>yusmall-hira.glif</string>
 	<key>yusmall-kata</key>
