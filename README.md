@@ -3,6 +3,10 @@ This font is an extended clone of the original font shipped with Pokemon R/G/B/Y
 
 *Install* `npm install pokemon-font`
 
+## Donate
+BTC ₿ 32xrhaLRJ7DWgAc5umnkVqa5PFqcDhUisK
+ETH Ξ 0x132F77Ab366A30614cD08405aC5F10F260525332
+
 ## Usage
 This is a 'pixel' font, but modern font formats are actually vector based, so the font uses vector calculations to create little squares. This brings all the same issues as old-fashioned pixel fonts in terms of rendering it properly.
 
