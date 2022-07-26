@@ -1,13 +1,12 @@
-# pokemon-font v1.8.2
+# pokemon-font is now Johto 🎊
+
+➡️ [https://superpencil.com/work/johto-font](https://superpencil.com/work/johto-font?utm_campaign=ghjl)
+
+# johto-font-legacy v1.8.2
 
 This font is an extended clone of the original font shipped with Pokemon R/G/B/Y for the GAME BOY in the 90's. It was made into a proper, modern, Unicode font and was extended with more language support and ligatures because it was needed for Pokemon-Mini.
 
 _Install_ `npm install pokemon-font`
-
-## Donate
-
-- BTC ₿ 32xrhaLRJ7DWgAc5umnkVqa5PFqcDhUisK
-- ETH Ξ 0x132F77Ab366A30614cD08405aC5F10F260525332
 
 ## Usage
 
@@ -77,17 +76,3 @@ I extended support to cover the full Unicode blocks for Hiragana and Katakana, w
 
 ![Alt text](/img/Japanese.png?raw=true "pokemon-font Font Japanese Glyphs")
 
-## What we learned
-
-While making this font I learned how to create SVG shapes with raw code, how modern fonts are encoded, how to convert between font formats, how to deal with size, kerning, ligatures, etc. This is also the first time I'm publishing a package to npm and bower.
-
-We used [Glyphs App](https://glyphsapp.com) in the end to manage the `.ufo` master 'file'/folder.
-
-## License
-
-Copyright (c) 2016-2017, Superpencil (https://superpencil.com | support@superpencil.com>),
-with pokemon-font.
-
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is included in the repository, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
